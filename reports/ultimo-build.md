@@ -1,25 +1,25 @@
-# Relatório do build (18/10/2026 15:54 UTC)
+# Relatório do build (18/10/2026 22:12 UTC)
 
 ## Regiões
 
 | Região | Linhas antes | Linhas agora | Restaurantes | Entraram | Saíram | Tamanho |
 |---|---:|---:|---:|---:|---:|---:|
-| `sp/grande-sp` | 2478 | 2478 | 2474 | ? | ? | 845 KB |
-| `sp/capital` | 2437 | 6349 | 6345 | ? | ? | 1958 KB |
-| `sp/metropolitana` | 319 | 2382 | 2382 | ? | ? | 709 KB |
-| `sp/campinas` | 55 | 1303 | 1303 | ? | ? | 380 KB |
-| `sp/litoral` | 24 | 756 | 756 | ? | ? | 221 KB |
-| `sp/interior` | 202 | 4941 | 4937 | ? | ? | 1457 KB |
+| `sp/grande-sp` | 2478 | 2478 | 2474 | 0 | 0 | 845 KB |
+| `sp/capital` | 6349 | 6393 | 6389 | 44 | 0 | 1972 KB |
+| `sp/metropolitana` | 2382 | 2415 | 2415 | 33 | 0 | 720 KB |
+| `sp/campinas` | 1303 | 1318 | 1318 | 15 | 0 | 385 KB |
+| `sp/litoral` | 756 | 771 | 771 | 15 | 0 | 226 KB |
+| `sp/interior` | 4941 | 5001 | 4997 | 60 | 0 | 1476 KB |
 
 ## Links
 
 | Origem:status | Linhas |
 |---|---:|
-| overture:falhando | 9863 |
-| overture:incerto | 5106 |
-| overture:ok | 11695 |
-| overture:omitidas | 47677 |
-| overture:pendente | 33871 |
+| overture:falhando | 9964 |
+| overture:incerto | 5388 |
+| overture:ok | 11696 |
+| overture:omitidas | 47510 |
+| overture:pendente | 33487 |
 | overture:reparadas | 2611 |
 | overture:sem link | 395 |
 | planilha:falhando | 118 |

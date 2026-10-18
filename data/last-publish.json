@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:54:37Z",
+  "generated_at": "2026-10-18T22:12:52Z",
   "regions": {
     "sp/grande-sp": {
       "rows": 2478,
@@ -8,34 +8,34 @@
       "updated_at": "2026-10-18T15:54:36Z"
     },
     "sp/capital": {
-      "rows": 6349,
-      "restaurants": 6345,
-      "sha256": "c5429925314f07f4d3d674f52828f7ca27aab9cec4955092d8c82baaaeb15f86",
-      "updated_at": "2026-10-18T15:54:36Z"
+      "rows": 6393,
+      "restaurants": 6389,
+      "sha256": "c0821deb0d754b040a832f86587fe40fece53c94c341953a24d9685ef9cfffae",
+      "updated_at": "2026-10-18T22:12:49Z"
     },
     "sp/metropolitana": {
-      "rows": 2382,
-      "restaurants": 2382,
-      "sha256": "67cf59e95a536693afda1f73492870b8811cdb18d639eacdfc55a36a2c024dd1",
-      "updated_at": "2026-10-18T15:54:36Z"
+      "rows": 2415,
+      "restaurants": 2415,
+      "sha256": "b3057fc637c24efd0eec4a7871fbb509257180a2e735b7b104633d449e7c346f",
+      "updated_at": "2026-10-18T22:12:49Z"
     },
     "sp/campinas": {
-      "rows": 1303,
-      "restaurants": 1303,
-      "sha256": "ae1491de3ea0ba75d6f7af1b34fc6b156e6e8d2f2acb76688311d14960967732",
-      "updated_at": "2026-10-18T15:54:36Z"
+      "rows": 1318,
+      "restaurants": 1318,
+      "sha256": "2afbdce0f2dab067c73f6d70a3bfdca2d7782b975e75e4cffc5c2e7c60a1817a",
+      "updated_at": "2026-10-18T22:12:49Z"
     },
     "sp/litoral": {
-      "rows": 756,
-      "restaurants": 756,
-      "sha256": "24609955cfe7b807787966fc0c0c8dd829a31f279d622f028c905bf18f628773",
-      "updated_at": "2026-10-18T15:54:36Z"
+      "rows": 771,
+      "restaurants": 771,
+      "sha256": "90c5e4c81f590c6ffc92ef762dc8d528d5ce04579c358ae057c67f2f9adfbea1",
+      "updated_at": "2026-10-18T22:12:49Z"
     },
     "sp/interior": {
-      "rows": 4941,
-      "restaurants": 4937,
-      "sha256": "5326ca38d647fd23b140999264b9b4923fdcbc496754118c8005dc96f1dfaebb",
-      "updated_at": "2026-10-18T15:54:37Z"
+      "rows": 5001,
+      "restaurants": 4997,
+      "sha256": "9fc284ba655f808b092eb56fe203586dc1ff088687889eb2e5d61c14259cf0af",
+      "updated_at": "2026-10-18T22:12:49Z"
     }
   }
 }
