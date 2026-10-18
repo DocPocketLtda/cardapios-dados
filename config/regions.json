@@ -1,0 +1,102 @@
+{
+  "pages_base_url": "https://docpocketltda.github.io/cardapios-dados",
+  "sheet_csv_url": "https://docs.google.com/spreadsheets/d/1AIfTkfTciZ_IkvXbP2djdIcAggYAnrloy33nFVctsxQ/export?format=csv",
+
+  "overture": {
+    "bucket": "overturemaps-us-west-2",
+    "s3_region": "us-west-2",
+    "basic_categories": ["restaurant", "casual_eatery", "fast_food_restaurant", "cafe", "coffee_shop",
+                         "food_truck_stand", "food_court", "food_and_drink"],
+    "exclude_taxonomy": ["ice_cream_shop", "gelato_shop", "frozen_yogurt_shop", "shaved_ice_shop", "candy_store",
+                         "chocolatier", "smoothie_juice_bar", "bubble_tea_shop", "internet_cafe", "winery",
+                         "distillery", "brewery", "airport_lounge", "hookah_bar", "lounge", "delicatessen"],
+    "min_confidence": 0.8,
+    "min_confidence_with_website": 0.7
+  },
+
+  "merge": {
+    "sheet_false_is_blacklist": true
+  },
+
+  "publish": {
+    "max_row_loss": 0.20,
+    "min_rows_for_guard": 50,
+    "new_places_need_website": true
+  },
+
+  "areas": {
+    "sp-estado": {
+      "name": "Estado de São Paulo",
+      "uf": "SP",
+      "state_name": "São Paulo",
+      "bbox": {"min_lat": -25.40, "min_lon": -53.20, "max_lat": -19.70, "max_lon": -44.10},
+      "overture": {"region": "SP"},
+      "files": [
+        {
+          "id": "sp/grande-sp",
+          "name": "Grande São Paulo (base da planilha)",
+          "phase": 0,
+          "only_sheet": true,
+          "center": {"lat": -23.5505, "lon": -46.6333},
+          "note": "Fase 0: substitui o CSV da planilha que o app baixa hoje (Remote Config sourceURL)."
+        },
+        {
+          "id": "sp/capital",
+          "name": "São Paulo (capital)",
+          "phase": 1,
+          "center": {"lat": -23.5505, "lon": -46.6333},
+          "municipalities": ["São Paulo"]
+        },
+        {
+          "id": "sp/metropolitana",
+          "name": "Região Metropolitana de São Paulo (sem a capital)",
+          "phase": 1,
+          "center": {"lat": -23.5329, "lon": -46.7917},
+          "municipalities": ["Arujá", "Barueri", "Biritiba-Mirim", "Caieiras", "Cajamar", "Carapicuíba", "Cotia",
+            "Diadema", "Embu das Artes", "Embu-Guaçu", "Ferraz de Vasconcelos", "Francisco Morato",
+            "Franco da Rocha", "Guararema", "Guarulhos", "Itapecerica da Serra", "Itapevi", "Itaquaquecetuba",
+            "Jandira", "Juquitiba", "Mairiporã", "Mauá", "Mogi das Cruzes", "Osasco", "Pirapora do Bom Jesus",
+            "Poá", "Ribeirão Pires", "Rio Grande da Serra", "Salesópolis", "Santa Isabel", "Santana de Parnaíba",
+            "Santo André", "São Bernardo do Campo", "São Caetano do Sul", "São Lourenço da Serra", "Suzano",
+            "Taboão da Serra", "Vargem Grande Paulista"]
+        },
+        {
+          "id": "sp/campinas",
+          "name": "Região Metropolitana de Campinas",
+          "phase": 1,
+          "center": {"lat": -22.9056, "lon": -47.0608},
+          "municipalities": ["Americana", "Artur Nogueira", "Campinas", "Cosmópolis", "Engenheiro Coelho", "Holambra",
+            "Hortolândia", "Indaiatuba", "Itatiba", "Jaguariúna", "Monte Mor", "Morungaba", "Nova Odessa",
+            "Paulínia", "Pedreira", "Santa Bárbara d'Oeste", "Santo Antônio de Posse", "Sumaré", "Valinhos",
+            "Vinhedo"]
+        },
+        {
+          "id": "sp/litoral",
+          "name": "Baixada Santista e Litoral Norte",
+          "phase": 1,
+          "center": {"lat": -23.9608, "lon": -46.3336},
+          "municipalities": ["Bertioga", "Cubatão", "Guarujá", "Itanhaém", "Mongaguá", "Peruíbe", "Praia Grande",
+            "Santos", "São Vicente", "Caraguatatuba", "Ilhabela", "São Sebastião", "Ubatuba"]
+        },
+        {
+          "id": "sp/interior",
+          "name": "Interior de São Paulo",
+          "phase": 1,
+          "default": true
+        }
+      ]
+    }
+  },
+
+  "future_areas_example": {
+    "rj-capital": {
+      "name": "Rio de Janeiro (capital)",
+      "uf": "RJ",
+      "state_name": "Rio de Janeiro",
+      "bbox": {"min_lat": -23.09, "min_lon": -43.80, "max_lat": -22.74, "max_lon": -43.09},
+      "overture": {"region": "RJ", "localities": ["Rio de Janeiro"]},
+      "files": [{"id": "rj/capital", "name": "Rio de Janeiro", "phase": 2, "default": true,
+                 "center": {"lat": -22.9068, "lon": -43.1729}}]
+    }
+  }
+}

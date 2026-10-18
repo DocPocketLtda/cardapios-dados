@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-10-18T14:10:10Z",
+  "regions": {
+    "sp/grande-sp": {
+      "rows": 2478,
+      "restaurants": 2474,
+      "sha256": "25a6ec06bb03c394f4e1015bcc01cf3958b3602c214d536d40b93f3be3df23a0",
+      "updated_at": "2026-10-18T14:06:08Z"
+    },
+    "sp/capital": {
+      "rows": 2437,
+      "restaurants": 2433,
+      "sha256": "7a9e9e821d7da1bf65f4c1969fbc2393a59c6c932ff26d5f2c6737190df5f1c6",
+      "updated_at": "2026-10-18T14:06:08Z"
+    },
+    "sp/metropolitana": {
+      "rows": 319,
+      "restaurants": 319,
+      "sha256": "cb56dd3074e2d18a4afde879d6b6336daa0db21b744d3694a445147aefacb69d",
+      "updated_at": "2026-10-18T14:06:08Z"
+    },
+    "sp/campinas": {
+      "rows": 55,
+      "restaurants": 55,
+      "sha256": "24ea810eaf5eeacd28a68e2b3e5152ad068aad3b83a87449dd931fa093f8c89c",
+      "updated_at": "2026-10-18T14:06:08Z"
+    },
+    "sp/litoral": {
+      "rows": 24,
+      "restaurants": 24,
+      "sha256": "4d2a08b92a26c5b959d2bce7068736a2b0b2c7ee10c3ed85dc83d92554ead3e4",
+      "updated_at": "2026-10-18T14:06:08Z"
+    },
+    "sp/interior": {
+      "rows": 202,
+      "restaurants": 202,
+      "sha256": "321732772b8678c64498a0f38dc9f04bf6c1ac47bb49787060f48825eb5cc30d",
+      "updated_at": "2026-10-18T14:06:08Z"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# Only fetch-overture needs a third-party package; everything else is the standard library.
+duckdb>=1.5,<2

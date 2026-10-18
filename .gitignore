@@ -1,0 +1,11 @@
+# Downloads and intermediate files (Overture Parquet is hundreds of MB)
+work/
+public/
+*.parquet
+*.tmp
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.pytest_cache/
