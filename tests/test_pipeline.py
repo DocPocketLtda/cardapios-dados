@@ -11,7 +11,7 @@ from cardapios_dados.links import (FetchResult, LinkCache, Robots, classify, ext
                                    is_publishable, is_store_url, link_kind, link_rank, update_entry)
 from cardapios_dados.match import (Place, dedupe_sources, jaro_winkler, match_places, name_similarity, names_match,
                                    phone_key, token_set_ratio)
-from cardapios_dados.publish import file_for, guard
+from cardapios_dados.publish import coverage_cells, file_for, guard, region_entry, robust_bbox
 
 CONFIG = {"publish": {"max_row_loss": 0.2, "min_rows_for_guard": 50}}
 
@@ -249,6 +249,21 @@ class PublishTests(unittest.TestCase):
         self.assertEqual(file_for({"_municipality": "Santa Barbara d'Oeste"}, files)["id"], "sp/campinas")
         self.assertEqual(file_for({"_municipality": "Bauru"}, files)["id"], "sp/interior")
         self.assertEqual(file_for({"_municipality": ""}, files)["id"], "sp/interior")
+
+    def test_coverage_cells_and_robust_bbox(self):
+        points = [(-23.55, -46.63), (-23.56, -46.64), (-22.91, -47.06)] * 40 + [(0.9, -52.0)]
+        self.assertEqual(coverage_cells(points[:3]), ["-236,-467", "-230,-471"])
+        box = robust_bbox(points)
+        self.assertEqual((box["max_lat"], box["min_lon"]), (-22.91, -47.06))
+        self.assertIsNone(robust_bbox([]))
+
+    def test_region_entry_for_the_app(self):
+        spec = {"id": "sp/capital", "name": "São Paulo (capital)", "phase": 1, "app_default": True}
+        rows = [{"name": "A", "address": "Rua 1", "latitude": "-23.55", "longitude": "-46.63"}]
+        entry = region_entry(spec, "sp-estado", rows, b"x", "https://h", {})
+        self.assertTrue(entry["app_default"])
+        self.assertEqual(entry["cells"], ["-236,-467"])
+        self.assertEqual(entry["url"], "https://h/sp/capital.csv")
 
 
 if __name__ == "__main__":

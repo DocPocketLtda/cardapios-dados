@@ -9,6 +9,7 @@
 """
 
 import hashlib
+import math
 import io
 import os
 import shutil
@@ -121,6 +122,28 @@ def csv_bytes(rows, columns):
     return buffer.getvalue().encode("utf-8")
 
 
+CELL_SIZE = 0.1  # degrees (~11 km): the app picks regions by the cells around the user
+
+
+def coverage_cells(points):
+    """Grid cells ("-236,-467" = floor(lat*10), floor(lon*10)) with at least one restaurant.
+    The app downloads the regions whose cells touch the user's cell or its 8 neighbors, and
+    treats the user as inside the covered area under the same rule."""
+    cells = {(math.floor(a / CELL_SIZE), math.floor(b / CELL_SIZE)) for a, b in points}
+    return [f"{a},{b}" for a, b in sorted(cells)]
+
+
+def robust_bbox(points):
+    """Bounding box from the 1st to the 99th percentile, so a few bad coordinates don't stretch it."""
+    if not points:
+        return None
+    lats = sorted(p[0] for p in points)
+    lons = sorted(p[1] for p in points)
+    low, high = int(0.01 * (len(points) - 1)), int(0.99 * (len(points) - 1) + 0.5)
+    return {"min_lat": round(lats[low], 5), "min_lon": round(lons[low], 5),
+            "max_lat": round(lats[high], 5), "max_lon": round(lons[high], 5)}
+
+
 def region_entry(spec, area_id, rows, data, base_url, previous, area_bbox=None):
     points = [(to_float(r["latitude"]), to_float(r["longitude"])) for r in rows]
     # Sheet typos (lat 0.9, -30.0) would blow up the bbox: only points inside the area count.
@@ -133,10 +156,10 @@ def region_entry(spec, area_id, rows, data, base_url, previous, area_bbox=None):
                                      "lon": round(statistics.median(p[1] for p in points), 5)} if points else None)
     return {
         "id": spec["id"], "name": spec["name"], "area": area_id, "phase": spec.get("phase", 1),
-        "bbox": ({"min_lat": round(min(p[0] for p in points), 5), "min_lon": round(min(p[1] for p in points), 5),
-                  "max_lat": round(max(p[0] for p in points), 5), "max_lon": round(max(p[1] for p in points), 5)}
-                 if points else None),
+        "app_default": bool(spec.get("app_default", False)),
+        "bbox": robust_bbox(points),
         "center": center,
+        "cells": coverage_cells(points),
         "url": f"{base_url}/{spec['id']}.csv",
         "rows": len(rows),
         "restaurants": len({restaurant_key(r["name"], r["address"]) for r in rows}),

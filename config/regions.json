@@ -44,6 +44,7 @@
           "id": "sp/capital",
           "name": "São Paulo (capital)",
           "phase": 1,
+          "app_default": true,
           "center": {"lat": -23.5505, "lon": -46.6333},
           "municipalities": ["São Paulo"]
         },
@@ -51,6 +52,7 @@
           "id": "sp/metropolitana",
           "name": "Região Metropolitana de São Paulo (sem a capital)",
           "phase": 1,
+          "app_default": true,
           "center": {"lat": -23.5329, "lon": -46.7917},
           "municipalities": ["Arujá", "Barueri", "Biritiba-Mirim", "Caieiras", "Cajamar", "Carapicuíba", "Cotia",
             "Diadema", "Embu das Artes", "Embu-Guaçu", "Ferraz de Vasconcelos", "Francisco Morato",

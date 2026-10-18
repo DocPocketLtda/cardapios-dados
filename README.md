@@ -30,7 +30,7 @@ A arquitetura segue o relatório `output/dados/pesquisa-base-restaurantes.md` do
    - **Quebrado só depois de falhas em dias diferentes:** 2 dias para 404, DNS, estacionado, soft 404 ou redirect; 3 dias para 5xx ou timeout. Um ok zera a contagem.
    - Rechecagem: `ok` a cada 30 dias, `falhando` no dia seguinte, `incerto` a cada 7 dias. A ordem é falhando, depois novos (planilha antes do Overture), depois vencidos.
 5. **`repair-links`**: procura substituto para link quebrado na ordem do relatório (3.2). Primeiro, link de plataforma em outra fonte, na home do site ou numa página Linktree/beacons. Depois, página "cardápio/menu" ou PDF achado no HTML, ou `/cardapio`, `/menu` e `/cardapio.pdf`. Depois, a home do site, se estiver no ar. Por último, rede social (só para linhas da planilha). Lugares novos que só têm a home também recebem um link de cardápio melhor. O resultado fica em `data/repairs.csv`.
-6. **`publish`**: gera um CSV por região no formato do app, `index.json` (id, nome, bbox, centro, url, linhas, restaurantes, bytes, sha256, updated_at), `index.html` e as atribuições.
+6. **`publish`**: gera um CSV por região no formato do app, `index.json` (id, nome, fase, `app_default`, bbox sem os 1% de pontos extremos, centro, `cells`, url, linhas, restaurantes, bytes, sha256, updated_at). `cells` lista as células de 0,1° (~11 km, chave `"floor(lat*10),floor(lon*10)"`) que têm restaurantes da região. O app escolhe as regiões cujas células tocam a célula do usuário ou uma vizinha. Sem localização, ou fora da cobertura, usa as regiões com `app_default` (capital e metropolitana)., `index.html` e as atribuições.
    - Linhas da planilha saem, salvo link **confirmado** quebrado e sem substituto. Essas linhas aparecem no relatório para você corrigir a planilha.
    - Lugares novos só saem com **link de cardápio validado ou site válido**. Rede social, encurtador e link ainda não verificado não bastam.
    - **Trava de regressão:** se uma região com 50 linhas ou mais perder mais de 20%, nada é publicado e o comando sai com código 2. O workflow abre uma issue. Para publicar mesmo assim, use `--force` (no workflow, a opção `force_publish`).
@@ -59,7 +59,7 @@ No Firebase Remote Config do app, troque `sourceURL` para:
 https://docpocketltda.github.io/cardapios-dados/sp/grande-sp.csv
 ```
 
-O app já aceita CSV, ignora colunas extras e cai no `defaultSourceURL` (a planilha) se o Pages falhar. Os arquivos da fase 1 exigem a mudança do app para `index.json` (relatório, seção 4.2).
+O app já aceita CSV, ignora colunas extras e cai no `defaultSourceURL` (a planilha) se o Pages falhar. A partir da 1.1.0, o app lê o `index.json` (chave `indexURL` do Remote Config) e baixa as regiões da fase 1. Versões antigas continuam no `sourceURL`.
 
 ## Rodar localmente
 
