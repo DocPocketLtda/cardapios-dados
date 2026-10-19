@@ -1,35 +1,46 @@
-# Relatório do build (19/10/2026 01:23 UTC)
+# Relatório do build (19/10/2026 03:32 UTC)
 
 ## Regiões
 
 | Região | Linhas antes | Linhas agora | Restaurantes | Entraram | Saíram | Tamanho |
 |---|---:|---:|---:|---:|---:|---:|
-| `sp/grande-sp` | 2478 | 2465 | 2461 | 0 | 13 | 840 KB |
-| `sp/capital` | 6393 | 6423 | 6419 | 42 | 12 | 1981 KB |
-| `sp/metropolitana` | 2415 | 2442 | 2442 | 28 | 1 | 728 KB |
-| `sp/campinas` | 1318 | 1332 | 1332 | 14 | 0 | 389 KB |
-| `sp/litoral` | 771 | 782 | 782 | 11 | 0 | 229 KB |
-| `sp/interior` | 5001 | 5100 | 5096 | 99 | 0 | 1506 KB |
+| `sp/grande-sp` | 2465 | 2467 | 2463 | 3 | 1 | 851 KB |
+| `sp/capital` | 6423 | 6387 | 6383 | 58 | 94 | 1980 KB |
+| `sp/metropolitana` | 2442 | 2443 | 2443 | 29 | 28 | 731 KB |
+| `sp/campinas` | 1332 | 1352 | 1352 | 20 | 0 | 395 KB |
+| `sp/litoral` | 782 | 794 | 794 | 12 | 0 | 233 KB |
+| `sp/jundiai` | – | 615 | 615 | ? | ? | 181 KB |
+| `sp/sorocaba` | – | 603 | 602 | ? | ? | 175 KB |
+| `sp/vale-do-paraiba` | – | 762 | 761 | ? | ? | 233 KB |
+| `sp/piracicaba` | – | 651 | 651 | ? | ? | 190 KB |
+| `sp/ribeirao-preto` | – | 680 | 680 | ? | ? | 202 KB |
+| `sp/araraquara` | – | 380 | 380 | ? | ? | 112 KB |
+| `sp/bauru` | – | 374 | 373 | ? | ? | 108 KB |
+| `sp/marilia` | – | 261 | 261 | ? | ? | 75 KB |
+| `sp/presidente-prudente` | – | 142 | 142 | ? | ? | 43 KB |
+| `sp/aracatuba` | – | 214 | 214 | ? | ? | 63 KB |
+| `sp/sao-jose-do-rio-preto` | – | 408 | 407 | ? | ? | 125 KB |
+| `sp/vale-do-ribeira` | – | 126 | 126 | ? | ? | 37 KB |
 
 ## Links
 
 | Origem:status | Linhas |
 |---|---:|
-| overture:falhando | 6989 |
-| overture:incerto | 5396 |
-| overture:ok | 11889 |
-| overture:omitidas | 47316 |
-| overture:pendente | 33487 |
-| overture:quebrado | 2774 |
-| overture:reparadas | 2791 |
-| overture:sem link | 395 |
-| planilha:falhando | 39 |
+| overture:falhando | 3814 |
+| overture:incerto | 5400 |
+| overture:ok | 12001 |
+| overture:omitidas | 47034 |
+| overture:pendente | 33476 |
+| overture:quebrado | 5679 |
+| overture:reparadas | 2963 |
+| overture:sem link | 389 |
+| planilha:falhando | 26 |
 | planilha:incerto | 161 |
-| planilha:ok | 2245 |
-| planilha:omitidas | 13 |
-| planilha:pendente | 20 |
-| planilha:quebrado | 13 |
-| planilha:reparadas | 49 |
+| planilha:ok | 2256 |
+| planilha:omitidas | 11 |
+| planilha:pendente | 24 |
+| planilha:quebrado | 11 |
+| planilha:reparadas | 62 |
 
 ## Merge
 
@@ -38,10 +49,10 @@ sheet_rows: 6841
 sheet_available_rows: 2478
 sheet_restaurants: 2474
 blacklisted_keys: 4363
-sp-estado: {'overture_release': '2026-09-23.1', 'overture_records': 64386, 'after_internal_dedupe': 64264, 'matched_sheet': 1377, 'duplicates_absorbed': 39, 'blacklisted': 1918, 'new_places': 60930}
+sp-estado: {'overture_release': '2026-09-23.1', 'overture_records': 64386, 'after_internal_dedupe': 64264, 'matched_sheet': 1502, 'duplicates_absorbed': 68, 'blacklisted': 1935, 'new_places': 60759}
 ```
 
-## Linhas da planilha fora da publicação por link quebrado (13)
+## Linhas da planilha fora da publicação por link quebrado (11)
 
 Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver certo.
 
@@ -50,18 +61,16 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | 434 | Jacob Restaurante Árabe | http://jacobrestaurante.com.br/ |
 | 571 | Mimo Restaurante | http://mimorestaurante.com.br/ |
 | 763 | Restaurante Angor | http://restauranteangor.ulcraft.com/ |
-| 877 | Sorry Mama Pizza | http://sorrymama.com.br/ |
 | 1089 | Allez Allez | http://www.allezallez.com.br/ |
 | 1307 | Bar Salvador | http://www.barsalvador.com.br/ |
 | 1355 | Betones Bbq - Pinheiros | http://www.betonesbbq.com.br/ |
-| 2010 | Dialetto Ristorante | http://www.dialettoristorante.com.br/ |
 | 3391 | Hidden by 2nd Floor | http://www.hiddenby2ndfloor.com/contato |
+| 3556 | Jacob Cozinha Árabe | http://www.jacobrestaurante.com.br/ |
 | 4392 | Restaurante Supermercado Pastorinho | http://www.pastorinho.com.br/ |
-| 4497 | Pizzaria E Grelhados Berlim | http://www.pizzariaberlim.com.br/ |
 | 5690 | Coracao Mineiro | https://coracaomineiro.com.br/ |
 | 6830 | Yug Sushi | https://eatyug.com.br/wp-content/uploads/2026/06/yug-menu-online.pdf |
 
-## Links trocados automaticamente (2840)
+## Links trocados automaticamente (3025)
 
 | Nome | Antes | Depois | Como |
 |---|---|---|---|
@@ -74,16 +83,21 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Jacob Grill | http://jacobrestaurante.com.br/ | https://www.facebook.com/430417923662113 | rede social |
 | Lamen The Bowl | http://lamenthebowl.com/ | https://www.facebook.com/104497068513887 | rede social |
 | Mocotó | https://mocoto.com.br/wp-content/uploads/Cardapio-Mocoto-Vila-Medeiros.pdf | https://mocoto.com.br/wp-content/uploads/2020/05/Menu-Pra-Viagem.pdf | pagina-cardapio |
+| Sorry Mama Pizza | http://sorrymama.com.br/ | https://www.facebook.com/110624700788430 | rede social |
 | Bar do Juarez - Itaim | https://www.bardojuarez.com.br/cardapio | https://www.bardojuarez.com.br/cardapio.html | pagina-cardapio |
 | Bar Salvador | http://www.barsalvador.com.br/ | https://www.facebook.com/147708238572628 | rede social |
 | Casa Bauducco | http://www.bauducco.com.br/casabauducco | http://www.bauducco.com.br/menu | pagina-cardapio |
 | Casa Bauducco Shopping Morumbi | http://www.bauducco.com.br/casabauducco | http://www.bauducco.com.br/menu | pagina-cardapio |
+| Boteco São Bento | https://www.dguests.com.br/cardapio/saobentovilamadalena | https://www.dguests.com.br/cardapio.pdf | pagina-cardapio |
 | By Koji | https://bykojirestaurante.com.br/wp-content/uploads/2023/03/cardapio_koji_morumbi.pdf | https://bykojirestaurante.com.br/menu | pagina-cardapio |
 | Natural Das Anas | http://www.cachoeiratropical.com.br/site2/ | http://www.cachoeiratropical.com.br/ | site |
 | Casa Rios Restaurante | https://www.casariosrestaurante.com.br/menu | https://www.casariosrestaurante.com.br/cardapio/ | pagina-cardapio |
+| Axé | http://www.centernorte.com.br/alimentacao/axe | http://www.centernorte.com.br/cardapio.pdf | pagina-cardapio |
+| China In Box | http://www.chinainbox.com.br/cep/ | http://www.chinainbox.com.br/cardapio.pdf | pagina-cardapio |
 | China in Box | http://www.chinainbox.com.br/lojasdetalhe/131 | http://www.chinainbox.com.br/cardapio.pdf | pagina-cardapio |
 | Cuor di Crema | http://www.cuordicrema.com/loja/tatuape/ | http://www.cuordicrema.com/cardapio.pdf | pagina-cardapio |
 | Deveras Pizza | https://menu.getinapp.com.br/pt-br/e63Rd91v/menus/g6GDvdk0 | https://menu.getinapp.com.br/cardapio.pdf | pagina-cardapio |
+| Dialetto Ristorante | http://www.dialettoristorante.com.br/ | https://www.facebook.com/105738107916601 | rede social |
 | Divina Pizzeria | http://www.divinapizzeria.com/ | https://www.facebook.com/840089749389565 | rede social |
 | Dona Doceira | http://www.donadoceira.com.br/ | https://www.facebook.com/646134358815584 | rede social |
 | Estação Parrilla São Caetano | http://www.estacaoparrilla.com.br/novo/ | http://www.estacaoparrilla.com.br/ | site |
@@ -93,6 +107,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Gendai | http://www.gendai.com.br/lojas | http://www.gendai.com.br/cardapio.pdf | pagina-cardapio |
 | Gendai | http://www.gendai.com.br/lojas | http://www.gendai.com.br/cardapio.pdf | pagina-cardapio |
 | Babilo | http://www.iguatemi.com.br/marketplace/alimentacao/#babil%C3%83%C2%B3 | http://www.iguatemi.com.br/cardapio.pdf | pagina-cardapio |
+| Jacob Cozinha Árabe | http://www.jacobrestaurante.com.br/ | https://www.facebook.com/972793589397363 | rede social |
 | La Mexicana | http://www.lamexicana.com.br/ | https://www.facebook.com/370161219710628 | rede social |
 | Marach Cozinha Armenia | http://www.marach.com.br/ | https://www.facebook.com/623927094768045 | rede social |
 | Marach Cozinha Armênia | http://www.marach.com.br/ | https://www.facebook.com/139394019463230 | rede social |
@@ -100,8 +115,12 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Mourisco Pizzaria | http://www.mouriscopizzeria.com.br/ | https://www.facebook.com/200392019987006 | rede social |
 | Casa Mirense | http://www.padariamirense.com.br/ | https://www.facebook.com/141809312561340 | rede social |
 | Pastificio Trattoria Carasi | http://www.pastificiocarasi.com.br/ | https://www.facebook.com/197749926930182 | rede social |
+| Pizzaria E Grelhados Berlim | http://www.pizzariaberlim.com.br/ | https://www.facebook.com/616178081789090 | rede social |
 | Sao paulo Rascal restaurante | http://www.rascal.com.br/home.html | https://www.rascal.com.br/restaurante/cardapio-e-bebidas-rascal-sao-paulo/ | pagina-cardapio |
+| Aya Japanese Cuisine | https://menu.getinapp.com.br/pt-br/3Y6xBPv2/menus/Re63zx1v/categories/ljkvaZ62 | https://menu.getinapp.com.br/cardapio.pdf | pagina-cardapio |
+| Rubaiyat Faria Lima | https://gruporubaiyat.com/api/uploads/040926-mp-fl-pt-09_26.pdf | https://gruporubaiyat.com/cardapio.pdf | pagina-cardapio |
 | Figueira Rubayat | https://gruporubaiyat.com/pt/casas-menu/afigueira/ | https://gruporubaiyat.com/cardapio.pdf | pagina-cardapio |
+| Spoleto | http://www.spoleto.com.br/busca/lojas/json | https://www.spoleto.com.br:443/tabs/cardapio | pagina-cardapio |
 | Spoleto | http://www.spoleto.com.br/unidade/spoleto-shopping-led-barra-funda/ | https://www.spoleto.com.br:443/tabs/cardapio | pagina-cardapio |
 | Vegg's Restaurante Vegetariano e Vegano | http://www.spveg.com/blog/veggs/ | http://www.spveg.com/ | site |
 | Genesis Alimentacao | http://www.subdelivery.com.br/loja/subway-av-g-edgar-faco/ | http://www.subdelivery.com.br/ | site |
@@ -110,9 +129,12 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Zena Cucina | https://www.zenacaffe.com.br/cardapios-qr-code/ | https://www.facebook.com/91503159326 | rede social |
 | Piccini Cucina | https://restaurantepiccini.com/ | https://piccinicucina.com.br/menu/ | pagina-cardapio |
 | Paparoto Cucina | https://menu.getin.app/pt-br/46lezekZ/menus/O6ONKn1a | https://menu.getin.app/cardapio.pdf | pagina-cardapio |
+| Camarada Camarão Santo André - Grand Plaza Shopping | https://www.ocamarada.com.br/restaurantes/grand-plaza-shopping-santo-andre | https://www.camaradacamarao.com.br/cardapios/ | pagina-cardapio |
 | Camarada Camarão- Shopping Cidade São Paulo | https://www.ocamarada.com.br/restaurantes/shopping-cidade-sao-paulo-sao-paulo | https://www.camaradacamarao.com.br/cardapios/ | pagina-cardapio |
+| Outback Steakhouse - Shopping Boulevard Bauru | https://www.outback.com.br/restaurantes/outback-boulevard-shopping-bauru | https://www.outback.com.br/nossosprodutos/menu-principal | pagina-cardapio |
 | Outback Steakhouse - Shopping Metrô Santa Cruz | https://www.outback.com.br/restaurantes/shopping-metr%C3%B4-santa-cruz | https://www.outback.com.br/nossosprodutos/menu-principal | pagina-cardapio |
 | De Segunda | https://desegundarestaurante.com.br/cardapios/cardapio_01.pdf | https://www.facebook.com/100522222136330 | rede social |
+| Conselheiro Listening Bar | https://menu.getin.app/pt-br/w6erGxk4/menus/J6J7AdkX | https://menu.getin.app/cardapio.pdf | pagina-cardapio |
 | Les Deux Magots | https://lesdeuxmagots.com.br/novoscardapios | https://lesdeuxmagots.com.br/cardapios/ | pagina-cardapio |
 | Padaria Colinas do Sol | http://www.padariacolinasdosol.com.br/ | http://padariacolinasdosol.com.br/cardapio/Main.php?MagID=6&MagNo=17 | pagina-cardapio |
 | Restaurante Mandarin | http://www.restaurantemandarin.com.br/ | https://www.restaurantemandarin.com.br/cardapio | pagina-cardapio |
@@ -120,10 +142,12 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Café Cantina | http://www.cafecantina.com.br/ | https://cafecantina.com.br/cardapio/ | pagina-cardapio |
 | Sulina Parrilla e Restaurante | http://www.sulinachurrascaria.com.br/ | https://deliverydireto.com.br/sulinachurrascaria/sulinachurrascaria | plataforma-no-site |
 | Panificadora Braghetto | https://panificadorabraghetto.com.br/ | https://www.goomer.app/panificadora-braghetto/menu | plataforma-no-site |
+| Dell'Arte Ristorante | http://dellarteristorante.com.br/restaurante.html | https://www.dellarteristorante.com.br/MENU_SL_MOB.pdf | pagina-cardapio |
 | L'Entrecote de Paris | http://www.lentrecotedeparis.com.br/ | https://lentrecotedeparis.com.br/cardapio | pagina-cardapio |
+| Casa Bauducco | https://www.bauducco.com.br/casa-bauducco/ | https://www.bauducco.com.br/menu | pagina-cardapio |
 | Outback Brasil | https://www.outback.com.br | https://www.outback.com.br/nossosprodutos/menu-principal | pagina-cardapio |
+| Casa Bauducco | https://www.bauducco.com.br/casa-bauducco/ | https://www.bauducco.com.br/menu | pagina-cardapio |
 | Dona Chica Restaurante | http://www.restaurantedonachica.com.br | https://livemenu.app/menu/6409f78ef422050052c60f0a | plataforma-no-site |
-| Outback Steakhouse | https://www.outback.com.br/ | https://www.outback.com.br/nossosprodutos/menu-principal | pagina-cardapio |
 | Estância da Picanha | https://www.estanciadapicanha.com.br/ | https://app.cardapioweb.com/estancia_da_picanha/ | plataforma-no-site |
 | Restaurante Tabatem | http://www.restaurantetabatem.com.br/ | https://restaurantetabatem.com.br/wp-content/uploads/2025/11/Cardapio-a6.pdf | pagina-cardapio |
 | Mana Poke - Piracicaba | http://www.manapoke.com.br/ | https://manapoke.com.br/wp-content/uploads/2026/05/Cardapio-Mana-Poke-2026.pdf | pagina-cardapio |
@@ -131,12 +155,10 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Sapore Italia Gastronomia Ltda | http://www.saporeitalia.com.br/ | https://www.saporeitalia.com.br/menu | pagina-cardapio |
 | Chalezinho Itaim | https://itaim.chalezinho.com/ | https://livemenu.app/menu/5afee766fa271c9ee3c47006 | plataforma-no-site |
 | Lellis Trattoria | http://www.lellis.com.br | https://app.cardapioweb.com/lellis_pizzaria | plataforma-no-site |
-| 1900 Pizzeria | http://www.1900.com.br/ | https://www.1900.com.br/cardapio/jantar-presencial | pagina-cardapio |
 | Bambini | http://www.bambini.com.br | https://bambini.com.br/wp-content/uploads/2025/06/Cardapio_grandes-quantidades_25.pdf | pagina-cardapio |
 | Panetteria Zn | http://www.panetteriazn.com.br/ | https://www.panetteriazn.com.br/panetteria_cardapio.pdf | pagina-cardapio |
 | Fornaria dos Pães | http://www.fornariadospaes.com.br/ | https://www.fornariadospaes.com.br/img/cardapio-fornaria-dos-paes.pdf | pagina-cardapio |
 | Fredone Restaurante e Lanchonete | http://www.fredone.com.br | https://fredone.com.br/cardapio/ | pagina-cardapio |
-| Villa Lucco | http://villalucco.com.br/ | https://villalucco.com.br/cardapio/ | pagina-cardapio |
 | Villa Montese Bar e Ristorante | http://www.villamontese.com.br/ | http://www.villamontese.com.br/menu.php | pagina-cardapio |
 | Restaurante Outback Steakhouse | https://www.outback.com.br/ | https://www.outback.com.br/nossosprodutos/menu-principal | pagina-cardapio |
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
@@ -162,21 +184,19 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
 | Casa Bauducco | http://www.bauducco.com.br/casabauducco | http://www.bauducco.com.br/menu | pagina-cardapio |
 | Le Chef Boucher | http://lechefboucher.dudaone.com/ | http://lechefboucher.dudaone.com/menu | pagina-cardapio |
-| Marettimo Restaurante | http://marettimo.com.br/ | https://www.marettimo.com.br/cardapios | pagina-cardapio |
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
+| Pecorino Bar & Trattoria | http://www.pecorino.com.br/index.php/shopping-tambore/ | http://www.pecorino.com.br/cardapio | pagina-cardapio |
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
 | Brugnetti Pizzaria | http://brugnetti.com.br/ | https://brugnetti.com.br/cardapio/ | pagina-cardapio |
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
 | Pizza Hut Tatuapé | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
-| Ting Restaurante Oriental | https://www.restauranteting.com.br/ | https://www.restauranteting.com.br/cardapio | pagina-cardapio |
 | YUCAFE Earth-Based | https://www.pullmanspibirapuera.com/yucafe | https://www.pullmanspibirapuera.com/link-quartos-menu-principal | pagina-cardapio |
 | Big Jack Hamburgueria | http://bigjackhamburgueria.com.br | https://bigjackhamburgueria.com.br/menu/ | pagina-cardapio |
 | Nova Liba | Restaurante em Botucatu | http://novaliba.com.br/ | http://novaliba.com.br/cardapio.html | pagina-cardapio |
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
 | Casa Bauducco | http://www.bauducco.com.br/casabauducco | http://www.bauducco.com.br/menu | pagina-cardapio |
-| China In Box Guarulhos | http://www.chinainbox.com.br/lojasdetalhe/131 | http://www.chinainbox.com.br/cardapio.pdf | pagina-cardapio |
 | Abbraccio Restaurante | https://www.abbracciorestaurante.com.br/ | https://livemenu.app/menu/5fff743e864a953bace2e71c | plataforma-no-site |
 | Outback | https://www.outback.com.br/ | https://www.outback.com.br/nossosprodutos/menu-principal | pagina-cardapio |
 | PapaleTutte | http://www.papaletutte.com.br/ | https://www.papaletutte.com.br/cardapio/ | pagina-cardapio |
@@ -207,6 +227,8 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Padaria Estrela | http://estrelapadaria.com.br/ | https://www.estrelapadaria.com.br/cardapio | pagina-cardapio |
 | A Fornada Padaria | https://afornadapadaria.com.br/ | https://afornadapadaria.com.br/s/menu.pdf | pagina-cardapio |
 | Pizzaria Suprema | https://supremapizzacine.com.br/ | https://supremapizzacine.com.br/cardapio/ | pagina-cardapio |
+| Le Pain Quotidien | https://www.lepainquotidien.com/br/pt/locations/lorena/alameda-lorena,-1914 | https://www.lepainquotidien.com/us/en/menu | pagina-cardapio |
+| Casa Bauducco | https://www.bauducco.com.br/casa-bauducco/ | https://www.bauducco.com.br/menu | pagina-cardapio |
 | Bella Dora Pizza Gourmet | http://www.belladora.com.br/ | https://www.belladora.com.br/cardapio/ | pagina-cardapio |
 | General Prime | https://generalprimesteakeburger.com.br/ | https://generalprimesteakeburger.com.br/cardapio | pagina-cardapio |
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
@@ -216,11 +238,11 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | O Pescador Bar e Restaurante | http://www.opescadorbar.com.br/ | https://www.opescadorbar.com.br/menu | pagina-cardapio |
 | Pizzaria Kalamata Delivery | http://kalamataubatuba.com.br/ | https://kalamataubatuba.com.br/cardapio/ | pagina-cardapio |
 | Outback Steakhouse | https://www.outback.com.br/ | https://www.outback.com.br/nossosprodutos/menu-principal | pagina-cardapio |
+| Sapore di Mare Restaurante | http://juquehyhotel.com.br/saporedimare.php | http://juquehyhotel.com.br/cardapio.pdf | pagina-cardapio |
 | Restaurante Pica Fumo | http://www.restaurantepicafumo.com.br/ | https://restaurantepicafumo.com.br/cardapio/ | pagina-cardapio |
 | Padaria Itamambuca | https://padariaitamambuca.com.br/loja-virtual/ | https://www.padariaitamambuca.com.br/menus | pagina-cardapio |
 | Grano - Pizza e Bar | https://www.granopizzabar.com.br/ | https://www.granopizzabar.com.br/cardapio | pagina-cardapio |
 | Sobradão Lanchonete e Pizzaria | http://www.sobradao.com.br/ | https://sobradao.com.br/cardapio/ | pagina-cardapio |
-| Pastelaria Rainha Brasileira | http://pastelariarainhabrasileira.com.br/ | https://www.pastelaria.com.br/cardapio/ | pagina-cardapio |
 | La Piadina Cucina Italiana | http://www.lapiadina.com.br | https://www.lapiadina.com.br/cardapios/ | pagina-cardapio |
 | Outback Steakhouse | https://www.outback.com.br/ | https://www.outback.com.br/nossosprodutos/menu-principal | pagina-cardapio |
 | Bar do Alemão | http://www.bardoalemaodeitu.com.br | https://www.bardoalemaodeitu.com.br/cardapio-delivery.php | pagina-cardapio |
@@ -232,6 +254,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Pizzaria Geninho | http://www.pizzariageninho.com.br/ | https://www.pizzariageninho.com.br/cardapio | pagina-cardapio |
 | Poeta Grill | http://www.poetagrill.com.br/ | https://poetagrill.com.br/wp-content/uploads/2026/03/CARDAPIO-POETA.pdf | pagina-cardapio |
 | Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
+| Hina Fish and Lounge | http://www.hinarestaurante.com.br/ | http://hinarestaurante.com.br/cardapio | pagina-cardapio |
 | Restaurante Nordestão | http://www.restaurantenordestao.com.br/ | https://restaurantenordestao.saipos.com/home | plataforma-no-site |
 | Restaurante Da Sogra | https://restaurantedasogra.com.br/ | https://restaurantedasogra.com.br/menu/ | pagina-cardapio |
 | Padaria Santa Branca | http://padariasantabranca.com.br | https://padariasantabranca.com.br/wp-content/uploads/2024/07/menu-rotisserie.pdf | pagina-cardapio |
@@ -245,6 +268,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Ruella | http://www.ruella.com.br | https://ruella.com.br/menu-ruella/ | pagina-cardapio |
 | O Rei do Camarão | http://www.restaurantereidocamarao.com.br/ | https://restaurantereidocamarao.com.br/cardapio/ | pagina-cardapio |
 | Pizzaria Jardins | http://www.pizzariajardins.com.br/ | https://pizzariajardins.com.br/cardapio.html | pagina-cardapio |
+| Mineiro's 2 Bar Espetos e Porções | https://mineirosbar.com.br/portugal | https://mineirosbar.com.br/ | site |
 | No Barko | https://www.nobarko.com.br/ | https://nobarko.com.br/cardapio/ | pagina-cardapio |
 | Mana Poke Santana | https://manapoke.com.br/ | https://manapoke.com.br/wp-content/uploads/2026/05/Cardapio-Mana-Poke-2026.pdf | pagina-cardapio |
 | Ráscal GRU | http://www.rascal.com.br/ | https://www.rascal.com.br/restaurante/cardapio-e-bebidas-rascal-sao-paulo/ | pagina-cardapio |
@@ -326,7 +350,6 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Restaurante Villa Velha | http://www.restaurantevillavelha.com.br/ | http://www.restaurantevillavelha.com.br/cardapio/ | pagina-cardapio |
 | Jules l'art du pain | https://www.padariajules.com.br/ | https://www.padariajules.com.br/cardapio | pagina-cardapio |
 | La Serena JK Iguatemi | http://laserenasaopaulo.com/ | https://www.laserenasaopaulo.com/s/Cardapio-La-Serena.pdf | pagina-cardapio |
-| Mexicaníssimo | http://www.mexicanissimo.com.br | https://mexicanissimo.com.br/cardapio-completo/ | pagina-cardapio |
 | Cachaçaria Água Doce | http://www.aguadoce.com.br/ | https://www.aguadoce.com.br/cardapio.html | pagina-cardapio |
 | Outback Steakhouse | https://www.outback.com.br/ | https://www.outback.com.br/nossosprodutos/menu-principal | pagina-cardapio |
 | Mister Piu Casual Food. | http://www.mrpiu.com.br/ | https://mrpiu.com.br/cardapio/ | pagina-cardapio |
@@ -335,6 +358,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Pizzaria Express | http://www.pizzaxpress.com.br/ | http://www.pizzaxpress.com.br/cardapio | pagina-cardapio |
 | Mana Poke - São Caetano | http://manapoke.com.br/ | https://manapoke.com.br/wp-content/uploads/2026/05/Cardapio-Mana-Poke-2026.pdf | pagina-cardapio |
 | Sterna Café | https://sternacafe.com.br | https://sternacafe.com.br/menu-sterna-cafe-2.pdf | pagina-cardapio |
+| João do Grão | http://www.granjaviana.com.br/viladamata/ | http://www.granjaviana.com.br/cardapio.pdf | pagina-cardapio |
 | Costela da Serra | http://www.costeladaserra.com.br/ | https://www.costeladaserra.com.br/cardapio-2/ | pagina-cardapio |
 | Padaria Orquídea Palace | http://padariaorquideapalace.com.br | http://www.padariaorquideapalace.com.br/menu/ | pagina-cardapio |
 | Dom Brejas | http://www.dombrejas.com.br/ | https://dombrejas.com.br/wp-content/uploads/2026/10/Cardapio-DomBrejas-20260929.pdf | pagina-cardapio |
@@ -350,18 +374,3 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Rodizio de Hambúrguer | http://www.rodiziodehamburguer.com.br/ | https://rodiziodehamburguer.com.br/cardapio-rodizio-de-hamburguer-2/ | pagina-cardapio |
 | Pizzaria Renascer | http://www.pizzariarenascer.com.br/ | https://www.pizzariarenascer.com.br/cardapio/ | pagina-cardapio |
 | Villa Siena | http://www.villasienapizzaria.com.br/ | https://villasienapizzaria.com.br/cardapio/ | pagina-cardapio |
-| Restaurante Takashi | http://restaurantetakashi.com.br/ | https://www.restaurantetakashi.com.br/menu | pagina-cardapio |
-| Lanchão & Cia | http://www.lanchao.com.br/ | https://www.lanchao.com.br/_files/ugd/ea06b2_884581b3ee8d436596b3885a0531ffc8.pdf | pagina-cardapio |
-| Vesúvio Pizzaria | http://www.vesuviopizzaria.com.br/ | https://www.vesuviopizzaria.com.br/cardapio | pagina-cardapio |
-| Churrascaria São João | http://www.churrascariasaojoao.com.br | http://www.churrascariasaojoao.com.br/cardapio/ | pagina-cardapio |
-| Kenta Sushi Gourmet | http://www.kentasushi.com.br/ | https://kenta.saipos.com/home | plataforma-no-site |
-| Restaurante Almeida | http://www.restaurantealmeida.com.br | https://www.restaurantealmeida.com.br/menu | pagina-cardapio |
-| Pizza Hut | https://www.pizzahut.com.br/ | https://www.pizzahut.com.br/guest/menu | pagina-cardapio |
-| Disk Nona Pizzaria | http://www.disknona.com.br/ | https://www.disknona.com.br/cardapio-13-de-maio/ | pagina-cardapio |
-| Atobá Pizzaria | http://www.atobapizzaria.com.br | https://www.atobapizzaria.com.br/atoba-menu.pdf | pagina-cardapio |
-| Sal Marinho | http://www.restaurantesalmarinhovegetariano.com/ | https://www.restaurantesalmarinhovegetariano.com/menu-do-dia-faca-seu-pedido | pagina-cardapio |
-| Mojica | https://mojicarestaurante.com.br/ | https://mojicarestaurante.com.br/wp-content/uploads/2025/11/20251103-Cardapio-Mojica-WEB.pdf | pagina-cardapio |
-| Kubo Temakeria | http://www.kubotemakeria.com.br/ | http://kubotemakeria.com.br/cardapio/ | pagina-cardapio |
-| Clube da Picanha | https://www.clubdapicanha.com/ | https://www.clubdapicanha.com/_files/ugd/1b8c69_556fd721372c4a6ab7b57bbd38a7a602.pdf | pagina-cardapio |
-| Cantina Tia Lina | http://www.cantinatialina.com.br/ | http://www.cantinatialina.com.br/documentos/cardapio_completo_tia_lina.pdf | pagina-cardapio |
-| Croqueteria SP | http://www.croqueteria.com.br/ | https://www.croqueteria.com.br/menu/ | pagina-cardapio |
