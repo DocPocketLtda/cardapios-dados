@@ -23,6 +23,9 @@ COARSE_RADIUS_KM = 1.2     # sheet point with <= 2 decimals (rounding error up t
 COARSE_CLOSE_KM = 0.8
 PRECISE_RADIUS_KM = 0.3
 PRECISE_CLOSE_KM = 0.15
+# Sheet points with 4+ decimals still come from geocoders that miss by a few hundred meters: with a
+# strong signal (phone, own site or house number) a pair up to this far apart is the same place.
+STRONG_RADIUS_KM = 0.6
 PHONE_ONLY_KM = 0.08
 
 
@@ -181,8 +184,9 @@ def evaluate(anchor, candidate, distance, shared_domains=frozenset()):
         ok = name_ok and (strong or distance <= COARSE_CLOSE_KM)
         radius = COARSE_RADIUS_KM
     else:
-        ok = (name_ok and (strong or distance <= PRECISE_CLOSE_KM)) or (phone_eq and distance <= PHONE_ONLY_KM)
-        radius = PRECISE_RADIUS_KM
+        ok = (name_ok and ((strong and distance <= STRONG_RADIUS_KM) or distance <= PRECISE_CLOSE_KM)) \
+            or (phone_eq and distance <= PHONE_ONLY_KM)
+        radius = STRONG_RADIUS_KM
     if not ok:
         return None
     score = similarity + (0.5 if strong else 0.0) + 0.3 * max(0.0, 1 - distance / radius)
@@ -210,7 +214,7 @@ def match_places(anchors, candidates, shared_domains=frozenset(), pinned=None):
             continue
         found = None
         for anchor, distance in index.near(candidate.lat, candidate.lon, COARSE_RADIUS_KM):
-            if not anchor.coarse and distance > PRECISE_RADIUS_KM:
+            if not anchor.coarse and distance > STRONG_RADIUS_KM:
                 continue
             result = evaluate(anchor, candidate, distance, shared_domains)
             if result and (found is None or result[0] > found[1]):

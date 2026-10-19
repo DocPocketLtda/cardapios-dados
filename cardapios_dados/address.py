@@ -59,6 +59,12 @@ def format_phone(phone):
 def house_number(address):
     """First house number after the street: "R. Bela Cintra, 2305 - Consolação" -> "2305"."""
     match = re.search(r"(?:,|\bn[º°o]\.?)\s*(\d{1,5})\b", address or "")
+    if match:
+        return match.group(1)
+    # Overture/Foursquare style without the comma: "Rua Tutoia 312 Paraiso, São Paulo" -> "312".
+    # A number followed by "de" is part of the street name ("Rua 25 de Março").
+    first = (address or "").split(",")[0]
+    match = re.search(r"[^\W\d]\.?\s+(\d{1,5})\b(?!\s+de\b)", first)
     return match.group(1) if match else None
 
 

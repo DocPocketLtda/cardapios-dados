@@ -42,6 +42,12 @@ class NormalizationTests(unittest.TestCase):
         self.assertEqual(phone_key("(11) 3088-0276"), phone_key("+55 11 3088 0276"))
         self.assertIsNone(phone_key("0800 123 4567"))
 
+    def test_house_number_without_comma(self):
+        self.assertEqual(house_number("Rua Tutoia 312 Paraiso, São Paulo"), "312")
+        self.assertEqual(house_number("Avenida das Nacoes Unidas 22540 Shopping"), "22540")
+        self.assertIsNone(house_number("Rua 25 de Março"))
+        self.assertEqual(house_number("Rua 25 de Março, 100"), "100")
+
     def test_house_number(self):
         self.assertEqual(house_number("R. Bela Cintra, 2305 - Consolação"), "2305")
 
@@ -61,6 +67,17 @@ class MatchingTests(unittest.TestCase):
         self.assertTrue(names_match("Restaurante Família Mancini", "Família Mancini"))
         self.assertFalse(names_match("Família Mancini", "Bráz Pizzaria"))
         self.assertGreater(name_similarity("Mocotó", "Mocoto Restaurante"), 0.95)
+
+    def test_precise_point_a_few_hundred_meters_off_matches_with_strong_signal(self):
+        # TasteIT: sheet geocoded ~330 m away from Overture, same phone and number.
+        sheet = Place("TasteIT|Rua A, 515", "TasteIT Restaurante", "Rua Alfa, 515", -23.5600, -46.6600,
+                      phones=["(11) 3456-7890"], coarse=False)
+        overture = Place("ovt:t", "TastelT Restaurante", "R. Alfa, 515, São Paulo", -23.5630, -46.6600,
+                         phones=["+55 11 3456-7890"])
+        same_name_no_signal = Place("ovt:u", "TasteIT Restaurante", "Rua Beta, 9", -23.5630, -46.6601)
+        result = match_places([sheet], [overture, same_name_no_signal])
+        self.assertEqual(result["ovt:t"][0], "TasteIT|Rua A, 515")
+        self.assertNotIn("ovt:u", result)
 
     def test_coarse_sheet_point_matches_with_strong_signal(self):
         sheet = Place("Mocotó|Av. Nossa Sra. do Loreto, 1100", "Mocotó", "Av. Nossa Sra. do Loreto, 1100 - Vila Medeiros",
@@ -239,7 +256,10 @@ class PublishTests(unittest.TestCase):
         self.assertEqual(guard(ok, previous, CONFIG), [])
         bad = [{"id": "sp/grande-sp", "rows": 1900}, {"id": "sp/tiny", "rows": 1}]
         self.assertEqual(guard(bad, previous, CONFIG), [("sp/grande-sp", 2478, 1900)])
-        self.assertEqual(guard([], {"sp/capital": {"rows": 100}}, CONFIG), [("sp/capital", 100, 0)])
+        self.assertEqual(guard([{"id": "sp/capital", "rows": 0}], {"sp/capital": {"rows": 100}}, CONFIG),
+                         [("sp/capital", 100, 0)])
+        # A region taken out of config/regions.json (e.g. split in parts) isn't a regression.
+        self.assertEqual(guard([], {"sp/interior": {"rows": 5000}}, CONFIG), [])
 
     def test_region_by_municipality(self):
         files = [{"id": "sp/grande-sp", "only_sheet": True}, {"id": "sp/capital", "municipalities": ["São Paulo"]},
@@ -249,6 +269,25 @@ class PublishTests(unittest.TestCase):
         self.assertEqual(file_for({"_municipality": "Santa Barbara d'Oeste"}, files)["id"], "sp/campinas")
         self.assertEqual(file_for({"_municipality": "Bauru"}, files)["id"], "sp/interior")
         self.assertEqual(file_for({"_municipality": ""}, files)["id"], "sp/interior")
+
+    def test_city_column_rescues_overture_rows_but_not_sheet_rows(self):
+        files = [{"id": "sp/capital", "municipalities": ["São Paulo"]}, {"id": "sp/interior", "default": True}]
+        wrong_city_in_address = {"_municipality": "Presidente Epitácio", "city": "São Paulo", "_origin": "overture"}
+        self.assertEqual(file_for(wrong_city_in_address, files)["id"], "sp/capital")
+        sheet_row = {"_municipality": "Ribeirão Preto", "city": "São Paulo", "_origin": "planilha"}
+        self.assertEqual(file_for(sheet_row, files)["id"], "sp/interior")
+
+    def test_interior_split_by_nearest_center(self):
+        files = [{"id": "sp/capital", "municipalities": ["São Paulo"]},
+                 {"id": "sp/interior", "default": True, "phase": 1, "split": [
+                     {"id": "sp/sorocaba", "name": "Sorocaba", "center": {"lat": -23.50, "lon": -47.45}},
+                     {"id": "sp/ribeirao-preto", "name": "Ribeirão", "center": {"lat": -21.18, "lon": -47.81}}]}]
+        franca = {"_municipality": "Franca", "latitude": "-20.54", "longitude": "-47.40"}
+        itu = {"_municipality": "Itu", "latitude": "-23.26", "longitude": "-47.30"}
+        self.assertEqual(file_for(franca, files)["id"], "sp/ribeirao-preto")
+        self.assertEqual(file_for(itu, files)["id"], "sp/sorocaba")
+        self.assertEqual(file_for(itu, files)["phase"], 1)
+        self.assertEqual(file_for({"_municipality": "X"}, files)["id"], "sp/sorocaba")  # no coordinates
 
     def test_a_few_misfiled_rows_dont_claim_a_cell(self):
         capital = [(-23.56, -46.65)] * 95

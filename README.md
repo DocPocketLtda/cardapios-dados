@@ -45,9 +45,9 @@ A arquitetura segue o relatório `output/dados/pesquisa-base-restaurantes.md` do
 | `sp/metropolitana.csv` | os outros 38 municípios da RMSP | 1 |
 | `sp/campinas.csv` | os 20 municípios da RM de Campinas | 1 |
 | `sp/litoral.csv` | Baixada Santista (9) e Litoral Norte (4) | 1 |
-| `sp/interior.csv` | o resto do estado | 1 |
+| `sp/jundiai.csv`, `sp/sorocaba.csv`, `sp/vale-do-paraiba.csv`, `sp/piracicaba.csv`, `sp/ribeirao-preto.csv`, `sp/araraquara.csv`, `sp/bauru.csv`, `sp/marilia.csv`, `sp/presidente-prudente.csv`, `sp/aracatuba.csv`, `sp/sao-jose-do-rio-preto.csv`, `sp/vale-do-ribeira.csv` | o resto do estado (o arquivo `default` com `split`), cada restaurante no polo mais perto, parecido com as regiões intermediárias do IBGE | 1 |
 
-A região sai do município do endereço, com a mesma regra do `AddressParser` do app, ou da `locality` do Overture. A divisão mantém cada arquivo pequeno para o app baixar só a região do usuário. As capitais (fase 2) entram como novas `areas` em `config/regions.json`, com bbox, UF e `overture.localities` (há um exemplo em `future_areas_example`), sem mudar código.
+A região sai do município do endereço, com a mesma regra do `AddressParser` do app, ou da `locality` do Overture. Se o município do endereço não está em nenhuma lista, uma linha do Overture usa a coluna `city` (a da planilha às vezes está errada). O que sobra vai para o polo do `split` mais perto pelas coordenadas. A divisão mantém cada arquivo pequeno para o app baixar só a região do usuário. As capitais (fase 2) entram como novas `areas` em `config/regions.json`, com bbox, UF e `overture.localities` (há um exemplo em `future_areas_example`), sem mudar código.
 
 Colunas: `name, logo, address, latitude, longitude, city, state, country, available, phone, email, website, type, menu_link, cuisine, neighborhood, opening_hours`, mais as informativas `id_fonte, fonte, confianca, link_status, link_verificado_em`, que o app ignora. Lugares novos com site sem sinal de cardápio saem com `type=Site`.
 

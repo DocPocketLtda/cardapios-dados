@@ -60,16 +60,39 @@ def publishable(row, link, entry, repaired, require_website):
     return is_publishable(entry, require_validated=True)
 
 
+def area_specs(area):
+    """The files an area publishes, with the `split` parts of the default file in its place."""
+    for spec in area["files"]:
+        if spec.get("split"):
+            for part in spec["split"]:
+                yield {"phase": spec.get("phase", 1), **part}
+        else:
+            yield spec
+
+
 def file_for(row, area_files):
-    municipality = fold(row.get("_municipality", ""))
+    """The listed region of the municipality parsed from the address, else of the `city` column (an
+    address like "Rua Itapura 1308 Vl Gomes Cardim, Presidente Epitácio" gets the wrong city), else
+    the default file, or the nearest of its `split` centers."""
     default = None
-    for spec in area_files:
-        if spec.get("only_sheet"):
+    names = [fold(row.get("_municipality", ""))]
+    if row.get("_origin") != "planilha":  # the sheet's `city` is sometimes wrong; Overture's is reliable
+        names.append(fold(row.get("city", "")))
+    for name in names:
+        if not name:
             continue
-        if spec.get("default"):
-            default = spec
-        elif municipality and municipality in {fold(m) for m in spec.get("municipalities", [])}:
-            return spec
+        for spec in area_files:
+            if not spec.get("only_sheet") and name in {fold(m) for m in spec.get("municipalities", [])}:
+                return spec
+    default = next((s for s in area_files if s.get("default") and not s.get("only_sheet")), None)
+    if default and default.get("split"):
+        lat, lon = to_float(row.get("latitude")), to_float(row.get("longitude"))
+        parts = default["split"]
+        if lat is None or lon is None:
+            return {"phase": default.get("phase", 1), **parts[0]}
+        part = min(parts, key=lambda p: (p["center"]["lat"] - lat) ** 2
+                   + ((p["center"]["lon"] - lon) * math.cos(math.radians(lat))) ** 2)
+        return {"phase": default.get("phase", 1), **part}
     return default
 
 
@@ -187,6 +210,8 @@ def guard(entries, previous, config):
     violations = []
     current = {e["id"]: e["rows"] for e in entries}
     for region_id, prev in previous.items():
+        if region_id not in current:
+            continue  # removed or split in config/regions.json on purpose
         before = prev.get("rows", 0)
         if before < min_rows:
             continue
@@ -279,13 +304,13 @@ def publish(config, merged_path=None, cache_path=None, out_dir=None, force=False
     # Restaurants per cell over the regions the app downloads (phase 0 repeats them).
     cell_totals = Counter()
     for area in config["areas"].values():
-        for spec in area["files"]:
+        for spec in area_specs(area):
             if spec.get("phase", 1) >= 1:
                 cell_totals.update(cell_of(p) for p in area_points(files.get(spec["id"], []), area["bbox"]))
 
     entries, payloads = [], {}
     for area_id, area in config["areas"].items():
-        for spec in area["files"]:
+        for spec in area_specs(area):
             rows = files.get(spec["id"], [])
             data = csv_bytes(rows, columns)
             payloads[spec["id"]] = data

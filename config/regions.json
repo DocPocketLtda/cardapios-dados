@@ -84,7 +84,22 @@
           "id": "sp/interior",
           "name": "Interior de São Paulo",
           "phase": 1,
-          "default": true
+          "default": true,
+          "note": "Resto do estado, dividido pelo polo mais perto de cada restaurante (como as regiões intermediárias do IBGE).",
+          "split": [
+            {"id": "sp/jundiai", "name": "Jundiaí e Bragança Paulista", "center": {"lat": -23.1857, "lon": -46.8978}},
+            {"id": "sp/sorocaba", "name": "Região de Sorocaba", "center": {"lat": -23.5015, "lon": -47.4526}},
+            {"id": "sp/vale-do-paraiba", "name": "Vale do Paraíba e Serra da Mantiqueira", "center": {"lat": -23.1896, "lon": -45.8841}},
+            {"id": "sp/piracicaba", "name": "Piracicaba, Limeira e Rio Claro", "center": {"lat": -22.7253, "lon": -47.6492}},
+            {"id": "sp/ribeirao-preto", "name": "Região de Ribeirão Preto e Franca", "center": {"lat": -21.1775, "lon": -47.8103}},
+            {"id": "sp/araraquara", "name": "Araraquara e São Carlos", "center": {"lat": -21.7845, "lon": -48.178}},
+            {"id": "sp/bauru", "name": "Região de Bauru", "center": {"lat": -22.3246, "lon": -49.0871}},
+            {"id": "sp/marilia", "name": "Região de Marília", "center": {"lat": -22.2139, "lon": -49.9458}},
+            {"id": "sp/presidente-prudente", "name": "Região de Presidente Prudente", "center": {"lat": -22.1207, "lon": -51.3925}},
+            {"id": "sp/aracatuba", "name": "Região de Araçatuba", "center": {"lat": -21.2089, "lon": -50.4328}},
+            {"id": "sp/sao-jose-do-rio-preto", "name": "Região de São José do Rio Preto", "center": {"lat": -20.8113, "lon": -49.3758}},
+            {"id": "sp/vale-do-ribeira", "name": "Vale do Ribeira e Itapetininga", "center": {"lat": -24.0, "lon": -48.2}}
+          ]
         }
       ]
     }
