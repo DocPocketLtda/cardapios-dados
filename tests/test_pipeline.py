@@ -11,7 +11,7 @@ from cardapios_dados.links import (FetchResult, LinkCache, Robots, classify, ext
                                    is_publishable, is_store_url, link_kind, link_rank, update_entry)
 from cardapios_dados.match import (Place, dedupe_sources, jaro_winkler, match_places, name_similarity, names_match,
                                    phone_key, token_set_ratio)
-from cardapios_dados.publish import coverage_cells, file_for, guard, region_entry, robust_bbox
+from cardapios_dados.publish import CELL_MIN_SHARE, coverage_cells, file_for, guard, region_entry, robust_bbox
 
 CONFIG = {"publish": {"max_row_loss": 0.2, "min_rows_for_guard": 50}}
 
@@ -249,6 +249,14 @@ class PublishTests(unittest.TestCase):
         self.assertEqual(file_for({"_municipality": "Santa Barbara d'Oeste"}, files)["id"], "sp/campinas")
         self.assertEqual(file_for({"_municipality": "Bauru"}, files)["id"], "sp/interior")
         self.assertEqual(file_for({"_municipality": ""}, files)["id"], "sp/interior")
+
+    def test_a_few_misfiled_rows_dont_claim_a_cell(self):
+        capital = [(-23.56, -46.65)] * 95
+        interior = [(-23.56, -46.65)] * 5 + [(-22.95, -47.06)]
+        totals = {(-236, -467): 100, (-230, -471): 1}
+        self.assertEqual(coverage_cells(capital, totals), ["-236,-467"])
+        self.assertEqual(coverage_cells(interior, totals), ["-230,-471"])
+        self.assertLess(5 / 100, CELL_MIN_SHARE)
 
     def test_coverage_cells_and_robust_bbox(self):
         points = [(-23.55, -46.63), (-23.56, -46.64), (-22.91, -47.06)] * 40 + [(0.9, -52.0)]

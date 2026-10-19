@@ -123,14 +123,30 @@ def csv_bytes(rows, columns):
 
 
 CELL_SIZE = 0.1  # degrees (~11 km): the app picks regions by the cells around the user
+# A region keeps a cell only with this share of the cell's restaurants: a few misfiled rows (an
+# interior city parsed from a capital address) must not make the app download the interior too.
+CELL_MIN_SHARE = 0.1
 
 
-def coverage_cells(points):
-    """Grid cells ("-236,-467" = floor(lat*10), floor(lon*10)) with at least one restaurant.
+def cell_of(point):
+    return (math.floor(point[0] / CELL_SIZE), math.floor(point[1] / CELL_SIZE))
+
+
+def coverage_cells(points, totals=None):
+    """Grid cells ("-236,-467" = floor(lat/0.1), floor(lon/0.1)) with restaurants of the region.
+    `totals` counts every region's restaurants per cell; then the region needs CELL_MIN_SHARE of them.
     The app downloads the regions whose cells touch the user's cell or its 8 neighbors, and
     treats the user as inside the covered area under the same rule."""
-    cells = {(math.floor(a / CELL_SIZE), math.floor(b / CELL_SIZE)) for a, b in points}
+    counts = Counter(cell_of(p) for p in points)
+    cells = [c for c, n in counts.items() if totals is None or n >= CELL_MIN_SHARE * totals.get(c, n)]
     return [f"{a},{b}" for a, b in sorted(cells)]
+
+
+def area_points(rows, area_bbox=None):
+    points = [(to_float(r["latitude"]), to_float(r["longitude"])) for r in rows]
+    # Sheet typos (lat 0.9, -30.0) would blow up the bbox: only points inside the area count.
+    return [(a, b) for a, b in points if a is not None and b is not None
+            and (area_bbox is None or in_bbox(a, b, area_bbox))]
 
 
 def robust_bbox(points):
@@ -144,11 +160,8 @@ def robust_bbox(points):
             "max_lat": round(lats[high], 5), "max_lon": round(lons[high], 5)}
 
 
-def region_entry(spec, area_id, rows, data, base_url, previous, area_bbox=None):
-    points = [(to_float(r["latitude"]), to_float(r["longitude"])) for r in rows]
-    # Sheet typos (lat 0.9, -30.0) would blow up the bbox: only points inside the area count.
-    points = [(a, b) for a, b in points if a is not None and b is not None
-              and (area_bbox is None or in_bbox(a, b, area_bbox))]
+def region_entry(spec, area_id, rows, data, base_url, previous, area_bbox=None, cell_totals=None):
+    points = area_points(rows, area_bbox)
     sha = hashlib.sha256(data).hexdigest()
     now = utc_now().isoformat().replace("+00:00", "Z")
     prev = previous.get(spec["id"], {})
@@ -159,7 +172,7 @@ def region_entry(spec, area_id, rows, data, base_url, previous, area_bbox=None):
         "app_default": bool(spec.get("app_default", False)),
         "bbox": robust_bbox(points),
         "center": center,
-        "cells": coverage_cells(points),
+        "cells": coverage_cells(points, cell_totals),
         "url": f"{base_url}/{spec['id']}.csv",
         "rows": len(rows),
         "restaurants": len({restaurant_key(r["name"], r["address"]) for r in rows}),
@@ -263,13 +276,20 @@ def publish(config, merged_path=None, cache_path=None, out_dir=None, force=False
     previous = last.get("regions", {})
     base_url = config["pages_base_url"]
 
+    # Restaurants per cell over the regions the app downloads (phase 0 repeats them).
+    cell_totals = Counter()
+    for area in config["areas"].values():
+        for spec in area["files"]:
+            if spec.get("phase", 1) >= 1:
+                cell_totals.update(cell_of(p) for p in area_points(files.get(spec["id"], []), area["bbox"]))
+
     entries, payloads = [], {}
     for area_id, area in config["areas"].items():
         for spec in area["files"]:
             rows = files.get(spec["id"], [])
             data = csv_bytes(rows, columns)
             payloads[spec["id"]] = data
-            entries.append(region_entry(spec, area_id, rows, data, base_url, previous, area["bbox"]))
+            entries.append(region_entry(spec, area_id, rows, data, base_url, previous, area["bbox"], cell_totals))
 
     violations = guard(entries, previous, config)
     diffs = {}
