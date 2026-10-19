@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-18T22:12:52Z",
+  "generated_at": "2026-10-19T01:23:19Z",
   "regions": {
     "sp/grande-sp": {
-      "rows": 2478,
-      "restaurants": 2474,
-      "sha256": "d09a3e2d4e812072bef926cbf7300ebfdc7a834dc8c01b560cec2ff89315e447",
-      "updated_at": "2026-10-18T15:54:36Z"
+      "rows": 2465,
+      "restaurants": 2461,
+      "sha256": "6b7c33f8324090414db4b4555adc8e890546402a4268c9b2ec64f4ac5eb6e240",
+      "updated_at": "2026-10-19T01:23:18Z"
     },
     "sp/capital": {
-      "rows": 6393,
-      "restaurants": 6389,
-      "sha256": "c0821deb0d754b040a832f86587fe40fece53c94c341953a24d9685ef9cfffae",
-      "updated_at": "2026-10-18T22:12:49Z"
+      "rows": 6423,
+      "restaurants": 6419,
+      "sha256": "92dc941fde8c594871540ee61e714fe93a2aa0dc59ababa9eb45763cca91905a",
+      "updated_at": "2026-10-19T01:23:18Z"
     },
     "sp/metropolitana": {
-      "rows": 2415,
-      "restaurants": 2415,
-      "sha256": "b3057fc637c24efd0eec4a7871fbb509257180a2e735b7b104633d449e7c346f",
-      "updated_at": "2026-10-18T22:12:49Z"
+      "rows": 2442,
+      "restaurants": 2442,
+      "sha256": "6b1a687c985ec8258eb101f0ecc5e7f3634aea4256ffaa25a19704af0c40b1d1",
+      "updated_at": "2026-10-19T01:23:18Z"
     },
     "sp/campinas": {
-      "rows": 1318,
-      "restaurants": 1318,
-      "sha256": "2afbdce0f2dab067c73f6d70a3bfdca2d7782b975e75e4cffc5c2e7c60a1817a",
-      "updated_at": "2026-10-18T22:12:49Z"
+      "rows": 1332,
+      "restaurants": 1332,
+      "sha256": "548a4548a00e857296acbdab7eb3bb0baa0f24bf8d83ff3120b06df307d37e03",
+      "updated_at": "2026-10-19T01:23:18Z"
     },
     "sp/litoral": {
-      "rows": 771,
-      "restaurants": 771,
-      "sha256": "90c5e4c81f590c6ffc92ef762dc8d528d5ce04579c358ae057c67f2f9adfbea1",
-      "updated_at": "2026-10-18T22:12:49Z"
+      "rows": 782,
+      "restaurants": 782,
+      "sha256": "7c21d0047985b08423342438cd968b6eadc538fa56d92c7b134a16e772ba5f2b",
+      "updated_at": "2026-10-19T01:23:18Z"
     },
     "sp/interior": {
-      "rows": 5001,
-      "restaurants": 4997,
-      "sha256": "9fc284ba655f808b092eb56fe203586dc1ff088687889eb2e5d61c14259cf0af",
-      "updated_at": "2026-10-18T22:12:49Z"
+      "rows": 5100,
+      "restaurants": 5096,
+      "sha256": "17c17d3b01b2683eb4e4bd21a5fefca5f84504a926a6505b2a2bd595c52f0eba",
+      "updated_at": "2026-10-19T01:23:18Z"
     }
   }
 }
