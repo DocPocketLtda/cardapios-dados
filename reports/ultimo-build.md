@@ -1,41 +1,41 @@
-# Relatório do build (26/10/2026 14:40 UTC)
+# Relatório do build (02/11/2026 17:13 UTC)
 
 ## Regiões
 
 | Região | Linhas antes | Linhas agora | Restaurantes | Entraram | Saíram | Tamanho |
 |---|---:|---:|---:|---:|---:|---:|
-| `sp/grande-sp` | 2467 | 2460 | 2456 | 0 | 7 | 848 KB |
-| `sp/capital` | 6387 | 6763 | 6749 | 490 | 124 | 2086 KB |
-| `sp/metropolitana` | 2443 | 2632 | 2626 | 252 | 69 | 787 KB |
-| `sp/campinas` | 1352 | 1472 | 1469 | 154 | 37 | 430 KB |
-| `sp/litoral` | 794 | 866 | 865 | 99 | 28 | 254 KB |
-| `sp/jundiai` | 615 | 682 | 681 | 80 | 14 | 200 KB |
-| `sp/sorocaba` | 603 | 672 | 664 | 77 | 15 | 196 KB |
-| `sp/vale-do-paraiba` | 762 | 853 | 848 | 105 | 18 | 261 KB |
-| `sp/piracicaba` | 651 | 724 | 720 | 91 | 22 | 211 KB |
-| `sp/ribeirao-preto` | 680 | 742 | 736 | 81 | 25 | 220 KB |
-| `sp/araraquara` | 380 | 417 | 414 | 48 | 14 | 123 KB |
-| `sp/bauru` | 374 | 413 | 410 | 48 | 11 | 119 KB |
-| `sp/marilia` | 261 | 292 | 289 | 34 | 6 | 84 KB |
-| `sp/presidente-prudente` | 142 | 150 | 150 | 14 | 6 | 46 KB |
-| `sp/aracatuba` | 214 | 241 | 241 | 31 | 4 | 71 KB |
-| `sp/sao-jose-do-rio-preto` | 408 | 460 | 457 | 61 | 11 | 141 KB |
-| `sp/vale-do-ribeira` | 126 | 137 | 137 | 15 | 4 | 40 KB |
+| `sp/grande-sp` | 2460 | 2460 | 2456 | 0 | 0 | 848 KB |
+| `sp/capital` | 6763 | 6772 | 6758 | 9 | 0 | 2088 KB |
+| `sp/metropolitana` | 2632 | 2633 | 2627 | 1 | 0 | 787 KB |
+| `sp/campinas` | 1472 | 1477 | 1474 | 5 | 0 | 432 KB |
+| `sp/litoral` | 866 | 871 | 870 | 5 | 0 | 255 KB |
+| `sp/jundiai` | 682 | 685 | 684 | 3 | 0 | 201 KB |
+| `sp/sorocaba` | 672 | 674 | 666 | 2 | 0 | 196 KB |
+| `sp/vale-do-paraiba` | 853 | 853 | 848 | 0 | 0 | 261 KB |
+| `sp/piracicaba` | 724 | 725 | 721 | 1 | 0 | 212 KB |
+| `sp/ribeirao-preto` | 742 | 744 | 738 | 2 | 0 | 221 KB |
+| `sp/araraquara` | 417 | 418 | 415 | 1 | 0 | 124 KB |
+| `sp/bauru` | 413 | 416 | 413 | 3 | 0 | 120 KB |
+| `sp/marilia` | 292 | 293 | 290 | 1 | 0 | 85 KB |
+| `sp/presidente-prudente` | 150 | 150 | 150 | 0 | 0 | 46 KB |
+| `sp/aracatuba` | 241 | 241 | 241 | 0 | 0 | 71 KB |
+| `sp/sao-jose-do-rio-preto` | 460 | 464 | 461 | 4 | 0 | 142 KB |
+| `sp/vale-do-ribeira` | 137 | 137 | 137 | 0 | 0 | 40 KB |
 
 ## Links
 
 | Origem:status | Linhas |
 |---|---:|
-| overture:falhando | 990 |
-| overture:incerto | 4499 |
-| overture:ok | 13967 |
-| overture:omitidas | 46968 |
+| overture:falhando | 1 |
+| overture:incerto | 4494 |
+| overture:ok | 14004 |
+| overture:omitidas | 46931 |
 | overture:pendente | 32754 |
-| overture:quebrado | 9432 |
-| overture:reparadas | 3903 |
+| overture:quebrado | 10389 |
+| overture:reparadas | 3938 |
 | overture:sem link | 382 |
-| planilha:incerto | 111 |
-| planilha:ok | 2320 |
+| planilha:incerto | 110 |
+| planilha:ok | 2321 |
 | planilha:omitidas | 18 |
 | planilha:pendente | 29 |
 | planilha:quebrado | 18 |
@@ -76,7 +76,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | 5690 | Coracao Mineiro | https://coracaomineiro.com.br/ |
 | 6830 | Yug Sushi | https://eatyug.com.br/wp-content/uploads/2026/06/yug-menu-online.pdf |
 
-## Links trocados automaticamente (3983)
+## Links trocados automaticamente (4018)
 
 | Nome | Antes | Depois | Como |
 |---|---|---|---|
