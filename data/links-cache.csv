@@ -432,7 +432,7 @@ http://bancarios561.placeweb.site/,site,,1,quebrado,server,,http://bancarios561.
 http://bandeirantesupermercados.com.br,site,,2,ok,ok,200,http://bandeirantesupermercados.com.br,0,,2026-10-18T13:49:55Z,2026-10-18T13:49:55Z,2026-10-18T13:49:55Z,1,Bandeirante Supermercados,,,
 http://banquinhadopastel1.placeweb.site/,site,,2,quebrado,parked,200,http://banquinhadopastel1.placeweb.site/,3,2026-10-23,2026-10-18T13:54:06Z,2026-10-23T14:29:00Z,,,placeweb.site,,,
 http://baoabeca1.placeweb.site,site,,2,quebrado,parked,200,http://baoabeca1.placeweb.site,2,2026-11-01,2026-10-26T13:59:38Z,2026-11-01T16:25:11Z,,,placeweb.site,,,
-http://baoabeca1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://baoabeca1.placeweb.site/,site,,1,falhando,server,,http://baoabeca1.placeweb.site/,1,2026-11-02,2026-11-02T19:50:57Z,2026-11-02T19:50:57Z,,,,,,timeout
 http://baodimaesdistribuidora.weebly.com/,site,,2,ok,ok,200,https://baodimaesdistribuidora.weebly.com/,0,,2026-10-18T13:49:55Z,2026-10-18T13:49:55Z,2026-10-18T13:49:55Z,1,Bão dimaes distribuidora - Bão Dimaes,,,
 http://bar-butequim-da-villa.negocio.site/,site,,2,quebrado,dead,404,http://bar-butequim-da-villa.negocio.site/,2,2026-10-19,2026-10-18T13:49:55Z,2026-10-19T16:42:38Z,,,Error 404 (Not Found)!!1,,,
 http://baramerico.com.br,site,,2,quebrado,conn,,http://baramerico.com.br,2,2026-10-19,2026-10-18T13:49:55Z,2026-10-19T01:16:56Z,,,,,,conn:gaierror
@@ -541,7 +541,7 @@ http://baristassjc.com.br,site,,2,ok,ok,200,http://baristassjc.com.br,0,,2026-10
 http://barlanchonetejuquilanches.placeweb.site,site,,2,quebrado,server,,http://barlanchonetejuquilanches.placeweb.site,3,2026-10-22,2026-10-18T13:56:46Z,2026-10-22T15:04:36Z,,,,,,timeout
 http://barlanchonetejuquilanches.placeweb.site/,site,,1,quebrado,server,,http://barlanchonetejuquilanches.placeweb.site/,3,2026-10-29,2026-10-26T14:33:59Z,2026-10-29T16:35:55Z,,,,,,timeout
 http://barlanchoneteromassa1.placeweb.site,site,,2,quebrado,server,,http://barlanchoneteromassa1.placeweb.site,3,2026-11-01,2026-10-26T13:27:32Z,2026-11-01T16:36:21Z,,,,,,timeout
-http://barlanchoneteromassa1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://barlanchoneteromassa1.placeweb.site/,site,,1,falhando,parked,200,http://barlanchoneteromassa1.placeweb.site/,1,2026-11-02,2026-11-02T19:49:34Z,2026-11-02T19:49:34Z,,,placeweb.site,,,
 http://barlatis.negocio.site/,site,,2,quebrado,dead,404,http://barlatis.negocio.site/,2,2026-10-19,2026-10-18T13:50:24Z,2026-10-19T16:44:18Z,,,Error 404 (Not Found)!!1,,,
 http://barleo.zendesk.com/hc/pt-br,site,,0,ok,ok,200,https://www.zendesk.com.br/help-center-closed/?utm_source=helpcenter-closed&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=barleo.zendesk.com,0,,2026-10-18T13:46:29Z,2026-10-18T13:46:29Z,2026-10-18T13:46:29Z,1,Central de ajuda fechada,,,
 http://barluizfernandesandorinha.placeweb.site/,site,,2,quebrado,server,,http://barluizfernandesandorinha.placeweb.site/,3,2026-11-02,2026-10-26T13:51:06Z,2026-11-02T16:22:10Z,,,,,,timeout
@@ -1362,7 +1362,7 @@ http://chictony.com/,site,,2,quebrado,conn,,http://chictony.com/,2,2026-10-19,20
 http://chinaexpressnutre1.jimdo.com/,site,,2,quebrado,conn,,http://chinaexpressnutre1.jimdo.com/,2,2026-10-19,2026-10-18T14:57:20Z,2026-10-19T03:28:56Z,,,,,,conn:SSLError
 http://chinahouse.com.br,site,,2,ok,ok,200,https://chinahouse.com.br/,0,,2026-10-18T15:05:35Z,2026-10-18T15:05:35Z,2026-10-18T15:05:35Z,1,A Casa da Comida Chinesa | China House,,,
 http://chinahow.placeweb.site,site,,2,quebrado,server,,http://chinahow.placeweb.site,3,2026-11-02,2026-10-26T13:56:24Z,2026-11-02T16:27:18Z,,,,,,timeout
-http://chinahow.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://chinahow.placeweb.site/,site,,1,falhando,parked,200,http://chinahow.placeweb.site/,1,2026-11-02,2026-11-02T19:49:26Z,2026-11-02T19:49:26Z,,,placeweb.site,,,
 http://chinaimperial.com.br/,site,,0,ok,ok,200,https://chinaimperial.com.br/,0,,2026-10-18T13:46:36Z,2026-10-18T13:46:36Z,2026-10-18T13:46:36Z,1,China Imperial – O melhor Restaurante Chinês de São Paulo,,https://chinaimperial.com.br/cardapio/,
 http://chinatownfood.menudino.com/,plataforma,menudino,2,incerto,blocked,403,http://chinatownfood.menudino.com/,,,2026-10-18T15:28:11Z,2026-11-01T16:42:29Z,,,Attention Required! | Cloudflare,,,
 http://chococausantos.com.br/,site,,2,incerto,blocked,403,https://chococausantos.com.br/,,,2026-10-18T15:01:39Z,2026-11-01T16:25:05Z,,,Just a moment...,,,
@@ -1653,7 +1653,7 @@ http://deborasantos1981.com/deborabolos,site,,2,quebrado,conn,,http://deborasant
 http://deckcafe1.placeweb.site/,site,,2,quebrado,server,,http://deckcafe1.placeweb.site/,3,2026-10-25,2026-10-23T14:40:21Z,2026-10-25T14:03:35Z,,,,,,timeout
 http://deigo1.placeweb.site,site,,2,quebrado,server,,http://deigo1.placeweb.site,3,2026-10-22,2026-10-18T15:28:11Z,2026-10-22T14:45:08Z,,,,,,timeout
 http://delicatessen2.placeweb.site,site,,2,quebrado,server,,http://delicatessen2.placeweb.site,3,2026-11-02,2026-10-26T13:52:44Z,2026-11-02T16:23:44Z,,,,,,timeout
-http://delicatessen2.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://delicatessen2.placeweb.site/,site,,1,falhando,parked,200,http://delicatessen2.placeweb.site/,1,2026-11-02,2026-11-02T19:48:52Z,2026-11-02T19:48:52Z,,,placeweb.site,,,
 http://delicebrasil1.placeweb.site/,site,,2,quebrado,parked,200,http://delicebrasil1.placeweb.site/,2,2026-10-24,2026-10-23T14:33:26Z,2026-10-24T13:38:05Z,,,placeweb.site,,,
 http://deliciadetortinha.com.br,site,,2,quebrado,conn,,http://deliciadetortinha.com.br,2,2026-10-19,2026-10-18T14:52:00Z,2026-10-19T03:25:59Z,,,,,,conn:gaierror
 http://deliciadetortinha.com.br/,site,,1,quebrado,conn,,http://deliciadetortinha.com.br/,2,2026-10-20,2026-10-19T03:31:23Z,2026-10-20T14:32:26Z,,,,,,conn:gaierror
@@ -2048,7 +2048,7 @@ http://espetinhodochina.placeweb.site/,site,,2,quebrado,server,,http://espetinho
 http://espetinhodogarapa.placeweb.site,site,,2,quebrado,server,,http://espetinhodogarapa.placeweb.site,3,2026-10-22,2026-10-18T15:26:45Z,2026-10-22T14:44:38Z,,,,,,timeout
 http://espetinhodogarapa.placeweb.site/,site,,1,quebrado,server,,http://espetinhodogarapa.placeweb.site/,3,2026-10-29,2026-10-26T14:19:15Z,2026-10-29T16:33:59Z,,,,,,timeout
 http://espetinhodotiao1.placeweb.site,site,,2,quebrado,server,,http://espetinhodotiao1.placeweb.site,3,2026-11-02,2026-10-26T13:52:14Z,2026-11-02T16:23:06Z,,,,,,timeout
-http://espetinhodotiao1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://espetinhodotiao1.placeweb.site/,site,,1,falhando,server,,http://espetinhodotiao1.placeweb.site/,1,2026-11-02,2026-11-02T19:51:11Z,2026-11-02T19:51:11Z,,,,,,timeout
 http://espetinhoechoppcentral.com.br/,site,,2,quebrado,conn,,http://espetinhoechoppcentral.com.br/,2,2026-10-19,2026-10-18T14:59:06Z,2026-10-19T16:39:13Z,,,,,,conn:gaierror
 http://espetinhofc.net/,site,,2,ok,ok,200,https://espetinhofc.net/,0,,2026-10-26T13:20:50Z,2026-10-26T13:20:50Z,2026-10-26T13:20:50Z,1,Espetinho Futebol Clube,,,
 http://espetinhooliveira1.placeweb.site,site,,2,quebrado,parked,200,http://espetinhooliveira1.placeweb.site,2,2026-10-31,2026-10-26T13:56:42Z,2026-10-31T15:53:49Z,,,placeweb.site,,,
@@ -2278,7 +2278,7 @@ http://fogoburger.com/peca-agora/,site,,2,quebrado,conn,,http://fogoburger.com/p
 http://fogovivo.app/unidade/fogovivo,site,,2,ok,ok,200,https://fogovivo.app/unidade/fogovivo,0,,2026-10-18T15:04:48Z,2026-10-18T15:04:48Z,2026-10-18T15:04:48Z,0,Fogo Vivo,,,
 http://fogovivo.com.br,site,,2,ok,ok,200,https://fogovivo.com.br/,0,,2026-10-18T15:04:39Z,2026-10-18T15:04:39Z,2026-10-18T15:04:39Z,0,Fogo Vivo Grelhados,,,
 http://fontdog.placeweb.site,site,,2,quebrado,server,,http://fontdog.placeweb.site,3,2026-11-02,2026-10-26T14:07:16Z,2026-11-02T16:36:58Z,,,,,,timeout
-http://fontdog.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://fontdog.placeweb.site/,site,,1,falhando,parked,200,http://fontdog.placeweb.site/,1,2026-11-02,2026-11-02T19:49:08Z,2026-11-02T19:49:08Z,,,placeweb.site,,,
 http://formulamorumbipizzaria.com.br/,site,,2,quebrado,conn,,http://formulamorumbipizzaria.com.br/,2,2026-10-19,2026-10-18T14:56:21Z,2026-10-19T03:28:23Z,,,,,,conn:gaierror
 http://fornalhadeouro.wdelivery.com.br/,site,,2,ok,ok,200,https://fornalhadeouro.wdelivery.com.br/,0,,2026-10-18T14:42:23Z,2026-10-18T14:42:23Z,2026-10-18T14:42:23Z,0,,,,
 http://fornalhapizzaria1.placeweb.site/,site,,2,quebrado,server,,http://fornalhapizzaria1.placeweb.site/,3,2026-10-22,2026-10-18T22:11:12Z,2026-10-22T15:03:44Z,,,,,,timeout
@@ -2416,7 +2416,7 @@ http://geniusburger1.placeweb.site/,site,,1,quebrado,server,,http://geniusburger
 http://geremiaslanches1.placeweb.site,site,,2,quebrado,server,,http://geremiaslanches1.placeweb.site,3,2026-11-02,2026-10-26T13:51:14Z,2026-11-02T16:22:16Z,,,,,,timeout
 http://geremiaslanches1.placeweb.site/,site,,1,falhando,server,,http://geremiaslanches1.placeweb.site/,1,2026-11-02,2026-11-02T16:56:53Z,2026-11-02T16:56:53Z,,,,,,timeout
 http://germannrestauranteesalq.placeweb.site,site,,2,quebrado,server,,http://germannrestauranteesalq.placeweb.site,3,2026-11-02,2026-10-26T14:01:46Z,2026-11-02T16:31:28Z,,,,,,timeout
-http://germannrestauranteesalq.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://germannrestauranteesalq.placeweb.site/,site,,1,falhando,server,,http://germannrestauranteesalq.placeweb.site/,1,2026-11-02,2026-11-02T19:51:17Z,2026-11-02T19:51:17Z,,,,,,timeout
 http://gero.placeweb.site,site,,2,quebrado,server,,http://gero.placeweb.site,3,2026-10-22,2026-10-18T15:36:45Z,2026-10-22T14:53:46Z,,,,,,timeout
 http://gero.placeweb.site/,site,,1,quebrado,server,,http://gero.placeweb.site/,3,2026-10-30,2026-10-26T16:40:06Z,2026-10-30T16:25:50Z,,,,,,timeout
 http://gessolanches1.placeweb.site/,site,,2,quebrado,server,,http://gessolanches1.placeweb.site/,3,2026-10-25,2026-10-23T14:52:44Z,2026-10-25T14:14:11Z,,,,,,timeout
@@ -2649,7 +2649,7 @@ http://hotmart.net.br/menu,site,,1,quebrado,soft404,200,https://hotmart.com:443/
 http://hotmart.net.br/show.html?a=Y4419782S,site,,2,quebrado,dead,404,https://go.hotmart.com/Y4419782S?a=Y4419782S,2,2026-10-19,2026-10-18T14:46:59Z,2026-10-19T01:18:42Z,,,Hotmart,,,
 http://hotpao1.placeweb.site/,site,,2,quebrado,server,,http://hotpao1.placeweb.site/,3,2026-10-21,2026-10-18T15:18:29Z,2026-10-21T15:03:54Z,,,,,,timeout
 http://housecookiebauru.placeweb.site,site,,2,quebrado,server,,http://housecookiebauru.placeweb.site,3,2026-11-01,2026-10-26T13:37:50Z,2026-11-01T16:44:13Z,,,,,,timeout
-http://housecookiebauru.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://housecookiebauru.placeweb.site/,site,,1,falhando,parked,200,http://housecookiebauru.placeweb.site/,1,2026-11-02,2026-11-02T19:48:50Z,2026-11-02T19:48:50Z,,,placeweb.site,,,
 http://housedarua.com.br/,site,,2,quebrado,conn,,http://housedarua.com.br/,2,2026-10-19,2026-10-18T14:54:20Z,2026-10-19T03:27:14Z,,,,,,conn:gaierror
 http://hsiricascudo.com.br/,site,,2,quebrado,conn,,http://hsiricascudo.com.br/,2,2026-10-19,2026-10-18T14:52:31Z,2026-10-19T03:26:15Z,,,,,,conn:gaierror
 http://hummdeufome.menudino.com/,plataforma,menudino,2,incerto,blocked,403,http://hummdeufome.menudino.com/,,,2026-10-18T15:13:48Z,2026-11-01T16:31:31Z,,,Attention Required! | Cloudflare,,,
@@ -2720,7 +2720,7 @@ http://institucional.habibs.com.br,site,,2,quebrado,conn,,http://institucional.h
 http://institucional.habibs.com.br/,site,,1,quebrado,conn,,http://institucional.habibs.com.br/,2,2026-10-19,2026-10-18T15:03:28Z,2026-10-19T01:18:20Z,,,,,,conn:gaierror
 http://intagram.com/bacodvinowinebar,site,,0,incerto,blocked,,http://intagram.com/bacodvinowinebar,,,2026-10-18T13:46:44Z,2026-11-01T16:24:31Z,,,,,,robots.txt
 http://intercoffeecomercioeindustria.placeweb.site,site,,2,quebrado,server,,http://intercoffeecomercioeindustria.placeweb.site,3,2026-11-02,2026-10-26T14:05:10Z,2026-11-02T16:35:06Z,,,,,,timeout
-http://intercoffeecomercioeindustria.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://intercoffeecomercioeindustria.placeweb.site/,site,,1,falhando,parked,200,http://intercoffeecomercioeindustria.placeweb.site/,1,2026-11-02,2026-11-02T19:49:38Z,2026-11-02T19:49:38Z,,,placeweb.site,,,
 http://invernoditaliacoffee.com.br,site,,2,quebrado,parked,200,http://invernoditaliacoffee.com.br,2,2026-10-27,2026-10-26T13:20:14Z,2026-10-27T15:35:01Z,,,invernoditaliacoffee.com.br,,,
 http://invernoditaliacoffee.com.br/,site,,1,falhando,server,,http://invernoditaliacoffee.com.br/,1,2026-11-02,2026-11-02T16:47:21Z,2026-11-02T16:47:21Z,,,,,,timeout
 http://ipiranga-juvenil.webdone.com,site,,2,quebrado,server,,http://ipiranga-juvenil.webdone.com,3,2026-10-20,2026-10-18T14:54:59Z,2026-10-20T14:35:02Z,,,,,,timeout
@@ -2809,7 +2809,7 @@ http://jipangu.com.br/,site,,1,quebrado,conn,,http://jipangu.com.br/,2,2026-10-2
 http://joaobrigadeiro.com.br,site,,2,quebrado,conn,,http://joaobrigadeiro.com.br,2,2026-10-19,2026-10-18T15:00:47Z,2026-10-19T16:40:10Z,,,,,,conn:gaierror
 http://joaobrigadeiro.com.br/,site,,1,quebrado,conn,,http://joaobrigadeiro.com.br/,2,2026-10-27,2026-10-26T14:10:12Z,2026-10-27T15:34:42Z,,,,,,conn:gaierror
 http://joaquinacomidinhaseeventos.placeweb.site,site,,2,quebrado,server,,http://joaquinacomidinhaseeventos.placeweb.site,3,2026-11-02,2026-10-26T14:05:04Z,2026-11-02T16:35:02Z,,,,,,timeout
-http://joaquinacomidinhaseeventos.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://joaquinacomidinhaseeventos.placeweb.site/,site,,1,falhando,parked,200,http://joaquinacomidinhaseeventos.placeweb.site/,1,2026-11-02,2026-11-02T19:49:28Z,2026-11-02T19:49:28Z,,,placeweb.site,,,
 http://jobras.com.br,site,,2,ok,ok,200,https://www.jo-bras.com.br/,0,,2026-10-18T14:49:06Z,2026-10-18T14:49:06Z,2026-10-18T14:49:06Z,0,Início | JÔ-BRÁS,,,
 http://johnnyrockets.com.br,site,,2,ok,ok,200,https://johnnyrockets.com.br/,0,,2026-10-18T15:06:00Z,2026-10-18T15:06:00Z,2026-10-18T15:06:00Z,1,"Johnny Rockets – Johnny Rockets é uma cadeia de restaurantes americana, especializada em fast-food.",,https://johnnyrockets.com.br/cardapio/nutricional.pdf,
 http://johnnyrockets.com.br/,site,,0,ok,ok,200,https://johnnyrockets.com.br/,0,,2026-10-18T13:46:48Z,2026-10-18T13:46:48Z,2026-10-18T13:46:48Z,1,"Johnny Rockets – Johnny Rockets é uma cadeia de restaurantes americana, especializada em fast-food.",,https://johnnyrockets.com.br/cardapio/nutricional.pdf,
@@ -3084,7 +3084,7 @@ http://lanchessevilha.com.br,site,,2,quebrado,conn,,http://lanchessevilha.com.br
 http://lanchessevilha.com.br/,site,,1,quebrado,conn,,http://lanchessevilha.com.br/,2,2026-10-20,2026-10-19T03:31:19Z,2026-10-20T14:32:11Z,,,,,,conn:gaierror
 http://lanchestiaana1.placeweb.site/,site,,2,quebrado,server,,http://lanchestiaana1.placeweb.site/,3,2026-10-22,2026-10-18T15:32:39Z,2026-10-22T14:49:32Z,,,,,,timeout
 http://lanchestiptop.placeweb.site,site,,2,quebrado,server,,http://lanchestiptop.placeweb.site,3,2026-10-30,2026-10-25T14:20:59Z,2026-10-30T16:36:30Z,,,,,,timeout
-http://lanchestiptop.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://lanchestiptop.placeweb.site/,site,,1,falhando,parked,200,http://lanchestiptop.placeweb.site/,1,2026-11-02,2026-11-02T19:49:36Z,2026-11-02T19:49:36Z,,,placeweb.site,,,
 http://lanchonete-chivito.placestars.com/,site,,2,quebrado,conn,,http://lanchonete-chivito.placestars.com/,2,2026-10-19,2026-10-18T15:06:54Z,2026-10-19T16:42:04Z,,,,,,conn:gaierror
 http://lanchonete13.placeweb.site,site,,2,quebrado,server,,http://lanchonete13.placeweb.site,3,2026-10-21,2026-10-18T15:17:19Z,2026-10-21T15:02:02Z,,,,,,timeout
 http://lanchonete13.placeweb.site/,site,,1,quebrado,server,,http://lanchonete13.placeweb.site/,3,2026-10-29,2026-10-26T14:35:17Z,2026-10-29T16:31:01Z,,,,,,timeout
@@ -3096,7 +3096,7 @@ http://lanchonetebomgosto-diner.negocio.site/,site,,2,quebrado,dead,404,http://l
 http://lanchonetecais487.placeweb.site,site,,2,quebrado,server,,http://lanchonetecais487.placeweb.site,3,2026-11-02,2026-10-26T13:48:00Z,2026-11-02T16:18:46Z,,,,,,timeout
 http://lanchonetecais487.placeweb.site/,site,,1,falhando,server,,http://lanchonetecais487.placeweb.site/,1,2026-11-02,2026-11-02T17:12:47Z,2026-11-02T17:12:47Z,,,,,,timeout
 http://lanchonetecerejinha1.placeweb.site,site,,2,quebrado,server,,http://lanchonetecerejinha1.placeweb.site,3,2026-11-02,2026-10-26T13:50:18Z,2026-11-02T16:21:14Z,,,,,,timeout
-http://lanchonetecerejinha1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://lanchonetecerejinha1.placeweb.site/,site,,1,falhando,parked,200,http://lanchonetecerejinha1.placeweb.site/,1,2026-11-02,2026-11-02T19:48:54Z,2026-11-02T19:48:54Z,,,placeweb.site,,,
 http://lanchonetedaamizade.placeweb.site/,site,,2,quebrado,server,,http://lanchonetedaamizade.placeweb.site/,3,2026-10-25,2026-10-23T14:49:10Z,2026-10-25T14:11:21Z,,,,,,timeout
 http://lanchonetediferente.placeweb.site,site,,2,quebrado,server,,http://lanchonetediferente.placeweb.site,3,2026-11-01,2026-10-26T13:43:26Z,2026-11-01T16:50:17Z,,,,,,timeout
 http://lanchonetediferente.placeweb.site/,site,,1,falhando,server,,http://lanchonetediferente.placeweb.site/,1,2026-11-02,2026-11-02T16:53:27Z,2026-11-02T16:53:27Z,,,,,,timeout
@@ -3527,7 +3527,7 @@ http://marbellesjc.com.br/,site,,2,quebrado,conn,,http://marbellesjc.com.br/,2,2
 http://marcialanches2.placeweb.site,site,,2,quebrado,server,,http://marcialanches2.placeweb.site,3,2026-11-01,2026-10-26T13:39:36Z,2026-11-01T16:46:01Z,,,,,,timeout
 http://marcialanches2.placeweb.site/,site,,1,falhando,server,,http://marcialanches2.placeweb.site/,1,2026-11-02,2026-11-02T17:11:51Z,2026-11-02T17:11:51Z,,,,,,timeout
 http://marciliodias.placeweb.site,site,,2,quebrado,server,,http://marciliodias.placeweb.site,3,2026-11-02,2026-10-26T14:04:30Z,2026-11-02T16:34:22Z,,,,,,timeout
-http://marciliodias.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://marciliodias.placeweb.site/,site,,1,falhando,parked,200,http://marciliodias.placeweb.site/,1,2026-11-02,2026-11-02T19:49:32Z,2026-11-02T19:49:32Z,,,placeweb.site,,,
 http://marciodfr.meusitenouol.com.br/,site,,2,quebrado,conn,,http://marciodfr.meusitenouol.com.br/,2,2026-10-19,2026-10-18T14:46:01Z,2026-10-19T01:18:20Z,,,,,,conn:gaierror
 http://marconifastfood1.placeweb.site,site,,2,quebrado,server,,http://marconifastfood1.placeweb.site,3,2026-10-25,2026-10-23T14:42:46Z,2026-10-25T14:06:09Z,,,,,,timeout
 http://marconifastfood1.placeweb.site/,site,,1,quebrado,server,,http://marconifastfood1.placeweb.site/,3,2026-10-29,2026-10-26T14:36:07Z,2026-10-29T16:33:15Z,,,,,,timeout
@@ -3732,7 +3732,7 @@ http://mineirodelivery.com.br/cardapio.pdf,pdf,,1,quebrado,dead,404,https://mine
 http://mineirodelivery.com.br/franquias,site,,2,quebrado,dead,404,https://mineirodelivery.com.br/franquias,2,2026-10-19,2026-10-18T14:46:41Z,2026-10-19T01:18:34Z,,,Página não encontrada - Mineiro Delivery,,,
 http://mineirodelivery.com.br/menu,site,,1,quebrado,dead,404,https://mineirodelivery.com.br/menu,2,2026-10-20,2026-10-19T01:22:53Z,2026-10-20T14:35:48Z,,,Página não encontrada - Mineiro Delivery,,,
 http://minerbakery2.placeweb.site,site,,2,quebrado,parked,200,http://minerbakery2.placeweb.site,2,2026-10-31,2026-10-26T13:45:26Z,2026-10-31T15:42:53Z,,,placeweb.site,,,
-http://minerbakery2.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://minerbakery2.placeweb.site/,site,,1,falhando,server,,http://minerbakery2.placeweb.site/,1,2026-11-02,2026-11-02T19:49:51Z,2026-11-02T19:49:51Z,,,,,,timeout
 http://mirairestaurante.com.br/,site,,2,ok,ok,200,http://mirairestaurante.com.br/,0,,2026-10-18T14:55:05Z,2026-10-18T14:55:05Z,2026-10-18T14:55:05Z,0,,,,
 http://mirantedachica.placeweb.site,site,,2,quebrado,server,,http://mirantedachica.placeweb.site,3,2026-10-21,2026-10-18T15:18:23Z,2026-10-21T15:03:42Z,,,,,,timeout
 http://mirantedachica.placeweb.site/,site,,1,quebrado,server,,http://mirantedachica.placeweb.site/,3,2026-10-29,2026-10-26T14:17:07Z,2026-10-29T16:40:23Z,,,,,,timeout
@@ -3868,7 +3868,7 @@ http://naturalissimo-cozinha-vegetariana.placestars.com/,site,,2,quebrado,conn,,
 http://naturalmix6.placeweb.site/,site,,2,quebrado,server,,http://naturalmix6.placeweb.site/,3,2026-11-02,2026-10-26T13:58:50Z,2026-11-02T16:29:16Z,,,,,,timeout
 http://naturaltogo.com.br/,site,,2,quebrado,conn,,http://naturaltogo.com.br/,2,2026-10-19,2026-10-18T14:44:19Z,2026-10-19T01:17:14Z,,,,,,conn:gaierror
 http://naturrestauranteelanchonete1.placeweb.site,site,,2,quebrado,server,,http://naturrestauranteelanchonete1.placeweb.site,3,2026-11-02,2026-10-26T14:00:40Z,2026-11-02T16:30:22Z,,,,,,timeout
-http://naturrestauranteelanchonete1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://naturrestauranteelanchonete1.placeweb.site/,site,,1,falhando,server,,http://naturrestauranteelanchonete1.placeweb.site/,1,2026-11-02,2026-11-02T19:50:59Z,2026-11-02T19:50:59Z,,,,,,timeout
 http://naufrutosdomar.com.br/,site,,0,ok,ok,200,https://naufrutosdomar.com.br/,0,,2026-10-18T13:46:58Z,2026-10-18T13:46:58Z,2026-10-18T13:46:58Z,1,"Nau – O melhor restaurante de peixes e frutos do mar de João Pessoa, Natal, Brasília, Recife e São Paulo.",,,
 http://naumlanches.seumenudigital.com.br/,site,,2,quebrado,conn,,http://naumlanches.seumenudigital.com.br/,2,2026-10-19,2026-10-18T14:46:48Z,2026-10-19T01:18:38Z,,,,,,conn:gaierror
 http://nauroyal.com.br/,site,,2,ok,ok,200,https://www.nauroyal.com.br/,0,,2026-10-18T14:46:16Z,2026-10-18T14:46:16Z,2026-10-18T14:46:16Z,0,Hotel Spa Nau Royal - Romance e luxo sobre as areias de Cambury!,,,
@@ -3962,7 +3962,7 @@ http://novaliba.com.br/,site,,2,ok,ok,200,http://novaliba.com.br/,0,,2026-10-18T
 http://novaliba.com.br/cardapio.html,site,,1,ok,ok,200,http://novaliba.com.br/cardapio.html,0,,2026-10-18T15:41:54Z,2026-10-18T15:41:54Z,2026-10-18T15:41:54Z,1,Cardápio - Nova Liba,,http://novaliba.com.br/assets/cardapio_nova-liba_2020_site.pdf,
 http://novaluigi.com.br/,site,,2,ok,ok,200,http://menudigital.tec.br/novaluigi,0,,2026-10-18T14:51:03Z,2026-10-18T14:51:03Z,2026-10-18T14:51:03Z,1,Cardápio | Pizzaria e Esfiharia Nova Luigi,,,
 http://novamascena.placeweb.site,site,,2,quebrado,server,,http://novamascena.placeweb.site,3,2026-11-01,2026-10-26T13:43:04Z,2026-11-01T16:49:53Z,,,,,,timeout
-http://novamascena.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://novamascena.placeweb.site/,site,,1,falhando,server,,http://novamascena.placeweb.site/,1,2026-11-02,2026-11-02T19:49:55Z,2026-11-02T19:49:55Z,,,,,,timeout
 http://novamediterraneo.com.br/,site,,2,quebrado,conn,,http://novamediterraneo.com.br/,2,2026-10-19,2026-10-18T14:51:46Z,2026-10-19T03:25:51Z,,,,,,conn:gaierror
 http://novaopcaopizzaria.negocio.site/,site,,2,quebrado,dead,404,http://novaopcaopizzaria.negocio.site/,2,2026-10-20,2026-10-18T15:29:49Z,2026-10-20T14:33:40Z,,,Error 404 (Not Found)!!1,,,
 http://novapadariapaocia.placeweb.site,site,,2,quebrado,server,,http://novapadariapaocia.placeweb.site,3,2026-10-21,2026-10-18T15:22:05Z,2026-10-21T15:06:46Z,,,,,,timeout
@@ -4074,7 +4074,7 @@ http://onionmenu.com.br/restaurante/corujao-lanches,site,,2,quebrado,conn,,http:
 http://onossochurrasqueto.com.br,site,,2,quebrado,conn,,http://onossochurrasqueto.com.br,2,2026-10-19,2026-10-18T14:52:00Z,2026-10-19T03:25:58Z,,,,,,conn:gaierror
 http://onossochurrasqueto.com.br/,site,,1,quebrado,conn,,http://onossochurrasqueto.com.br/,2,2026-10-20,2026-10-19T03:30:26Z,2026-10-20T14:30:36Z,,,,,,conn:gaierror
 http://opala.placeweb.site,site,,2,quebrado,server,,http://opala.placeweb.site,3,2026-11-02,2026-10-26T14:04:16Z,2026-11-02T16:34:00Z,,,,,,timeout
-http://opala.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://opala.placeweb.site/,site,,1,falhando,server,,http://opala.placeweb.site/,1,2026-11-02,2026-11-02T19:51:21Z,2026-11-02T19:51:21Z,,,,,,timeout
 http://opastel.com.br,site,,2,incerto,blocked,,http://opastel.com.br,,,2026-10-18T14:47:53Z,2026-11-01T16:24:44Z,,,,,,robots.txt
 http://operapizzabar.wixsite.com/opera,site,,0,ok,ok,200,https://operapizzabar.wixsite.com/opera,0,,2026-10-18T13:46:58Z,2026-10-18T13:46:58Z,2026-10-18T13:46:58Z,1,Início | Ópera Pizza Bar,,,
 http://operetta.com.br/,site,,0,ok,ok,200,https://operetta.com.br/,0,,2026-10-18T13:46:57Z,2026-10-18T13:46:57Z,2026-10-18T13:46:57Z,1,"Operetta Pizzaria - Non è solo una pizza, è Operetta - Salão & Delivery",https://www.ifood.com.br/delivery/sao-paulo-sp/operetta-pizzas-aclimacao/64da93f9-afd7-4aca-b508-e9af99733c2f,https://operetta.com.br/cardapio-de-pizzas/,
@@ -4335,7 +4335,7 @@ http://padariaeconfeitariauniao3.placeweb.site,site,,2,quebrado,server,,http://p
 http://padariaeconfeitariauniao3.placeweb.site/,site,,1,quebrado,parked,200,http://padariaeconfeitariauniao3.placeweb.site/,2,2026-10-28,2026-10-26T16:37:52Z,2026-10-28T16:28:36Z,,,placeweb.site,,,
 http://padariaeconfeitariaveneza2.placeweb.site/,site,,2,quebrado,server,,http://padariaeconfeitariaveneza2.placeweb.site/,3,2026-10-21,2026-10-18T15:15:59Z,2026-10-21T15:00:22Z,,,,,,timeout
 http://padariaelanchonetedlucca.placeweb.site,site,,2,quebrado,server,,http://padariaelanchonetedlucca.placeweb.site,3,2026-11-02,2026-10-26T14:04:20Z,2026-11-02T16:34:12Z,,,,,,timeout
-http://padariaelanchonetedlucca.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://padariaelanchonetedlucca.placeweb.site/,site,,1,falhando,server,,http://padariaelanchonetedlucca.placeweb.site/,1,2026-11-02,2026-11-02T19:51:35Z,2026-11-02T19:51:35Z,,,,,,timeout
 http://padariaelanchoneteprainha.placeweb.site/,site,,2,quebrado,server,,http://padariaelanchoneteprainha.placeweb.site/,3,2026-11-01,2026-10-26T13:29:08Z,2026-11-01T16:37:51Z,,,,,,timeout
 http://padariaelanchonetevaledosolpadariadoolivio.placeweb.site,site,,2,quebrado,server,,http://padariaelanchonetevaledosolpadariadoolivio.placeweb.site,3,2026-10-21,2026-10-18T15:16:41Z,2026-10-21T15:01:36Z,,,,,,timeout
 http://padariaelanchonetevaledosolpadariadoolivio.placeweb.site/,site,,1,quebrado,server,,http://padariaelanchonetevaledosolpadariadoolivio.placeweb.site/,3,2026-10-30,2026-10-26T14:25:47Z,2026-10-30T16:23:52Z,,,,,,timeout
@@ -4480,7 +4480,7 @@ http://padariamiramar1.placeweb.site,site,,2,quebrado,server,,http://padariamira
 http://padariamiramar1.placeweb.site/,site,,1,falhando,server,,http://padariamiramar1.placeweb.site/,1,2026-11-02,2026-11-02T17:10:11Z,2026-11-02T17:10:11Z,,,,,,timeout
 http://padariamirante.placeweb.site/,site,,2,quebrado,server,,http://padariamirante.placeweb.site/,3,2026-11-02,2026-10-26T14:02:30Z,2026-11-02T16:32:12Z,,,,,,timeout
 http://padariamobydik1.placeweb.site,site,,2,quebrado,server,,http://padariamobydik1.placeweb.site,3,2026-11-02,2026-10-26T13:58:00Z,2026-11-02T16:28:30Z,,,,,,timeout
-http://padariamobydik1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://padariamobydik1.placeweb.site/,site,,1,falhando,parked,200,http://padariamobydik1.placeweb.site/,1,2026-11-02,2026-11-02T19:48:58Z,2026-11-02T19:48:58Z,,,placeweb.site,,,
 http://padariamogiguararema.placeweb.site/,site,,2,quebrado,server,,http://padariamogiguararema.placeweb.site/,3,2026-11-02,2026-10-26T14:01:40Z,2026-11-02T16:31:22Z,,,,,,timeout
 http://padariamoinhodoparaiso1.placeweb.site/,site,,2,quebrado,server,,http://padariamoinhodoparaiso1.placeweb.site/,3,2026-10-25,2026-10-23T14:52:26Z,2026-10-25T14:13:39Z,,,,,,timeout
 http://padariamontalto.placeweb.site,site,,2,quebrado,parked,200,http://padariamontalto.placeweb.site,2,2026-10-20,2026-10-18T15:37:47Z,2026-10-20T14:47:30Z,,,placeweb.site,,,
@@ -4562,7 +4562,7 @@ http://padariapaodoceu2.placeweb.site/,site,,1,quebrado,parked,200,http://padari
 http://padariapaododia1.placeweb.site,site,,2,quebrado,server,,http://padariapaododia1.placeweb.site,3,2026-10-25,2026-10-23T14:52:30Z,2026-10-25T14:13:43Z,,,,,,timeout
 http://padariapaododia1.placeweb.site/,site,,1,quebrado,server,,http://padariapaododia1.placeweb.site/,3,2026-10-30,2026-10-26T16:42:20Z,2026-10-30T16:30:14Z,,,,,,timeout
 http://padariapaokent1.placeweb.site,site,,2,quebrado,server,,http://padariapaokent1.placeweb.site,3,2026-10-30,2026-10-25T14:22:17Z,2026-10-30T16:38:28Z,,,,,,timeout
-http://padariapaokent1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://padariapaokent1.placeweb.site/,site,,1,falhando,parked,200,http://padariapaokent1.placeweb.site/,1,2026-11-02,2026-11-02T19:49:24Z,2026-11-02T19:49:24Z,,,placeweb.site,,,
 http://padariapaonosso26.placeweb.site/,site,,2,quebrado,server,,http://padariapaonosso26.placeweb.site/,3,2026-11-02,2026-10-26T13:50:14Z,2026-11-02T16:21:10Z,,,,,,timeout
 http://padariapaonossocapivari1.placeweb.site,site,,2,quebrado,server,,http://padariapaonossocapivari1.placeweb.site,3,2026-10-22,2026-10-18T15:36:35Z,2026-10-22T14:53:42Z,,,,,,timeout
 http://padariapaonossocapivari1.placeweb.site/,site,,1,quebrado,parked,200,http://padariapaonossocapivari1.placeweb.site/,2,2026-10-27,2026-10-26T14:22:41Z,2026-10-27T15:36:26Z,,,placeweb.site,,,
@@ -4618,7 +4618,7 @@ http://padariarainhadoslagos.placeweb.site,site,,2,quebrado,server,,http://padar
 http://padariarainhadoslagos.placeweb.site/,site,,1,quebrado,server,,http://padariarainhadoslagos.placeweb.site/,3,2026-10-29,2026-10-26T14:31:51Z,2026-10-29T16:39:49Z,,,,,,timeout
 http://padariarainhadosmananciais1.placeweb.site/,site,,2,quebrado,server,,http://padariarainhadosmananciais1.placeweb.site/,3,2026-10-21,2026-10-18T15:06:15Z,2026-10-21T14:53:24Z,,,,,,timeout
 http://padariarealeza.placeweb.site,site,,2,quebrado,server,,http://padariarealeza.placeweb.site,3,2026-11-01,2026-10-26T13:44:28Z,2026-11-01T16:50:51Z,,,,,,timeout
-http://padariarealeza.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://padariarealeza.placeweb.site/,site,,1,falhando,server,,http://padariarealeza.placeweb.site/,1,2026-11-02,2026-11-02T19:51:37Z,2026-11-02T19:51:37Z,,,,,,timeout
 http://padariarenascer.com.br,site,,2,quebrado,conn,,http://padariarenascer.com.br,2,2026-10-19,2026-10-18T14:52:23Z,2026-10-19T03:26:11Z,,,,,,conn:gaierror
 http://padariarenascer.com.br/,site,,1,quebrado,conn,,http://padariarenascer.com.br/,2,2026-10-20,2026-10-19T03:30:32Z,2026-10-20T14:32:46Z,,,,,,conn:gaierror
 http://padariasamambaia.placeweb.site/,site,,2,quebrado,server,,http://padariasamambaia.placeweb.site/,3,2026-10-26,2026-10-24T14:01:48Z,2026-10-26T13:23:48Z,,,,,,timeout
@@ -4701,14 +4701,14 @@ http://padariatrevo1.placeweb.site/,site,,2,quebrado,server,,http://padariatrevo
 http://padariatrigal.com.br/,site,,2,quebrado,conn,,http://padariatrigal.com.br/,2,2026-10-19,2026-10-18T15:01:21Z,2026-10-19T16:40:28Z,,,,,,conn:SSLCertVerificationError
 http://padariatropical.com.br,site,,2,ok,ok,200,http://padariatropical.com.br,0,,2026-10-18T15:04:15Z,2026-10-18T15:04:15Z,2026-10-18T15:04:15Z,0,,,,
 http://padariatulipa.placeweb.site,site,,2,quebrado,parked,200,http://padariatulipa.placeweb.site,2,2026-10-31,2026-10-26T13:34:06Z,2026-10-31T15:31:51Z,,,placeweb.site,,,
-http://padariatulipa.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://padariatulipa.placeweb.site/,site,,1,falhando,server,,http://padariatulipa.placeweb.site/,1,2026-11-02,2026-11-02T19:50:03Z,2026-11-02T19:50:03Z,,,,,,timeout
 http://padariaveloso.com.br/,site,,2,quebrado,conn,,http://padariaveloso.com.br/,2,2026-10-19,2026-10-18T14:52:13Z,2026-10-19T03:26:05Z,,,,,,conn:gaierror
 http://padariavieira.placeweb.site,site,,2,quebrado,server,,http://padariavieira.placeweb.site,3,2026-10-21,2026-10-18T14:02:57Z,2026-10-21T14:53:02Z,,,,,,timeout
 http://padariavieira.placeweb.site/,site,,1,quebrado,server,,http://padariavieira.placeweb.site/,3,2026-10-29,2026-10-26T14:34:01Z,2026-10-29T16:29:31Z,,,,,,timeout
 http://padariavilapan.placeweb.site,site,,2,quebrado,server,,http://padariavilapan.placeweb.site,3,2026-10-22,2026-10-18T15:39:37Z,2026-10-22T14:56:04Z,,,,,,timeout
 http://padariavilapan.placeweb.site/,site,,1,quebrado,parked,200,http://padariavilapan.placeweb.site/,2,2026-10-27,2026-10-26T14:27:05Z,2026-10-27T15:46:27Z,,,placeweb.site,,,
 http://padariavillabuena.placeweb.site,site,,2,quebrado,server,,http://padariavillabuena.placeweb.site,3,2026-11-02,2026-10-26T13:54:52Z,2026-11-02T16:25:52Z,,,,,,timeout
-http://padariavillabuena.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://padariavillabuena.placeweb.site/,site,,1,falhando,server,,http://padariavillabuena.placeweb.site/,1,2026-11-02,2026-11-02T19:51:25Z,2026-11-02T19:51:25Z,,,,,,timeout
 http://padariavillaquitauna.placeweb.site/,site,,2,quebrado,server,,http://padariavillaquitauna.placeweb.site/,3,2026-11-01,2026-10-26T13:38:56Z,2026-11-01T16:45:21Z,,,,,,timeout
 http://padariavistaverde.placeweb.site,site,,2,quebrado,server,,http://padariavistaverde.placeweb.site,3,2026-10-25,2026-10-23T14:40:16Z,2026-10-25T14:03:13Z,,,,,,timeout
 http://padariavistaverde.placeweb.site/,site,,1,quebrado,server,,http://padariavistaverde.placeweb.site/,3,2026-10-29,2026-10-26T16:31:56Z,2026-10-29T16:48:07Z,,,,,,timeout
@@ -4755,7 +4755,7 @@ http://pallazze.com.br/,site,,2,ok,ok,200,http://pallazze.com.br/,0,,2026-10-18T
 http://palmadeouro.com.br,site,,2,ok,ok,200,https://palmadeouro.com.br/,0,,2026-10-18T15:04:53Z,2026-10-18T15:04:53Z,2026-10-18T15:04:53Z,1,Palma de Ouro Padaria & Restaurante,,https://palmadeouro.com.br/cardapio.pdf,
 http://palmadeouro.com.br/,site,,1,ok,ok,200,https://palmadeouro.com.br/,0,,2026-10-18T15:41:42Z,2026-10-18T15:41:42Z,2026-10-18T15:41:42Z,1,Palma de Ouro Padaria & Restaurante,,https://palmadeouro.com.br/cardapio.pdf,
 http://palmirarefeicoescoletivas.placeweb.site,site,,2,quebrado,server,,http://palmirarefeicoescoletivas.placeweb.site,3,2026-11-02,2026-10-26T14:02:42Z,2026-11-02T16:32:24Z,,,,,,timeout
-http://palmirarefeicoescoletivas.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://palmirarefeicoescoletivas.placeweb.site/,site,,1,falhando,server,,http://palmirarefeicoescoletivas.placeweb.site/,1,2026-11-02,2026-11-02T19:50:01Z,2026-11-02T19:50:01Z,,,,,,timeout
 http://paloma-pasteis.webnode.com/,site,,2,ok,ok,200,https://paloma-pasteis.webnode.page/,0,,2026-10-18T15:05:13Z,2026-10-18T15:05:13Z,2026-10-18T15:05:13Z,1,paloma pastéis,,,
 http://pamonhacia1.placeweb.site,site,,2,quebrado,server,,http://pamonhacia1.placeweb.site,3,2026-11-02,2026-10-26T14:06:44Z,2026-11-02T16:36:24Z,,,,,,timeout
 http://pamonhacia1.placeweb.site/,site,,1,falhando,server,,http://pamonhacia1.placeweb.site/,1,2026-11-02,2026-11-02T17:03:37Z,2026-11-02T17:03:37Z,,,,,,timeout
@@ -4868,7 +4868,7 @@ http://panificadoraepadariaflordolageado.placeweb.site/,site,,2,quebrado,server,
 http://panificadoraerestaurantelisboa1.placeweb.site,site,,2,quebrado,server,,http://panificadoraerestaurantelisboa1.placeweb.site,3,2026-10-22,2026-10-18T15:40:23Z,2026-10-22T14:57:40Z,,,,,,timeout
 http://panificadoraerestaurantelisboa1.placeweb.site/,site,,1,quebrado,server,,http://panificadoraerestaurantelisboa1.placeweb.site/,3,2026-10-30,2026-10-26T14:11:25Z,2026-10-30T16:23:58Z,,,,,,timeout
 http://panificadoraesquinaluzitana1.placeweb.site,site,,2,quebrado,server,,http://panificadoraesquinaluzitana1.placeweb.site,3,2026-11-01,2026-10-26T13:38:52Z,2026-11-01T16:45:17Z,,,,,,timeout
-http://panificadoraesquinaluzitana1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://panificadoraesquinaluzitana1.placeweb.site/,site,,1,falhando,parked,200,http://panificadoraesquinaluzitana1.placeweb.site/,1,2026-11-02,2026-11-02T19:49:16Z,2026-11-02T19:49:16Z,,,placeweb.site,,,
 http://panificadoraestrela12.placeweb.site/,site,,2,quebrado,parked,200,http://panificadoraestrela12.placeweb.site/,3,2026-11-01,2026-10-26T13:28:26Z,2026-11-01T16:37:07Z,,,placeweb.site,,,
 http://panificadoraestreladailha.placeweb.site,site,,2,quebrado,server,,http://panificadoraestreladailha.placeweb.site,3,2026-10-21,2026-10-18T15:18:45Z,2026-10-21T15:03:56Z,,,,,,timeout
 http://panificadoraestreladailha.placeweb.site/,site,,1,quebrado,server,,http://panificadoraestreladailha.placeweb.site/,3,2026-10-29,2026-10-26T16:27:36Z,2026-10-29T16:39:51Z,,,,,,timeout
@@ -4970,7 +4970,7 @@ http://panificadoraouropao1.placeweb.site,site,,2,quebrado,server,,http://panifi
 http://panificadoraouropao1.placeweb.site/,site,,1,quebrado,server,,http://panificadoraouropao1.placeweb.site/,3,2026-10-29,2026-10-26T14:13:57Z,2026-10-29T16:44:39Z,,,,,,timeout
 http://panificadorapaodafamilia.com.br/,site,,2,ok,ok,200,https://panificadorapaodafamilia.com.br/,0,,2026-10-18T15:02:01Z,2026-10-25T13:56:41Z,2026-10-25T13:56:41Z,0,Panificadora Pão da Família | Bauru-SP,,,
 http://panificadorapaodahora7.placeweb.site,site,,2,quebrado,server,,http://panificadorapaodahora7.placeweb.site,3,2026-11-02,2026-10-26T13:47:06Z,2026-11-02T16:17:58Z,,,,,,timeout
-http://panificadorapaodahora7.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://panificadorapaodahora7.placeweb.site/,site,,1,falhando,server,,http://panificadorapaodahora7.placeweb.site/,1,2026-11-02,2026-11-02T19:51:15Z,2026-11-02T19:51:15Z,,,,,,timeout
 http://panificadorapaodemel.placeweb.site/,site,,2,quebrado,server,,http://panificadorapaodemel.placeweb.site/,3,2026-10-22,2026-10-18T15:30:35Z,2026-10-22T14:47:24Z,,,,,,timeout
 http://panificadorapaodeprata1.placeweb.site/,site,,2,quebrado,server,,http://panificadorapaodeprata1.placeweb.site/,3,2026-11-02,2026-10-26T13:48:58Z,2026-11-02T16:19:54Z,,,,,,timeout
 http://panificadoraparaiso4.placeweb.site/,site,,2,quebrado,parked,200,http://panificadoraparaiso4.placeweb.site/,3,2026-10-21,2026-10-18T15:07:20Z,2026-10-21T14:53:38Z,,,placeweb.site,,,
@@ -5001,7 +5001,7 @@ http://panificadorariveza.vitrinevirtual.net,site,,2,incerto,blocked,,http://pan
 http://panificadoraromano1.placeweb.site,site,,2,quebrado,parked,200,http://panificadoraromano1.placeweb.site,2,2026-10-31,2026-10-26T13:34:32Z,2026-10-31T15:32:03Z,,,placeweb.site,,,
 http://panificadoraromano1.placeweb.site/,site,,1,falhando,server,,http://panificadoraromano1.placeweb.site/,1,2026-11-02,2026-11-02T16:57:13Z,2026-11-02T16:57:13Z,,,,,,timeout
 http://panificadoraronex.placeweb.site,site,,2,quebrado,server,,http://panificadoraronex.placeweb.site,3,2026-10-30,2026-10-25T14:20:51Z,2026-10-30T16:36:28Z,,,,,,timeout
-http://panificadoraronex.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://panificadoraronex.placeweb.site/,site,,1,falhando,server,,http://panificadoraronex.placeweb.site/,1,2026-11-02,2026-11-02T19:51:19Z,2026-11-02T19:51:19Z,,,,,,timeout
 http://panificadorarosanova1.placeweb.site,site,,2,quebrado,parked,200,http://panificadorarosanova1.placeweb.site,2,2026-10-24,2026-10-23T14:33:16Z,2026-10-24T13:37:55Z,,,placeweb.site,,,
 http://panificadorarosanova1.placeweb.site/,site,,1,quebrado,server,,http://panificadorarosanova1.placeweb.site/,3,2026-10-29,2026-10-26T16:32:02Z,2026-10-29T16:48:19Z,,,,,,timeout
 http://panificadorarostisseriedoporto.placeweb.site,site,,2,quebrado,parked,200,http://panificadorarostisseriedoporto.placeweb.site,2,2026-10-31,2026-10-26T13:33:46Z,2026-10-31T15:31:39Z,,,placeweb.site,,,
@@ -5053,7 +5053,7 @@ http://panificadorawashingtonluizdesantosltda1.placeweb.site,site,,2,quebrado,pa
 http://panificadorawashingtonluizdesantosltda1.placeweb.site/,site,,1,falhando,server,,http://panificadorawashingtonluizdesantosltda1.placeweb.site/,1,2026-11-02,2026-11-02T16:48:17Z,2026-11-02T16:48:17Z,,,,,,timeout
 http://paninipizzas.com.br,site,,2,ok,ok,200,https://paninipizzas.com.br/,0,,2026-10-18T15:03:33Z,2026-10-18T15:03:33Z,2026-10-18T15:03:33Z,0,Pizzaria Panini,,,
 http://panitalia.placeweb.site,site,,2,quebrado,server,,http://panitalia.placeweb.site,3,2026-10-30,2026-10-25T14:22:05Z,2026-10-30T16:38:16Z,,,,,,timeout
-http://panitalia.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://panitalia.placeweb.site/,site,,1,falhando,server,,http://panitalia.placeweb.site/,1,2026-11-02,2026-11-02T19:51:07Z,2026-11-02T19:51:07Z,,,,,,timeout
 http://panne-france-padaria.negocio.site/,site,,2,quebrado,dead,404,http://panne-france-padaria.negocio.site/,2,2026-10-19,2026-10-18T15:15:17Z,2026-10-19T16:50:02Z,,,Error 404 (Not Found)!!1,,,
 http://panquecaecia.com.br,site,,2,incerto,blocked,,http://panquecaecia.com.br,,,2026-10-18T15:04:15Z,2026-11-01T16:25:07Z,,,,,,robots.txt
 http://panquecasdirene.com.br/,site,,2,quebrado,conn,,http://panquecasdirene.com.br/,2,2026-10-19,2026-10-18T14:47:30Z,2026-10-19T01:18:57Z,,,,,,conn:gaierror
@@ -5132,7 +5132,7 @@ http://pastelaria16.placeweb.site/,site,,2,quebrado,server,,http://pastelaria16.
 http://pastelaria3irmaos.placeweb.site,site,,2,quebrado,server,,http://pastelaria3irmaos.placeweb.site,3,2026-11-02,2026-10-26T13:50:10Z,2026-11-02T16:21:02Z,,,,,,timeout
 http://pastelaria3irmaos.placeweb.site/,site,,1,falhando,server,,http://pastelaria3irmaos.placeweb.site/,1,2026-11-02,2026-11-02T16:51:09Z,2026-11-02T16:51:09Z,,,,,,timeout
 http://pastelariaarosco.placeweb.site,site,,2,quebrado,server,,http://pastelariaarosco.placeweb.site,3,2026-11-01,2026-10-26T13:41:12Z,2026-11-01T16:47:39Z,,,,,,timeout
-http://pastelariaarosco.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://pastelariaarosco.placeweb.site/,site,,1,falhando,parked,200,http://pastelariaarosco.placeweb.site/,1,2026-11-02,2026-11-02T19:49:04Z,2026-11-02T19:49:04Z,,,placeweb.site,,,
 http://pastelariabarril1.placeweb.site,site,,2,quebrado,server,,http://pastelariabarril1.placeweb.site,3,2026-11-01,2026-10-26T13:41:20Z,2026-11-01T16:47:47Z,,,,,,timeout
 http://pastelariabarril1.placeweb.site/,site,,1,falhando,server,,http://pastelariabarril1.placeweb.site/,1,2026-11-02,2026-11-02T17:01:51Z,2026-11-02T17:01:51Z,,,,,,timeout
 http://pastelariacentral.placeweb.site/,site,,2,quebrado,server,,http://pastelariacentral.placeweb.site/,3,2026-10-30,2026-10-25T14:20:23Z,2026-10-30T16:36:16Z,,,,,,timeout
@@ -5508,7 +5508,7 @@ http://pizzariacapriolliiii.placeweb.site/,site,,2,quebrado,server,,http://pizza
 http://pizzariacarbonelli.com.br,site,,2,quebrado,conn,,http://pizzariacarbonelli.com.br,2,2026-10-19,2026-10-18T15:02:23Z,2026-10-19T16:41:02Z,,,,,,conn:gaierror
 http://pizzariacarbonelli.com.br/,site,,1,quebrado,conn,,http://pizzariacarbonelli.com.br/,2,2026-10-27,2026-10-26T14:10:34Z,2026-10-27T15:34:07Z,,,,,,conn:gaierror
 http://pizzariacasanostra2.placeweb.site,site,,2,quebrado,server,,http://pizzariacasanostra2.placeweb.site,3,2026-11-02,2026-10-26T14:00:30Z,2026-11-02T16:30:12Z,,,,,,timeout
-http://pizzariacasanostra2.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://pizzariacasanostra2.placeweb.site/,site,,1,falhando,server,,http://pizzariacasanostra2.placeweb.site/,1,2026-11-02,2026-11-02T19:50:55Z,2026-11-02T19:50:55Z,,,,,,timeout
 http://pizzariacasanovasbc.com.br/,site,,2,quebrado,conn,,http://pizzariacasanovasbc.com.br/,2,2026-10-19,2026-10-18T15:00:20Z,2026-10-19T16:39:58Z,,,,,,conn:gaierror
 http://pizzariacaselatto.com/,site,,2,quebrado,conn,,http://pizzariacaselatto.com/,2,2026-10-19,2026-10-18T15:04:57Z,2026-10-19T16:39:37Z,,,,,,conn:gaierror
 http://pizzariacasella.com.br/,site,,0,ok,ok,200,https://www.pizzariacasella.com.br/,0,,2026-10-18T13:47:02Z,2026-10-18T13:47:02Z,2026-10-18T13:47:02Z,1,Pizzaria Casella: pizzas e pastas | Casella,,https://www.pizzariacasella.com.br/menu,
@@ -5560,7 +5560,7 @@ http://pizzariaechoperiacasanova.placeweb.site,site,,2,quebrado,server,,http://p
 http://pizzariaechoperiacasanova.placeweb.site/,site,,1,falhando,server,,http://pizzariaechoperiacasanova.placeweb.site/,1,2026-11-02,2026-11-02T16:53:53Z,2026-11-02T16:53:53Z,,,,,,timeout
 http://pizzariaeesfihariadabeatrizwhatsap119529329211.placeweb.site,site,,2,quebrado,server,,http://pizzariaeesfihariadabeatrizwhatsap119529329211.placeweb.site,3,2026-11-02,2026-10-26T14:03:14Z,2026-11-02T16:32:58Z,,,,,,timeout
 http://pizzariaeesfihariadigill1.placeweb.site,site,,2,quebrado,server,,http://pizzariaeesfihariadigill1.placeweb.site,3,2026-11-01,2026-10-26T13:36:14Z,2026-11-01T16:42:43Z,,,,,,timeout
-http://pizzariaeesfihariadigill1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://pizzariaeesfihariadigill1.placeweb.site/,site,,1,falhando,server,,http://pizzariaeesfihariadigill1.placeweb.site/,1,2026-11-02,2026-11-02T19:51:29Z,2026-11-02T19:51:29Z,,,,,,timeout
 http://pizzariaeesfiharianicole1.placeweb.site,site,,2,quebrado,server,,http://pizzariaeesfiharianicole1.placeweb.site,3,2026-10-25,2026-10-23T14:51:11Z,2026-10-25T14:13:31Z,,,,,,timeout
 http://pizzariaeesfiharianicole1.placeweb.site/,site,,1,quebrado,server,,http://pizzariaeesfiharianicole1.placeweb.site/,3,2026-10-29,2026-10-26T14:31:23Z,2026-10-29T16:34:01Z,,,,,,timeout
 http://pizzariaeesfihariasabordaterra.placeweb.site/,site,,2,quebrado,server,,http://pizzariaeesfihariasabordaterra.placeweb.site/,3,2026-10-22,2026-10-18T15:40:49Z,2026-10-22T14:57:52Z,,,,,,timeout
@@ -5593,9 +5593,9 @@ http://pizzariafratello2.placeweb.site/,site,,1,falhando,server,,http://pizzaria
 http://pizzariafussy.com.br/,site,,2,quebrado,conn,,http://pizzariafussy.com.br/,2,2026-10-19,2026-10-18T14:49:25Z,2026-10-19T01:19:57Z,,,,,,conn:gaierror
 http://pizzariagiordano.saipos.com/,plataforma,saipos,2,ok,ok,200,https://pizzariagiordano.saipos.com/,0,,2026-10-18T15:14:43Z,2026-10-18T15:14:43Z,2026-10-18T15:14:43Z,1,Faça o seu pedido!,https://pizzariagiordano.saipos.com/home,,
 http://pizzariagostonatural.placeweb.site,site,,2,quebrado,server,,http://pizzariagostonatural.placeweb.site,3,2026-11-02,2026-10-26T14:04:14Z,2026-11-02T16:33:56Z,,,,,,timeout
-http://pizzariagostonatural.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://pizzariagostonatural.placeweb.site/,site,,1,falhando,server,,http://pizzariagostonatural.placeweb.site/,1,2026-11-02,2026-11-02T19:51:39Z,2026-11-02T19:51:39Z,,,,,,timeout
 http://pizzariagulagula.placeweb.site,site,,2,quebrado,server,,http://pizzariagulagula.placeweb.site,3,2026-11-02,2026-10-26T13:53:32Z,2026-11-02T16:24:38Z,,,,,,timeout
-http://pizzariagulagula.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://pizzariagulagula.placeweb.site/,site,,1,falhando,server,,http://pizzariagulagula.placeweb.site/,1,2026-11-02,2026-11-02T19:51:09Z,2026-11-02T19:51:09Z,,,,,,timeout
 http://pizzariahorus.menudino.com/,plataforma,menudino,2,incerto,blocked,403,http://pizzariahorus.menudino.com/,,,2026-10-18T15:27:53Z,2026-11-01T16:42:17Z,,,Attention Required! | Cloudflare,,,
 http://pizzariaidealbotucatu.com.br/,site,,2,ok,ok,200,https://pizzariaidealbotucatu.com.br/,0,,2026-10-18T14:51:32Z,2026-10-18T14:51:32Z,2026-10-18T14:51:32Z,0,Pizzaria Ideal de Botucatu,,,
 http://pizzariaimperio.com.br/,site,,2,quebrado,dead,404,http://pizzariaimperio.com.br/,2,2026-10-19,2026-10-18T14:58:27Z,2026-10-19T03:29:34Z,,,,,,
@@ -5633,7 +5633,7 @@ http://pizzariamestredapizza.placeweb.site,site,,2,quebrado,server,,http://pizza
 http://pizzariamestredapizza.placeweb.site/,site,,1,quebrado,server,,http://pizzariamestredapizza.placeweb.site/,3,2026-10-30,2026-10-26T16:43:42Z,2026-10-30T16:33:58Z,,,,,,timeout
 http://pizzariameukeridu.saipos.com/home,plataforma,saipos,2,ok,ok,200,https://pizzariameukeridu.saipos.com/home,0,,2026-10-18T15:10:32Z,2026-10-18T15:10:32Z,2026-10-18T15:10:32Z,1,Pizzaria Meu Keridu - Suzano,,,
 http://pizzariamichelangelo2.placeweb.site,site,,2,quebrado,server,,http://pizzariamichelangelo2.placeweb.site,3,2026-10-30,2026-10-25T14:20:25Z,2026-10-30T16:36:18Z,,,,,,timeout
-http://pizzariamichelangelo2.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://pizzariamichelangelo2.placeweb.site/,site,,1,falhando,server,,http://pizzariamichelangelo2.placeweb.site/,1,2026-11-02,2026-11-02T19:49:53Z,2026-11-02T19:49:53Z,,,,,,timeout
 http://pizzariamilao.ccmpedidoonline.com.br/,site,,2,incerto,blocked,403,http://pizzariamilao.ccmpedidoonline.com.br/,,,2026-10-18T15:08:55Z,2026-11-01T16:27:46Z,,,Azion - Default error page,,,
 http://pizzariamillanos.com.br/,site,,2,incerto,blocked,403,https://pizzariamillanos.wabiz.delivery/,,,2026-10-18T14:48:53Z,2026-11-01T16:24:47Z,,,Attention Required! | Cloudflare,,,
 http://pizzariamimosa.com.br,site,,2,ok,ok,200,http://www.pizzariamimosa.com.br/,0,,2026-10-18T14:43:04Z,2026-10-18T14:43:04Z,2026-10-18T14:43:04Z,1,| Pizzaria Mimosa,https://www.cardapiodigital.io/lojas/pizzariamimosa,http://www.pizzariamimosa.com.br/pizzas/cardapio/,
@@ -5715,7 +5715,7 @@ http://pizzariarestaurantedomsilva.placeweb.site/,site,,2,quebrado,parked,200,ht
 http://pizzariarios.placeweb.site/,site,,2,quebrado,parked,200,http://pizzariarios.placeweb.site/,3,2026-10-22,2026-10-18T15:39:01Z,2026-10-22T14:55:30Z,,,placeweb.site,,,
 http://pizzariariviera.wabiz.delivery/,site,,2,incerto,blocked,403,http://pizzariariviera.wabiz.delivery/,,,2026-10-18T15:12:18Z,2026-11-01T16:30:48Z,,,Attention Required! | Cloudflare,,,
 http://pizzariarodrigues2.placeweb.site,site,,2,quebrado,server,,http://pizzariarodrigues2.placeweb.site,3,2026-11-01,2026-10-26T13:40:52Z,2026-11-01T16:47:17Z,,,,,,timeout
-http://pizzariarodrigues2.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://pizzariarodrigues2.placeweb.site/,site,,1,falhando,parked,200,http://pizzariarodrigues2.placeweb.site/,1,2026-11-02,2026-11-02T19:49:30Z,2026-11-02T19:49:30Z,,,placeweb.site,,,
 http://pizzariaromanaii1.placeweb.site,site,,2,quebrado,server,,http://pizzariaromanaii1.placeweb.site,3,2026-10-25,2026-10-23T14:42:36Z,2026-10-25T14:05:49Z,,,,,,timeout
 http://pizzariaromanaii1.placeweb.site/,site,,1,quebrado,parked,200,http://pizzariaromanaii1.placeweb.site/,2,2026-10-28,2026-10-26T16:31:46Z,2026-10-28T16:18:28Z,,,placeweb.site,,,
 http://pizzariaromanasp.negocio.site/,site,,2,quebrado,dead,404,http://pizzariaromanasp.negocio.site/,2,2026-10-19,2026-10-18T15:15:25Z,2026-10-19T16:50:10Z,,,Error 404 (Not Found)!!1,,,
@@ -5774,7 +5774,7 @@ http://pizzariavercosa.placeweb.site/,site,,2,quebrado,server,,http://pizzariave
 http://pizzariaversales.placeweb.site,site,,2,quebrado,server,,http://pizzariaversales.placeweb.site,3,2026-11-01,2026-10-26T13:43:20Z,2026-11-01T16:50:13Z,,,,,,timeout
 http://pizzariaversales.placeweb.site/,site,,1,falhando,server,,http://pizzariaversales.placeweb.site/,1,2026-11-02,2026-11-02T16:55:17Z,2026-11-02T16:55:17Z,,,,,,timeout
 http://pizzariaviareggio.placeweb.site,site,,2,quebrado,parked,200,http://pizzariaviareggio.placeweb.site,2,2026-10-30,2026-10-26T13:30:46Z,2026-10-30T16:40:10Z,,,placeweb.site,,,
-http://pizzariaviareggio.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://pizzariaviareggio.placeweb.site/,site,,1,falhando,server,,http://pizzariaviareggio.placeweb.site/,1,2026-11-02,2026-11-02T19:51:13Z,2026-11-02T19:51:13Z,,,,,,timeout
 http://pizzariavicenza.com.br/,site,,2,incerto,blocked,,http://pizzariavicenza.com.br/,,,2026-10-18T15:03:10Z,2026-11-01T16:25:05Z,,,,,,robots.txt
 http://pizzariavicenzo.com.br/,site,,2,quebrado,conn,,http://pizzariavicenzo.com.br/,2,2026-10-19,2026-10-18T15:04:07Z,2026-10-19T03:25:09Z,,,,,,conn:gaierror
 http://pizzariavicenzo.com/,site,,2,quebrado,conn,,http://pizzariavicenzo.com/,2,2026-10-19,2026-10-18T15:01:12Z,2026-10-19T16:40:24Z,,,,,,conn:gaierror
@@ -6055,7 +6055,7 @@ http://realburger.com.br/,site,,0,ok,ok,200,https://realburger.com.br/,0,,2026-1
 http://realezapizzaria1.placeweb.site,site,,2,quebrado,server,,http://realezapizzaria1.placeweb.site,3,2026-10-25,2026-10-23T14:53:10Z,2026-10-25T14:15:03Z,,,,,,timeout
 http://realezapizzaria1.placeweb.site/,site,,1,quebrado,parked,200,http://realezapizzaria1.placeweb.site/,3,2026-10-30,2026-10-26T14:28:07Z,2026-10-30T16:27:49Z,,,placeweb.site,,,
 http://realminas1.placeweb.site,site,,2,quebrado,server,,http://realminas1.placeweb.site,3,2026-11-02,2026-10-26T14:01:54Z,2026-11-02T16:31:40Z,,,,,,timeout
-http://realminas1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://realminas1.placeweb.site/,site,,1,falhando,server,,http://realminas1.placeweb.site/,1,2026-11-02,2026-11-02T19:51:01Z,2026-11-02T19:51:01Z,,,,,,timeout
 http://rebrandy.ly/,site,,1,falhando,conn,,http://rebrandy.ly/,1,2026-11-02,2026-11-02T16:47:00Z,2026-11-02T16:47:00Z,,,,,,conn:gaierror
 http://rebrandy.ly/Pedidos-e-Cardapio,site,,2,quebrado,conn,,http://rebrandy.ly/Pedidos-e-Cardapio,2,2026-10-27,2026-10-26T13:20:56Z,2026-10-27T15:35:35Z,,,,,,conn:gaierror
 http://recantobembrasil.placeweb.site/,site,,2,quebrado,parked,200,http://recantobembrasil.placeweb.site/,2,2026-10-25,2026-10-24T14:01:59Z,2026-10-25T14:18:57Z,,,placeweb.site,,,
@@ -6134,7 +6134,7 @@ http://restauranteabc1.placeweb.site/,site,,1,quebrado,server,,http://restaurant
 http://restauranteacabana1.placeweb.site,site,,2,quebrado,server,,http://restauranteacabana1.placeweb.site,3,2026-11-02,2026-10-26T13:47:00Z,2026-11-02T16:17:54Z,,,,,,timeout
 http://restauranteacabana1.placeweb.site/,site,,1,falhando,server,,http://restauranteacabana1.placeweb.site/,1,2026-11-02,2026-11-02T16:56:41Z,2026-11-02T16:56:41Z,,,,,,timeout
 http://restauranteacaua.placeweb.site,site,,2,quebrado,parked,200,http://restauranteacaua.placeweb.site,3,2026-11-01,2026-10-26T13:27:58Z,2026-11-01T16:36:37Z,,,placeweb.site,,,
-http://restauranteacaua.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restauranteacaua.placeweb.site/,site,,1,falhando,parked,200,http://restauranteacaua.placeweb.site/,1,2026-11-02,2026-11-02T19:49:02Z,2026-11-02T19:49:02Z,,,placeweb.site,,,
 http://restauranteaguanaboca15.placeweb.site/,site,,2,quebrado,server,,http://restauranteaguanaboca15.placeweb.site/,3,2026-10-21,2026-10-18T15:15:35Z,2026-10-21T15:00:06Z,,,,,,timeout
 http://restaurantealvenaria.com.br/,site,,2,quebrado,conn,,http://restaurantealvenaria.com.br/,2,2026-10-19,2026-10-18T14:56:51Z,2026-10-19T03:28:39Z,,,,,,conn:gaierror
 http://restauranteamazonia.wordpress.com/,site,,0,ok,ok,200,https://restauranteamazonia.wordpress.com/,0,,2026-10-18T13:47:03Z,2026-10-25T13:56:57Z,2026-10-25T13:56:57Z,1,Restaurante Amazônia,,https://restauranteamazonia.wordpress.com/cardapio/,
@@ -6160,7 +6160,7 @@ http://restaurantebarao2.placeweb.site/,site,,2,quebrado,server,,http://restaura
 http://restaurantebarmountainclub.placeweb.site,site,,2,quebrado,parked,200,http://restaurantebarmountainclub.placeweb.site,2,2026-11-01,2026-10-26T14:00:00Z,2026-11-01T16:25:35Z,,,placeweb.site,,,
 http://restaurantebarmountainclub.placeweb.site/,site,,1,falhando,server,,http://restaurantebarmountainclub.placeweb.site/,1,2026-11-02,2026-11-02T17:11:57Z,2026-11-02T17:11:57Z,,,,,,timeout
 http://restaurantebeiradoriacho1.placeweb.site,site,,2,quebrado,server,,http://restaurantebeiradoriacho1.placeweb.site,3,2026-11-02,2026-10-26T13:47:32Z,2026-11-02T16:18:22Z,,,,,,timeout
-http://restaurantebeiradoriacho1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restaurantebeiradoriacho1.placeweb.site/,site,,1,falhando,parked,200,http://restaurantebeiradoriacho1.placeweb.site/,1,2026-11-02,2026-11-02T19:49:14Z,2026-11-02T19:49:14Z,,,placeweb.site,,,
 http://restaurantebeiramar2.placeweb.site,site,,2,quebrado,server,,http://restaurantebeiramar2.placeweb.site,3,2026-10-22,2026-10-18T15:28:15Z,2026-10-22T14:45:10Z,,,,,,timeout
 http://restaurantebeiramar2.placeweb.site/,site,,1,quebrado,server,,http://restaurantebeiramar2.placeweb.site/,3,2026-10-30,2026-10-26T14:15:49Z,2026-10-30T16:22:02Z,,,,,,timeout
 http://restaurantebeirario14.placeweb.site,site,,2,quebrado,parked,200,http://restaurantebeirario14.placeweb.site,2,2026-10-31,2026-10-26T13:34:00Z,2026-10-31T15:31:47Z,,,placeweb.site,,,
@@ -6287,7 +6287,7 @@ http://restaurantedivino3.placeweb.site,site,,2,quebrado,parked,200,http://resta
 http://restaurantedivino3.placeweb.site/,site,,1,quebrado,server,,http://restaurantedivino3.placeweb.site/,3,2026-10-30,2026-10-26T16:36:06Z,2026-10-30T16:19:00Z,,,,,,timeout
 http://restaurantedjulia.placeweb.site/,site,,2,quebrado,server,,http://restaurantedjulia.placeweb.site/,3,2026-10-22,2026-10-18T22:12:34Z,2026-10-22T15:04:12Z,,,,,,timeout
 http://restaurantedoalemao6.placeweb.site,site,,2,quebrado,server,,http://restaurantedoalemao6.placeweb.site,3,2026-11-01,2026-10-26T13:29:38Z,2026-11-01T16:38:29Z,,,,,,timeout
-http://restaurantedoalemao6.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restaurantedoalemao6.placeweb.site/,site,,1,falhando,server,,http://restaurantedoalemao6.placeweb.site/,1,2026-11-02,2026-11-02T19:51:41Z,2026-11-02T19:51:41Z,,,,,,timeout
 http://restaurantedoalemao8.placeweb.site,site,,2,quebrado,server,,http://restaurantedoalemao8.placeweb.site,3,2026-11-02,2026-10-26T14:02:18Z,2026-11-02T16:32:00Z,,,,,,timeout
 http://restaurantedoalemao8.placeweb.site/,site,,1,falhando,server,,http://restaurantedoalemao8.placeweb.site/,1,2026-11-02,2026-11-02T16:48:23Z,2026-11-02T16:48:23Z,,,,,,timeout
 http://restaurantedoanizio1.placeweb.site,site,,2,quebrado,parked,200,http://restaurantedoanizio1.placeweb.site,2,2026-10-31,2026-10-26T13:34:12Z,2026-10-31T15:31:53Z,,,placeweb.site,,,
@@ -6297,7 +6297,7 @@ http://restaurantedoari.com.br/,site,,1,ok,ok,200,https://restaurantedoari.com.b
 http://restaurantedobahia1.placeweb.site,site,,2,quebrado,server,,http://restaurantedobahia1.placeweb.site,3,2026-10-25,2026-10-23T14:40:00Z,2026-10-25T14:02:39Z,,,,,,timeout
 http://restaurantedobahia1.placeweb.site/,site,,1,quebrado,server,,http://restaurantedobahia1.placeweb.site/,3,2026-10-30,2026-10-26T16:42:58Z,2026-10-30T16:31:58Z,,,,,,timeout
 http://restaurantedobelao1.placeweb.site,site,,2,quebrado,parked,200,http://restaurantedobelao1.placeweb.site,2,2026-10-31,2026-10-26T13:34:26Z,2026-10-31T15:31:59Z,,,placeweb.site,,,
-http://restaurantedobelao1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restaurantedobelao1.placeweb.site/,site,,1,falhando,server,,http://restaurantedobelao1.placeweb.site/,1,2026-11-02,2026-11-02T19:51:33Z,2026-11-02T19:51:33Z,,,,,,timeout
 http://restaurantedocarrijo.placeweb.site,site,,2,quebrado,parked,200,http://restaurantedocarrijo.placeweb.site,2,2026-10-21,2026-10-18T22:11:52Z,2026-10-21T14:41:10Z,,,placeweb.site,,,
 http://restaurantedocarrijo.placeweb.site/,site,,1,quebrado,server,,http://restaurantedocarrijo.placeweb.site/,3,2026-10-29,2026-10-26T16:21:48Z,2026-10-29T16:28:53Z,,,,,,timeout
 http://restaurantedochefia1.placeweb.site,site,,2,quebrado,server,,http://restaurantedochefia1.placeweb.site,3,2026-10-21,2026-10-18T15:06:01Z,2026-10-21T14:53:20Z,,,,,,timeout
@@ -6370,7 +6370,7 @@ http://restauranteelanchonetenakayoshi.placeweb.site/,site,,1,quebrado,parked,20
 http://restauranteelanchonetenovopedido.placeweb.site,site,,2,quebrado,server,,http://restauranteelanchonetenovopedido.placeweb.site,3,2026-11-01,2026-10-26T13:27:38Z,2026-11-01T16:36:29Z,,,,,,timeout
 http://restauranteelanchonetenovopedido.placeweb.site/,site,,1,falhando,server,,http://restauranteelanchonetenovopedido.placeweb.site/,1,2026-11-02,2026-11-02T17:07:57Z,2026-11-02T17:07:57Z,,,,,,timeout
 http://restauranteelanchoneteotche1.placeweb.site,site,,2,quebrado,server,,http://restauranteelanchoneteotche1.placeweb.site,3,2026-11-02,2026-10-26T14:04:44Z,2026-11-02T16:34:38Z,,,,,,timeout
-http://restauranteelanchoneteotche1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restauranteelanchoneteotche1.placeweb.site/,site,,1,falhando,parked,200,http://restauranteelanchoneteotche1.placeweb.site/,1,2026-11-02,2026-11-02T19:49:00Z,2026-11-02T19:49:00Z,,,placeweb.site,,,
 http://restauranteelanchonetepaiol.placeweb.site,site,,2,quebrado,parked,200,http://restauranteelanchonetepaiol.placeweb.site,2,2026-10-21,2026-10-18T22:12:22Z,2026-10-21T14:42:38Z,,,placeweb.site,,,
 http://restauranteelanchonetepaiol.placeweb.site/,site,,1,quebrado,server,,http://restauranteelanchonetepaiol.placeweb.site/,3,2026-10-30,2026-10-26T14:36:01Z,2026-10-30T16:23:26Z,,,,,,timeout
 http://restauranteelanchoneteriotinto.placeweb.site/,site,,2,quebrado,server,,http://restauranteelanchoneteriotinto.placeweb.site/,3,2026-10-22,2026-10-18T15:34:05Z,2026-10-22T14:51:22Z,,,,,,timeout
@@ -6425,7 +6425,7 @@ http://restaurantefrutosdomarfranca1.placeweb.site/,site,,1,quebrado,server,,htt
 http://restaurantegimenes1.placeweb.site,site,,2,quebrado,server,,http://restaurantegimenes1.placeweb.site,3,2026-10-25,2026-10-23T14:42:14Z,2026-10-25T14:05:03Z,,,,,,timeout
 http://restaurantegimenes1.placeweb.site/,site,,1,quebrado,server,,http://restaurantegimenes1.placeweb.site/,3,2026-10-30,2026-10-26T14:33:09Z,2026-10-30T16:25:52Z,,,,,,timeout
 http://restauranteguarani2.placeweb.site,site,,2,quebrado,parked,200,http://restauranteguarani2.placeweb.site,2,2026-10-31,2026-10-26T13:34:28Z,2026-10-31T15:32:01Z,,,placeweb.site,,,
-http://restauranteguarani2.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restauranteguarani2.placeweb.site/,site,,1,falhando,parked,200,http://restauranteguarani2.placeweb.site/,1,2026-11-02,2026-11-02T19:49:22Z,2026-11-02T19:49:22Z,,,placeweb.site,,,
 http://restauranteguion1.placeweb.site,site,,2,quebrado,server,,http://restauranteguion1.placeweb.site,3,2026-10-22,2026-10-18T15:33:23Z,2026-10-22T14:51:00Z,,,,,,timeout
 http://restauranteguion1.placeweb.site/,site,,1,quebrado,server,,http://restauranteguion1.placeweb.site/,3,2026-10-29,2026-10-26T14:23:59Z,2026-10-29T16:29:11Z,,,,,,timeout
 http://restauranteh21.placeweb.site,site,,2,quebrado,server,,http://restauranteh21.placeweb.site,3,2026-11-02,2026-10-26T13:50:06Z,2026-11-02T16:20:58Z,,,,,,timeout
@@ -6542,7 +6542,7 @@ http://restaurantemoshimoshi.placeweb.site/,site,,1,falhando,server,,http://rest
 http://restaurantenafont1.placeweb.site,site,,2,quebrado,server,,http://restaurantenafont1.placeweb.site,3,2026-11-02,2026-10-26T14:03:18Z,2026-11-02T16:33:06Z,,,,,,timeout
 http://restaurantenafont1.placeweb.site/,site,,1,falhando,server,,http://restaurantenafont1.placeweb.site/,1,2026-11-02,2026-11-02T17:02:03Z,2026-11-02T17:02:03Z,,,,,,timeout
 http://restaurantenatuia.placeweb.site,site,,2,quebrado,server,,http://restaurantenatuia.placeweb.site,3,2026-11-02,2026-10-26T14:02:38Z,2026-11-02T16:32:20Z,,,,,,timeout
-http://restaurantenatuia.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restaurantenatuia.placeweb.site/,site,,1,falhando,parked,200,http://restaurantenatuia.placeweb.site/,1,2026-11-02,2026-11-02T19:49:20Z,2026-11-02T19:49:20Z,,,placeweb.site,,,
 http://restaurantenatureza.placeweb.site/,site,,2,quebrado,server,,http://restaurantenatureza.placeweb.site/,3,2026-10-30,2026-10-25T14:22:27Z,2026-10-30T16:38:38Z,,,,,,timeout
 http://restaurantenecogazola.placeweb.site/,site,,2,quebrado,server,,http://restaurantenecogazola.placeweb.site/,3,2026-10-22,2026-10-18T15:40:15Z,2026-10-22T14:57:28Z,,,,,,timeout
 http://restaurantenewtokyo.com.br/,site,,2,quebrado,conn,,http://restaurantenewtokyo.com.br/,2,2026-10-19,2026-10-18T15:01:42Z,2026-10-19T16:40:39Z,,,,,,conn:gaierror
@@ -6568,7 +6568,7 @@ http://restauranteopcaonatural1.placeweb.site/,site,,1,quebrado,server,,http://r
 http://restauranteoposto2.placeweb.site,site,,2,quebrado,parked,200,http://restauranteoposto2.placeweb.site,3,2026-11-02,2026-10-26T14:09:10Z,2026-11-02T16:38:43Z,,,placeweb.site,,,
 http://restauranteoposto2.placeweb.site/,site,,1,falhando,server,,http://restauranteoposto2.placeweb.site/,1,2026-11-02,2026-11-02T17:10:09Z,2026-11-02T17:10:09Z,,,,,,timeout
 http://restauranteoriente.placeweb.site,site,,2,quebrado,server,,http://restauranteoriente.placeweb.site,3,2026-11-02,2026-10-26T14:08:38Z,2026-11-02T16:38:20Z,,,,,,timeout
-http://restauranteoriente.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restauranteoriente.placeweb.site/,site,,1,falhando,server,,http://restauranteoriente.placeweb.site/,1,2026-11-02,2026-11-02T19:51:31Z,2026-11-02T19:51:31Z,,,,,,timeout
 http://restauranteorla7.placeweb.site,site,,2,quebrado,parked,200,http://restauranteorla7.placeweb.site,3,2026-11-01,2026-10-26T13:28:22Z,2026-11-01T16:37:01Z,,,placeweb.site,,,
 http://restauranteorla7.placeweb.site/,site,,1,falhando,server,,http://restauranteorla7.placeweb.site/,1,2026-11-02,2026-11-02T17:10:15Z,2026-11-02T17:10:15Z,,,,,,timeout
 http://restaurantepaineira.placeweb.site,site,,2,quebrado,parked,200,http://restaurantepaineira.placeweb.site,3,2026-11-02,2026-10-26T13:57:00Z,2026-11-02T16:27:22Z,,,placeweb.site,,,
@@ -6613,10 +6613,10 @@ http://restaurantepotiguar3.placeweb.site,site,,2,quebrado,server,,http://restau
 http://restaurantepotiguar3.placeweb.site/,site,,1,falhando,server,,http://restaurantepotiguar3.placeweb.site/,1,2026-11-02,2026-11-02T17:09:37Z,2026-11-02T17:09:37Z,,,,,,timeout
 http://restaurantepotiguaras1.placeweb.site/,site,,2,quebrado,server,,http://restaurantepotiguaras1.placeweb.site/,3,2026-10-22,2026-10-18T22:10:46Z,2026-10-22T15:02:28Z,,,,,,timeout
 http://restaurantepousadatatu.placeweb.site,site,,2,quebrado,server,,http://restaurantepousadatatu.placeweb.site,3,2026-11-01,2026-10-26T13:30:02Z,2026-11-01T16:38:51Z,,,,,,timeout
-http://restaurantepousadatatu.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restaurantepousadatatu.placeweb.site/,site,,1,falhando,parked,200,http://restaurantepousadatatu.placeweb.site/,1,2026-11-02,2026-11-02T19:49:18Z,2026-11-02T19:49:18Z,,,placeweb.site,,,
 http://restaurantepracaestrela.placeweb.site/,site,,2,quebrado,server,,http://restaurantepracaestrela.placeweb.site/,3,2026-11-01,2026-10-26T13:30:00Z,2026-11-01T16:38:49Z,,,,,,timeout
 http://restaurantepracasaopaulo.placeweb.site,site,,2,quebrado,server,,http://restaurantepracasaopaulo.placeweb.site,3,2026-11-01,2026-10-26T13:31:52Z,2026-11-01T16:39:49Z,,,,,,timeout
-http://restaurantepracasaopaulo.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restaurantepracasaopaulo.placeweb.site/,site,,1,falhando,server,,http://restaurantepracasaopaulo.placeweb.site/,1,2026-11-02,2026-11-02T19:51:27Z,2026-11-02T19:51:27Z,,,,,,timeout
 http://restaurantepraianosul.placeweb.site,site,,2,quebrado,server,,http://restaurantepraianosul.placeweb.site,3,2026-11-02,2026-10-26T14:05:34Z,2026-11-02T16:35:14Z,,,,,,timeout
 http://restaurantepraianosul.placeweb.site/,site,,1,falhando,server,,http://restaurantepraianosul.placeweb.site/,1,2026-11-02,2026-11-02T16:55:15Z,2026-11-02T16:55:15Z,,,,,,timeout
 http://restauranteprimus2.placeweb.site,site,,2,quebrado,parked,200,http://restauranteprimus2.placeweb.site,3,2026-10-22,2026-10-18T15:25:33Z,2026-10-22T14:42:46Z,,,placeweb.site,,,
@@ -6681,7 +6681,7 @@ http://restaurantesato.placeweb.site,site,,2,quebrado,parked,200,http://restaura
 http://restaurantesato.placeweb.site/,site,,1,quebrado,server,,http://restaurantesato.placeweb.site/,3,2026-10-29,2026-10-26T14:14:49Z,2026-10-29T16:35:19Z,,,,,,timeout
 http://restauranteserranegra.com.br/,site,,2,quebrado,conn,,http://restauranteserranegra.com.br/,2,2026-10-19,2026-10-18T14:44:04Z,2026-10-19T01:17:08Z,,,,,,conn:gaierror
 http://restauranteservbempotiguar.placeweb.site,site,,2,quebrado,parked,200,http://restauranteservbempotiguar.placeweb.site,3,2026-11-02,2026-10-26T13:57:02Z,2026-11-02T16:27:23Z,,,placeweb.site,,,
-http://restauranteservbempotiguar.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restauranteservbempotiguar.placeweb.site/,site,,1,falhando,parked,200,http://restauranteservbempotiguar.placeweb.site/,1,2026-11-02,2026-11-02T19:49:12Z,2026-11-02T19:49:12Z,,,placeweb.site,,,
 http://restauranteseuze.com.br/,site,,2,ok,ok,200,http://restauranteseuze.com.br/,0,,2026-10-18T14:51:36Z,2026-10-18T14:51:36Z,2026-10-18T14:51:36Z,1,Restaurante Seu Zé • Home - Seu Zé Restaurante • Pouso Alegre,,https://restauranteseuze.com.br/cardapio/,
 http://restauranteshangai3.placeweb.site,site,,2,quebrado,parked,200,http://restauranteshangai3.placeweb.site,3,2026-10-21,2026-10-18T15:21:21Z,2026-10-21T15:06:12Z,,,placeweb.site,,,
 http://restauranteshangai3.placeweb.site/,site,,1,quebrado,parked,200,http://restauranteshangai3.placeweb.site/,3,2026-10-30,2026-10-26T16:40:48Z,2026-10-30T16:27:56Z,,,placeweb.site,,,
@@ -6719,7 +6719,7 @@ http://restaurantetianene1.placeweb.site/,site,,1,quebrado,server,,http://restau
 http://restaurantetionelson.placeweb.site,site,,2,quebrado,server,,http://restaurantetionelson.placeweb.site,3,2026-11-01,2026-10-26T13:45:06Z,2026-11-01T16:51:09Z,,,,,,timeout
 http://restaurantetionelson.placeweb.site/,site,,1,falhando,server,,http://restaurantetionelson.placeweb.site/,1,2026-11-02,2026-11-02T17:07:29Z,2026-11-02T17:07:29Z,,,,,,timeout
 http://restaurantetiosam1.placeweb.site,site,,2,quebrado,server,,http://restaurantetiosam1.placeweb.site,3,2026-11-02,2026-10-26T13:59:08Z,2026-11-02T16:29:40Z,,,,,,timeout
-http://restaurantetiosam1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://restaurantetiosam1.placeweb.site/,site,,1,falhando,server,,http://restaurantetiosam1.placeweb.site/,1,2026-11-02,2026-11-02T19:49:57Z,2026-11-02T19:49:57Z,,,,,,timeout
 http://restaurantetocadocaju.placeweb.site,site,,2,quebrado,server,,http://restaurantetocadocaju.placeweb.site,3,2026-10-25,2026-10-23T14:37:36Z,2026-10-25T14:00:01Z,,,,,,timeout
 http://restaurantetocadocaju.placeweb.site/,site,,1,quebrado,server,,http://restaurantetocadocaju.placeweb.site/,3,2026-10-29,2026-10-26T16:34:20Z,2026-10-29T16:51:37Z,,,,,,timeout
 http://restaurantetocadovale.placeweb.site/,site,,2,quebrado,parked,200,http://restaurantetocadovale.placeweb.site/,2,2026-10-21,2026-10-18T22:12:20Z,2026-10-21T14:42:36Z,,,placeweb.site,,,
@@ -6794,7 +6794,7 @@ http://rochasboteco.placeweb.site,site,,2,quebrado,server,,http://rochasboteco.p
 http://rochasboteco.placeweb.site/,site,,1,quebrado,server,,http://rochasboteco.placeweb.site/,3,2026-10-29,2026-10-26T14:34:57Z,2026-10-29T16:27:05Z,,,,,,timeout
 http://rockafe.com.br,site,,2,ok,ok,200,http://rockafe.com.br,0,,2026-10-18T14:56:02Z,2026-10-18T14:56:02Z,2026-10-18T14:56:02Z,0,Verificação de segurança,,,
 http://rockdogcomidinhasbebidinhaseafins.placeweb.site,site,,2,quebrado,parked,200,http://rockdogcomidinhasbebidinhaseafins.placeweb.site,3,2026-11-02,2026-10-26T13:46:40Z,2026-11-02T16:17:04Z,,,placeweb.site,,,
-http://rockdogcomidinhasbebidinhaseafins.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://rockdogcomidinhasbebidinhaseafins.placeweb.site/,site,,1,falhando,server,,http://rockdogcomidinhasbebidinhaseafins.placeweb.site/,1,2026-11-02,2026-11-02T19:51:03Z,2026-11-02T19:51:03Z,,,,,,timeout
 http://rockeribs.com.br/,site,,2,quebrado,server,500,http://rockeribs.com.br/,3,2026-10-20,2026-10-18T15:04:47Z,2026-10-20T14:36:02Z,,,500 Internal Server Error,,,
 http://rockville-traditional-burger.placestars.com/,site,,2,quebrado,conn,,http://rockville-traditional-burger.placestars.com/,2,2026-10-19,2026-10-18T15:06:11Z,2026-10-19T16:41:40Z,,,,,,conn:gaierror
 http://rodadapicanha1.placeweb.site/,site,,2,quebrado,server,,http://rodadapicanha1.placeweb.site/,3,2026-10-22,2026-10-18T22:08:32Z,2026-10-22T15:00:16Z,,,,,,timeout
@@ -6843,7 +6843,7 @@ http://ryyrestauranteyassunaga.placeweb.site,site,,2,quebrado,server,,http://ryy
 http://ryyrestauranteyassunaga.placeweb.site/,site,,1,falhando,server,,http://ryyrestauranteyassunaga.placeweb.site/,1,2026-11-02,2026-11-02T17:10:03Z,2026-11-02T17:10:03Z,,,,,,timeout
 http://saborakilo.com.br/,site,,2,ok,ok,200,https://saborakilo.com.br/,0,,2026-10-18T14:49:45Z,2026-10-18T14:49:45Z,2026-10-18T14:49:45Z,1,Salgados e Doces em Ribeirão Preto - Faça seu Pedido Agora,,https://saborakilo.com.br/cardapio/,
 http://saboralhooleo.placeweb.site,site,,2,quebrado,server,,http://saboralhooleo.placeweb.site,3,2026-11-01,2026-10-26T13:39:44Z,2026-11-01T16:46:11Z,,,,,,timeout
-http://saboralhooleo.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://saboralhooleo.placeweb.site/,site,,1,falhando,server,,http://saboralhooleo.placeweb.site/,1,2026-11-02,2026-11-02T19:49:59Z,2026-11-02T19:49:59Z,,,,,,timeout
 http://saboramar.com.br/cardapio,site,,1,ok,ok,200,http://saboramar.com.br/cardapio,0,,2026-10-18T15:42:52Z,2026-10-18T15:42:52Z,2026-10-18T15:42:52Z,1,Sabor A Mar Itu - CARDÁPIO,,http://saboramar.com.br/cardapio,
 http://saborantella.placeweb.site,site,,2,quebrado,parked,200,http://saborantella.placeweb.site,2,2026-10-21,2026-10-18T22:12:10Z,2026-10-21T14:42:22Z,,,placeweb.site,,,
 http://saborantella.placeweb.site/,site,,1,quebrado,server,,http://saborantella.placeweb.site/,3,2026-10-29,2026-10-26T14:31:39Z,2026-10-29T16:39:33Z,,,,,,timeout
@@ -7126,7 +7126,7 @@ http://sorveteriaelanchonetetropical1.placeweb.site,site,,2,quebrado,server,,htt
 http://sorveteriaelanchonetetropical1.placeweb.site/,site,,1,falhando,server,,http://sorveteriaelanchonetetropical1.placeweb.site/,1,2026-11-02,2026-11-02T17:06:07Z,2026-11-02T17:06:07Z,,,,,,timeout
 http://sorveteriaepastelariawls.com/,site,,2,quebrado,conn,,http://sorveteriaepastelariawls.com/,2,2026-10-19,2026-10-18T14:45:56Z,2026-10-19T01:18:05Z,,,,,,conn:gaierror
 http://sorveteriasoldeverao6.placeweb.site,site,,2,quebrado,server,,http://sorveteriasoldeverao6.placeweb.site,3,2026-11-02,2026-10-26T13:54:42Z,2026-11-02T16:25:44Z,,,,,,timeout
-http://sorveteriasoldeverao6.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://sorveteriasoldeverao6.placeweb.site/,site,,1,falhando,parked,200,http://sorveteriasoldeverao6.placeweb.site/,1,2026-11-02,2026-11-02T19:49:06Z,2026-11-02T19:49:06Z,,,placeweb.site,,,
 http://sorveteriazerograu5.placeweb.site,site,,2,quebrado,server,,http://sorveteriazerograu5.placeweb.site,3,2026-11-02,2026-10-26T14:03:48Z,2026-11-02T16:33:32Z,,,,,,timeout
 http://sorveteriazerograu5.placeweb.site/,site,,1,falhando,server,,http://sorveteriazerograu5.placeweb.site/,1,2026-11-02,2026-11-02T17:09:45Z,2026-11-02T17:09:45Z,,,,,,timeout
 http://sorvetesgygabon.com.br/,site,,2,ok,ok,200,http://sorvetesgygabon.com.br/,0,,2026-10-18T15:01:01Z,2026-10-18T15:01:01Z,2026-10-18T15:01:01Z,0,Gygabon Sorvetes – Gygabon Sorvetes,,,
@@ -7292,7 +7292,7 @@ http://tangerinagastrobar.com.br/,site,,2,ok,ok,200,http://tangerinagastrobar.co
 http://tanuki.ola.click/,plataforma,ola.click,2,ok,ok,200,https://tanuki.ola.click/,0,,2026-10-18T15:18:02Z,2026-10-18T15:18:02Z,2026-10-18T15:18:02Z,1,"Tanuki Koffee - Informações Peça Online. Cardápio digital, Preços e Telefones.",https://tanuki.ola.click/products,,
 http://tapioca-do-pessoa.negocio.site/,site,,2,quebrado,dead,404,http://tapioca-do-pessoa.negocio.site/,2,2026-10-19,2026-10-18T15:24:59Z,2026-10-19T16:59:54Z,,,Error 404 (Not Found)!!1,,,
 http://tapiocadadinda.placeweb.site,site,,2,quebrado,server,,http://tapiocadadinda.placeweb.site,3,2026-11-01,2026-10-26T13:37:54Z,2026-11-01T16:44:17Z,,,,,,timeout
-http://tapiocadadinda.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://tapiocadadinda.placeweb.site/,site,,1,falhando,server,,http://tapiocadadinda.placeweb.site/,1,2026-11-02,2026-11-02T19:51:23Z,2026-11-02T19:51:23Z,,,,,,timeout
 http://tapiocariapernambucana.blogspot.com/,site,,2,ok,ok,200,http://tapiocariapernambucana.blogspot.com/,0,,2026-10-18T15:07:58Z,2026-10-18T15:07:58Z,2026-10-18T15:07:58Z,1,Tapiocaria Pernambucana,,,
 http://taplink.cc/pontodaesfihamutinga,linktree,,2,ok,ok,200,https://taplink.cc/pontodaesfihamutinga,0,,2026-10-18T15:07:32Z,2026-10-18T15:07:32Z,2026-10-18T15:07:32Z,0,Pontodaesfihamutinga at Taplink,https://www.ifood.com.br/delivery/osasco-sp/ponto-da-esfiha-vila-menk/bf44c05e-004b-4c08-abd8-566f822b94f2,,
 http://taplink.cc/pontodaesfihariobonito,linktree,,2,ok,ok,200,https://taplink.cc/pontodaesfihariobonito,0,,2026-10-18T15:07:43Z,2026-10-18T15:07:43Z,2026-10-18T15:07:43Z,0,Pontodaesfihariobonito at Taplink,https://www.ifood.com.br/delivery/sao-paulo-sp/ponto-da-esfiha-rio-bonito-rio-bonito/71267687-626f-4018-becd-5ed39fe61adf,,
@@ -7464,7 +7464,7 @@ http://tomateesalada.placeweb.site/,site,,1,quebrado,server,,http://tomateesalad
 http://tomaterouge.com.br,site,,2,quebrado,conn,,http://tomaterouge.com.br,2,2026-10-19,2026-10-18T14:42:16Z,2026-10-19T01:16:08Z,,,,,,conn:gaierror
 http://tomaterouge.com.br/,site,,1,quebrado,conn,,http://tomaterouge.com.br/,2,2026-10-20,2026-10-19T01:22:03Z,2026-10-20T14:31:03Z,,,,,,conn:gaierror
 http://tomateseco.placeweb.site,site,,2,quebrado,server,,http://tomateseco.placeweb.site,3,2026-11-02,2026-10-26T13:59:20Z,2026-11-02T16:29:52Z,,,,,,timeout
-http://tomateseco.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://tomateseco.placeweb.site/,site,,1,falhando,server,,http://tomateseco.placeweb.site/,1,2026-11-02,2026-11-02T19:51:05Z,2026-11-02T19:51:05Z,,,,,,timeout
 http://tominagasushi.com.br/,site,,0,ok,ok,200,https://tominagasushi.com.br/,0,,2026-10-18T13:47:14Z,2026-10-18T13:47:14Z,2026-10-18T13:47:14Z,1,Restaurante Japonês em São Caetano e Santo André - Tominaga Sushi Bar,https://tominagasushibarsaocaetano.saipos.com/home,,
 http://tomodats.placeweb.site,site,,2,quebrado,parked,200,http://tomodats.placeweb.site,2,2026-10-21,2026-10-18T22:12:16Z,2026-10-21T14:42:28Z,,,placeweb.site,,,
 http://tomodats.placeweb.site/,site,,1,quebrado,server,,http://tomodats.placeweb.site/,3,2026-10-30,2026-10-26T16:38:44Z,2026-10-30T16:23:34Z,,,,,,timeout
@@ -7609,7 +7609,7 @@ http://varandajequitibarestaurante.negocio.site/,site,,1,quebrado,dead,404,http:
 http://varandaorganica1.placeweb.site,site,,2,quebrado,server,,http://varandaorganica1.placeweb.site,3,2026-10-25,2026-10-23T14:52:32Z,2026-10-25T14:13:47Z,,,,,,timeout
 http://varandaorganica1.placeweb.site/,site,,1,quebrado,server,,http://varandaorganica1.placeweb.site/,3,2026-10-30,2026-10-26T14:13:53Z,2026-10-30T16:24:02Z,,,,,,timeout
 http://varandapedrabranca.placeweb.site,site,,2,quebrado,server,,http://varandapedrabranca.placeweb.site,3,2026-11-02,2026-10-26T14:03:16Z,2026-11-02T16:33:02Z,,,,,,timeout
-http://varandapedrabranca.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://varandapedrabranca.placeweb.site/,site,,1,falhando,parked,200,http://varandapedrabranca.placeweb.site/,1,2026-11-02,2026-11-02T19:48:56Z,2026-11-02T19:48:56Z,,,placeweb.site,,,
 http://varandarestaurante.negocio.site,site,,2,quebrado,dead,404,http://varandarestaurante.negocio.site,2,2026-10-19,2026-10-18T15:06:51Z,2026-10-19T16:42:16Z,,,Error 404 (Not Found)!!1,,,
 http://varandarestaurante.negocio.site/,site,,1,quebrado,dead,404,http://varandarestaurante.negocio.site/,2,2026-10-27,2026-10-26T14:11:31Z,2026-10-27T15:38:48Z,,,Error 404 (Not Found)!!1,,,
 http://vcchurrasqueiras.com.br/,site,,2,quebrado,conn,,http://vcchurrasqueiras.com.br/,2,2026-10-19,2026-10-18T14:52:19Z,2026-10-19T03:26:08Z,,,,,,conn:gaierror
@@ -7776,7 +7776,7 @@ http://wagnaohamburgueria.placeweb.site/,site,,2,quebrado,parked,200,http://wagn
 http://walcileylanches.placeweb.site,site,,2,quebrado,server,,http://walcileylanches.placeweb.site,3,2026-11-02,2026-10-26T13:53:58Z,2026-11-02T16:25:04Z,,,,,,timeout
 http://walcileylanches.placeweb.site/,site,,1,falhando,server,,http://walcileylanches.placeweb.site/,1,2026-11-02,2026-11-02T17:03:09Z,2026-11-02T17:03:09Z,,,,,,timeout
 http://wandarestaurante1.placeweb.site,site,,2,quebrado,server,,http://wandarestaurante1.placeweb.site,3,2026-11-01,2026-10-26T13:32:56Z,2026-11-01T16:40:57Z,,,,,,timeout
-http://wandarestaurante1.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://wandarestaurante1.placeweb.site/,site,,1,falhando,server,,http://wandarestaurante1.placeweb.site/,1,2026-11-02,2026-11-02T19:51:43Z,2026-11-02T19:51:43Z,,,,,,timeout
 http://wanikawa.blogspot.com,site,,2,ok,ok,200,https://wanikawa.blogspot.com/,0,,2026-10-18T15:07:26Z,2026-10-18T15:07:26Z,2026-10-18T15:07:26Z,1,Lock Every Door: A Novel,,,
 http://wappimenu.com.br/sushisan,site,,2,ok,ok,200,https://wappi.delivery/sushisan,0,,2026-10-18T15:06:04Z,2026-10-18T15:06:04Z,2026-10-18T15:06:04Z,1,Sushi San - Wappimenu Delivery,,,
 http://washi-sushi3.webnode.com/,site,,2,ok,ok,200,https://washi-sushi3.webnode.page/,0,,2026-10-18T15:08:13Z,2026-10-18T15:08:13Z,2026-10-18T15:08:13Z,1,Washi-sushi3,,https://washi-sushi3.webnode.page/cardapio/,
@@ -21309,7 +21309,7 @@ http://zeusrestaurante.placeweb.site,site,,2,quebrado,server,,http://zeusrestaur
 http://zeusrestaurante.placeweb.site/,site,,1,quebrado,server,,http://zeusrestaurante.placeweb.site/,3,2026-10-29,2026-10-26T16:25:28Z,2026-10-29T16:35:15Z,,,,,,timeout
 http://zeuzeulancheseporcoes.placeweb.site/,site,,2,quebrado,parked,200,http://zeuzeulancheseporcoes.placeweb.site/,2,2026-10-30,2026-10-26T13:30:40Z,2026-10-30T16:40:00Z,,,placeweb.site,,,
 http://zezedopernillanchoneteerestaurante.placeweb.site,site,,2,quebrado,server,,http://zezedopernillanchoneteerestaurante.placeweb.site,3,2026-11-02,2026-10-26T13:50:00Z,2026-11-02T16:20:54Z,,,,,,timeout
-http://zezedopernillanchoneteerestaurante.placeweb.site/,site,,1,,,,,,,,,,,,,,
+http://zezedopernillanchoneteerestaurante.placeweb.site/,site,,1,falhando,parked,200,http://zezedopernillanchoneteerestaurante.placeweb.site/,1,2026-11-02,2026-11-02T19:49:10Z,2026-11-02T19:49:10Z,,,placeweb.site,,,
 http://ziamartha.com.br/,site,,2,quebrado,conn,,http://ziamartha.com.br/,2,2026-10-19,2026-10-18T14:59:13Z,2026-10-19T16:39:19Z,,,,,,conn:gaierror
 http://zicolanches.placeweb.site,site,,2,quebrado,server,,http://zicolanches.placeweb.site,3,2026-10-25,2026-10-23T14:50:34Z,2026-10-25T14:11:57Z,,,,,,timeout
 http://zicolanches.placeweb.site/,site,,1,quebrado,server,,http://zicolanches.placeweb.site/,3,2026-10-30,2026-10-26T16:43:00Z,2026-10-30T16:32:02Z,,,,,,timeout
