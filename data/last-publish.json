@@ -1,107 +1,107 @@
 {
-  "generated_at": "2026-11-02T17:13:50Z",
+  "generated_at": "2026-11-09T17:04:17Z",
   "regions": {
     "sp/grande-sp": {
       "rows": 2460,
       "restaurants": 2456,
-      "sha256": "217ae434bfe5a1f420c081549450a9c911b9f0640f9668accb6cb5511ee0a38b",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "6390dea1805db28b1b2fa6861700a8d94276605e92d0247f41a3b702b00da1a2",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/capital": {
       "rows": 6772,
       "restaurants": 6758,
-      "sha256": "ae1b8f8cc40d8c51227a564dee295ccbbcfc3b779ce6417577769ac5d29522b2",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "645b8e87a4d38ad90fdd492ffd4e70d556e4c3e5c1f248f73cf143badf13c54b",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/metropolitana": {
-      "rows": 2633,
-      "restaurants": 2627,
-      "sha256": "fd6ab3a8909b6f703df166f50599b57c39448450a302c82628b3cc8ec9cea278",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "rows": 2634,
+      "restaurants": 2628,
+      "sha256": "d36bcdaa7ec96387102db2a2ae3dabb20199f56d03391abd6bfb2c15f3ccee08",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/campinas": {
       "rows": 1477,
       "restaurants": 1474,
-      "sha256": "03397c1ca183d7d3177fbaaf44202f258229f1a11c9a8df31bdb0b4728ce0fdb",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "b65fdb90cfe7bcbb47a18b9307b3bf6baccb772ad4c08f1df668792cdc20549e",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/litoral": {
       "rows": 871,
       "restaurants": 870,
-      "sha256": "fb20f45880d703291180bc535f0cac9e3109a0490770d5983f2aa8193976360d",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "296e4139e7bdfbf45207215d0ae2925dc6555e7814e47880cc74e1d5f43f0310",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/jundiai": {
       "rows": 685,
       "restaurants": 684,
-      "sha256": "bd68b42f27b3781c7dac5dc8a6d1dfa3720825f133278067a4c172accc1513dd",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "c67b144f702bccbdb7d1dca12f0938e1327663b52e0f4faf888aba5240806e15",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/sorocaba": {
       "rows": 674,
       "restaurants": 666,
-      "sha256": "0fa15e7117f1695756b81752de58ade4d2b8b6d5f9a9f4b59595c3a983b50657",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "9d7d53e56390bc64361d1dc1bfc1e29521a497b36a0b2b4504dc31598e82e6c7",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/vale-do-paraiba": {
-      "rows": 853,
-      "restaurants": 848,
-      "sha256": "49e78b6bd6ad52753728d5ced02bcdbad42de2e4037d9b8aaf3d7482f8f531a3",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "rows": 854,
+      "restaurants": 849,
+      "sha256": "146324e8cca37121be56eae457a6ab7ed0706a94b3041b48e751016cec5698d3",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/piracicaba": {
       "rows": 725,
       "restaurants": 721,
-      "sha256": "6e14359226dabd8fb799de51847df3e6290d46dd3116a219c7b076b0520c2dd9",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "e61f91698ae35e2643287b8c1658677bb48e9b22c389bebd1c60811bb8b8d33b",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/ribeirao-preto": {
       "rows": 744,
       "restaurants": 738,
-      "sha256": "a4c17de7fe2c262921040e3a91b98fd1ae7e1d7cbc744f5f9db0d15849d3bd33",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "4be2d1d0c1ad3a3407411b5de64d5f414d8ac381000f5a78ac1ca177c6334b22",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/araraquara": {
       "rows": 418,
       "restaurants": 415,
-      "sha256": "409928b6e7efe22b12d1cce778b46ab3fb40ccef6c01974bfd3e2bafcabc29a6",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "f26467dd0e65a599e6988d0be671c2f4c5e7712955414aa8a7e95c71e6b49d48",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/bauru": {
       "rows": 416,
       "restaurants": 413,
-      "sha256": "ceb49ea01dc4c95c5563456d189edb5645ff42b7ef5b7dd94ef490ac07171844",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "bdd7e91f22628d109892254e824f44d7aef5db77b918229ef3dc5ddec7f56fd7",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/marilia": {
       "rows": 293,
       "restaurants": 290,
-      "sha256": "4e41afc56c3fbe4f4918db5eb3405a63cfc7191a0ed179ba62c3f46a9e4a3a92",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "7214750c40f2ba6501cb164d0cbb983d578a5e327b6d2f11baa089fdce094bd4",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/presidente-prudente": {
       "rows": 150,
       "restaurants": 150,
-      "sha256": "b1dd815159325e9c8b380f55a35a1f097db04ff950d1d903c82a2a5f6654ff7b",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "3a0d240b795afd66174312233666640f27f261964f0a17a4881811fde69c0d25",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/aracatuba": {
       "rows": 241,
       "restaurants": 241,
-      "sha256": "700bdba6db1c870f9ccb9dbcfffd9e34c5e3b052d682a12daf0d38e160edeaef",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "39e8967058dd49c55202af5ba883a234e8793aff8cd47ab04936b532d61b2da6",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/sao-jose-do-rio-preto": {
       "rows": 464,
       "restaurants": 461,
-      "sha256": "c6bbe2ea8cbbd0b7dd93b8b4649caf993f5526831b4d27d6e7b63076d4a70cb0",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "3d58a5bf5bf0e10aaed6b3d2e9d891d720e8fe915836001df4bbcb7ccd546c48",
+      "updated_at": "2026-11-09T17:04:14Z"
     },
     "sp/vale-do-ribeira": {
       "rows": 137,
       "restaurants": 137,
-      "sha256": "b64af72fed4f87edba673da67654e83728441ff312bdc92759101a11bb889a89",
-      "updated_at": "2026-11-02T17:13:47Z"
+      "sha256": "5493e9bde098bc2e738f800e38df871a4e5cfd3056d6d2eb360dcbbea7e9c1a7",
+      "updated_at": "2026-11-09T17:04:14Z"
     }
   }
 }

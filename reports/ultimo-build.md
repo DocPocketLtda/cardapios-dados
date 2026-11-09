@@ -1,25 +1,25 @@
-# Relatório do build (02/11/2026 17:13 UTC)
+# Relatório do build (09/11/2026 17:04 UTC)
 
 ## Regiões
 
 | Região | Linhas antes | Linhas agora | Restaurantes | Entraram | Saíram | Tamanho |
 |---|---:|---:|---:|---:|---:|---:|
 | `sp/grande-sp` | 2460 | 2460 | 2456 | 0 | 0 | 848 KB |
-| `sp/capital` | 6763 | 6772 | 6758 | 9 | 0 | 2088 KB |
-| `sp/metropolitana` | 2632 | 2633 | 2627 | 1 | 0 | 787 KB |
-| `sp/campinas` | 1472 | 1477 | 1474 | 5 | 0 | 432 KB |
-| `sp/litoral` | 866 | 871 | 870 | 5 | 0 | 255 KB |
-| `sp/jundiai` | 682 | 685 | 684 | 3 | 0 | 201 KB |
-| `sp/sorocaba` | 672 | 674 | 666 | 2 | 0 | 196 KB |
-| `sp/vale-do-paraiba` | 853 | 853 | 848 | 0 | 0 | 261 KB |
-| `sp/piracicaba` | 724 | 725 | 721 | 1 | 0 | 212 KB |
-| `sp/ribeirao-preto` | 742 | 744 | 738 | 2 | 0 | 221 KB |
-| `sp/araraquara` | 417 | 418 | 415 | 1 | 0 | 124 KB |
-| `sp/bauru` | 413 | 416 | 413 | 3 | 0 | 120 KB |
-| `sp/marilia` | 292 | 293 | 290 | 1 | 0 | 85 KB |
+| `sp/capital` | 6772 | 6772 | 6758 | 0 | 0 | 2088 KB |
+| `sp/metropolitana` | 2633 | 2634 | 2628 | 1 | 0 | 787 KB |
+| `sp/campinas` | 1477 | 1477 | 1474 | 0 | 0 | 432 KB |
+| `sp/litoral` | 871 | 871 | 870 | 0 | 0 | 255 KB |
+| `sp/jundiai` | 685 | 685 | 684 | 0 | 0 | 201 KB |
+| `sp/sorocaba` | 674 | 674 | 666 | 0 | 0 | 196 KB |
+| `sp/vale-do-paraiba` | 853 | 854 | 849 | 1 | 0 | 262 KB |
+| `sp/piracicaba` | 725 | 725 | 721 | 0 | 0 | 212 KB |
+| `sp/ribeirao-preto` | 744 | 744 | 738 | 0 | 0 | 221 KB |
+| `sp/araraquara` | 418 | 418 | 415 | 0 | 0 | 124 KB |
+| `sp/bauru` | 416 | 416 | 413 | 0 | 0 | 120 KB |
+| `sp/marilia` | 293 | 293 | 290 | 0 | 0 | 85 KB |
 | `sp/presidente-prudente` | 150 | 150 | 150 | 0 | 0 | 46 KB |
 | `sp/aracatuba` | 241 | 241 | 241 | 0 | 0 | 71 KB |
-| `sp/sao-jose-do-rio-preto` | 460 | 464 | 461 | 4 | 0 | 142 KB |
+| `sp/sao-jose-do-rio-preto` | 464 | 464 | 461 | 0 | 0 | 142 KB |
 | `sp/vale-do-ribeira` | 137 | 137 | 137 | 0 | 0 | 40 KB |
 
 ## Links
@@ -27,15 +27,15 @@
 | Origem:status | Linhas |
 |---|---:|
 | overture:falhando | 1 |
-| overture:incerto | 4494 |
-| overture:ok | 14004 |
-| overture:omitidas | 46931 |
+| overture:incerto | 4484 |
+| overture:ok | 14006 |
+| overture:omitidas | 46929 |
 | overture:pendente | 32754 |
-| overture:quebrado | 10389 |
-| overture:reparadas | 3938 |
+| overture:quebrado | 10397 |
+| overture:reparadas | 3939 |
 | overture:sem link | 382 |
-| planilha:incerto | 110 |
-| planilha:ok | 2321 |
+| planilha:incerto | 108 |
+| planilha:ok | 2323 |
 | planilha:omitidas | 18 |
 | planilha:pendente | 29 |
 | planilha:quebrado | 18 |
@@ -76,7 +76,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | 5690 | Coracao Mineiro | https://coracaomineiro.com.br/ |
 | 6830 | Yug Sushi | https://eatyug.com.br/wp-content/uploads/2026/06/yug-menu-online.pdf |
 
-## Links trocados automaticamente (4018)
+## Links trocados automaticamente (4019)
 
 | Nome | Antes | Depois | Como |
 |---|---|---|---|
@@ -144,7 +144,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Spoleto | http://www.spoleto.com.br/lojas/detalhes/380/%3Floja%3DSpoleto%20Shopping%20Bosque%20Maia | https://www.spoleto.com.br:443/tabs/cardapio | pagina-cardapio |
 | Spoleto | http://www.spoleto.com.br/unidade/spoleto-shopping-cidade-sao-paulo/ | https://www.spoleto.com.br:443/tabs/cardapio | pagina-cardapio |
 | Spoleto | http://www.spoleto.com.br/unidade/spoleto-shopping-led-barra-funda/ | https://www.spoleto.com.br:443/tabs/cardapio | pagina-cardapio |
-| Vegg's Restaurante Vegetariano e Vegano | http://www.spveg.com/blog/veggs/ | http://www.spveg.com/ | site |
+| Vegg's Restaurante Vegetariano e Vegano | http://www.spveg.com/blog/veggs/ | http://www.spveg.com/cardapio.pdf | pagina-cardapio |
 | Genesis Alimentacao | http://www.subdelivery.com.br/loja/subway-av-g-edgar-faco/ | http://www.subdelivery.com.br/ | site |
 | Restaurante Tantra | http://www.tantrarestaurante.com.br/v2/php/home.php | https://tantrarestaurante.com.br/cardapio | pagina-cardapio |
 | Tuy Bar, Cocina | https://www.dguests.com.br/cardapio/tuybarcocinajardins | https://www.dguests.com.br/cardapio.pdf | pagina-cardapio |
