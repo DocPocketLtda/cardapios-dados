@@ -1155,8 +1155,8 @@ http://cardapiodigital.io/antonelafirenze,plataforma,cardapiodigital,2,quebrado,
 http://cardapiodigital.io/ef3bf1f6-baac-4d38-ae61-bed2b15effb2,plataforma,cardapiodigital,2,quebrado,server,,http://cardapiodigital.io/ef3bf1f6-baac-4d38-ae61-bed2b15effb2,3,2026-10-20,2026-10-18T15:07:39Z,2026-10-20T14:37:12Z,,,,,,timeout
 http://cardapioja.com.br/,site,,1,ok,ok,200,https://cardapioja.com.br/,0,,2026-10-26T14:10:06Z,2026-10-26T14:10:06Z,2026-10-26T14:10:06Z,1,Cardápio Já,,,
 http://cardapioja.com.br/cardapio,site,,1,ok,ok,200,https://cardapioja.com.br/cardapios/,0,,2026-10-26T14:36:29Z,2026-10-26T14:36:29Z,2026-10-26T14:36:29Z,1,Cardápio Já,,,
-http://cardapioja.com.br/cardapio.pdf,pdf,,1,incerto,blocked,403,http://cardapioja.com.br/cardapio.pdf,1,2026-10-26,2026-10-26T14:36:46Z,2026-11-03T17:21:32Z,,,,,,
-http://cardapioja.com.br/menu,site,,1,incerto,blocked,403,http://cardapioja.com.br/menu,1,2026-10-26,2026-10-26T14:36:37Z,2026-11-03T17:21:30Z,,,,,,
+http://cardapioja.com.br/cardapio.pdf,pdf,,1,incerto,blocked,403,http://cardapioja.com.br/cardapio.pdf,1,2026-10-26,2026-10-26T14:36:46Z,2026-11-10T17:18:35Z,,,,,,
+http://cardapioja.com.br/menu,site,,1,incerto,blocked,403,http://cardapioja.com.br/menu,1,2026-10-26,2026-10-26T14:36:37Z,2026-11-10T17:18:33Z,,,,,,
 http://cardapioja.com.br/queromaismix/,site,,2,quebrado,dead,404,https://cardapioja.com.br/queromaismix/,2,2026-10-26,2026-10-18T14:52:30Z,2026-10-26T13:21:04Z,,,Página não encontrada | Cardápio Já,,,
 http://cardapioodeliciacentro.menudino.com/,plataforma,menudino,2,incerto,blocked,403,http://cardapioodeliciacentro.menudino.com/,,,2026-10-18T15:19:01Z,2026-11-08T16:32:24Z,,,Attention Required! | Cloudflare,,,
 http://cariocacafe2.placeweb.site,site,,2,quebrado,parked,200,http://cariocacafe2.placeweb.site,2,2026-10-25,2026-10-24T14:02:07Z,2026-10-25T14:19:13Z,,,placeweb.site,,,
@@ -3233,29 +3233,29 @@ http://linkr.bio/barechoperiafavela,linktree,,2,quebrado,dead,404,http://linkr.b
 http://linktr.ee/Boscobom,linktree,,2,incerto,blocked,,http://linktr.ee/Boscobom,,,2026-10-19T16:48:49Z,2026-11-09T16:55:47Z,,,,,,robots.txt
 http://linktr.ee/BuffetMazin,linktree,,2,incerto,blocked,,http://linktr.ee/BuffetMazin,,,2026-10-19T16:48:25Z,2026-11-09T16:55:26Z,,,,,,robots.txt
 http://linktr.ee/GiseiSushi,linktree,,2,incerto,blocked,,http://linktr.ee/GiseiSushi,,,2026-10-18T15:22:31Z,2026-11-08T16:37:12Z,,,,,,robots.txt
-http://linktr.ee/HamburgueriaLePingue,linktree,,2,incerto,blocked,,http://linktr.ee/HamburgueriaLePingue,,,2026-10-20T14:39:46Z,2026-11-03T17:25:12Z,,,,,,robots.txt
+http://linktr.ee/HamburgueriaLePingue,linktree,,2,incerto,blocked,,http://linktr.ee/HamburgueriaLePingue,,,2026-10-20T14:39:46Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/Lacasadepastelpormetro,linktree,,2,incerto,blocked,,http://linktr.ee/Lacasadepastelpormetro,,,2026-10-18T22:08:08Z,2026-11-09T16:47:05Z,,,,,,robots.txt
 http://linktr.ee/Losamigosburguerjacarei,linktree,,2,incerto,blocked,,http://linktr.ee/Losamigosburguerjacarei,,,2026-10-18T22:06:10Z,2026-11-09T16:44:50Z,,,,,,robots.txt
 http://linktr.ee/Panificadora_lua_nova,linktree,,2,incerto,blocked,,http://linktr.ee/Panificadora_lua_nova,,,2026-10-18T15:25:51Z,2026-11-08T16:40:34Z,,,,,,robots.txt
 http://linktr.ee/PastelariaOlival,linktree,,2,incerto,blocked,,http://linktr.ee/PastelariaOlival,,,2026-10-26T13:20:03Z,2026-11-09T16:37:52Z,,,,,,robots.txt
 http://linktr.ee/Piolaalphaville,linktree,,2,incerto,blocked,,http://linktr.ee/Piolaalphaville,,,2026-10-19T16:41:40Z,2026-11-09T16:49:53Z,,,,,,robots.txt
-http://linktr.ee/PizzariaRenascer,linktree,,2,incerto,blocked,,http://linktr.ee/PizzariaRenascer,,,2026-10-20T14:40:22Z,2026-11-03T17:25:28Z,,,,,,robots.txt
+http://linktr.ee/PizzariaRenascer,linktree,,2,incerto,blocked,,http://linktr.ee/PizzariaRenascer,,,2026-10-20T14:40:22Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/RSeringueira,linktree,,2,incerto,blocked,,http://linktr.ee/RSeringueira,,,2026-10-18T22:09:16Z,2026-11-09T16:48:08Z,,,,,,robots.txt
 http://linktr.ee/Ragatella,linktree,,2,incerto,blocked,,http://linktr.ee/Ragatella,,,2026-10-18T14:01:08Z,2026-11-08T16:22:01Z,,,,,,robots.txt
 http://linktr.ee/Spoleto_Iguatemi_Ribeirao,linktree,,2,incerto,blocked,,http://linktr.ee/Spoleto_Iguatemi_Ribeirao,,,2026-10-18T15:12:16Z,2026-11-08T16:27:58Z,,,,,,robots.txt
 http://linktr.ee/_segundacasa,linktree,,2,incerto,blocked,,http://linktr.ee/_segundacasa,,,2026-10-18T15:35:27Z,2026-11-09T16:41:35Z,,,,,,robots.txt
 http://linktr.ee/aguanabocaararaquara,linktree,,2,incerto,blocked,,http://linktr.ee/aguanabocaararaquara,,,2026-10-18T14:00:54Z,2026-11-08T16:21:42Z,,,,,,robots.txt
 http://linktr.ee/andolinipizzeria_,linktree,,2,incerto,blocked,,http://linktr.ee/andolinipizzeria_,,,2026-10-18T22:06:26Z,2026-11-09T16:45:23Z,,,,,,robots.txt
-http://linktr.ee/animals_adventure_brasil,linktree,,2,incerto,blocked,,http://linktr.ee/animals_adventure_brasil,,,2026-10-20T14:42:52Z,2026-11-03T17:27:48Z,,,,,,robots.txt
+http://linktr.ee/animals_adventure_brasil,linktree,,2,incerto,blocked,,http://linktr.ee/animals_adventure_brasil,,,2026-10-20T14:42:52Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/arezzo,linktree,,2,incerto,blocked,,http://linktr.ee/arezzo,,,2026-10-18T15:18:40Z,2026-11-08T16:33:18Z,,,,,,robots.txt
 http://linktr.ee/barbosasfood,linktree,,2,incerto,blocked,,http://linktr.ee/barbosasfood,,,2026-10-19T16:47:44Z,2026-11-09T16:54:56Z,,,,,,robots.txt
 http://linktr.ee/bardosarcos,linktree,,1,incerto,blocked,,http://linktr.ee/bardosarcos,,,2026-10-19T01:20:48Z,2026-11-09T16:37:52Z,,,,,,robots.txt
 http://linktr.ee/bardozeguatas,linktree,,2,incerto,blocked,,http://linktr.ee/bardozeguatas,,,2026-10-18T15:15:35Z,2026-11-08T16:30:13Z,,,,,,robots.txt
-http://linktr.ee/barracadobosque,linktree,,2,incerto,blocked,,http://linktr.ee/barracadobosque,,,2026-10-20T14:41:36Z,2026-11-03T17:26:54Z,,,,,,robots.txt
+http://linktr.ee/barracadobosque,linktree,,2,incerto,blocked,,http://linktr.ee/barracadobosque,,,2026-10-20T14:41:36Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/bellatoscanaforneria,linktree,,2,incerto,blocked,,http://linktr.ee/bellatoscanaforneria,,,2026-10-18T15:29:29Z,2026-11-08T16:43:48Z,,,,,,robots.txt
 http://linktr.ee/bikeforlife,linktree,,2,incerto,blocked,,http://linktr.ee/bikeforlife,,,2026-10-19T16:57:17Z,2026-11-09T17:02:20Z,,,,,,robots.txt
 http://linktr.ee/billybrutohamburgueria,linktree,,2,incerto,blocked,,http://linktr.ee/billybrutohamburgueria,,,2026-10-19T17:02:39Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-http://linktr.ee/bistro.club.da.pizza,linktree,,2,incerto,blocked,,http://linktr.ee/bistro.club.da.pizza,,,2026-10-20T14:37:28Z,2026-11-03T17:22:10Z,,,,,,robots.txt
+http://linktr.ee/bistro.club.da.pizza,linktree,,2,incerto,blocked,,http://linktr.ee/bistro.club.da.pizza,,,2026-10-20T14:37:28Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/boamaniaipiranga,linktree,,2,incerto,blocked,,http://linktr.ee/boamaniaipiranga,,,2026-10-18T22:09:48Z,2026-11-09T16:48:41Z,,,,,,robots.txt
 http://linktr.ee/bolodavo,linktree,,2,incerto,blocked,,http://linktr.ee/bolodavo,,,2026-10-19T16:52:02Z,2026-11-09T16:58:17Z,,,,,,robots.txt
 http://linktr.ee/boronhaslanches,linktree,,2,incerto,blocked,,http://linktr.ee/boronhaslanches,,,2026-10-19T16:48:08Z,2026-11-09T16:55:14Z,,,,,,robots.txt
@@ -3270,31 +3270,31 @@ http://linktr.ee/containerburger3,linktree,,2,incerto,blocked,,http://linktr.ee/
 http://linktr.ee/dileccopizzaria,linktree,,2,incerto,blocked,,http://linktr.ee/dileccopizzaria,,,2026-10-18T15:07:17Z,2026-11-08T16:23:49Z,,,,,,robots.txt
 http://linktr.ee/divinanoinsta,linktree,,2,incerto,blocked,,http://linktr.ee/divinanoinsta,,,2026-10-18T15:24:01Z,2026-11-08T16:38:40Z,,,,,,robots.txt
 http://linktr.ee/dleitecozinha.ofc,linktree,,2,incerto,blocked,,http://linktr.ee/dleitecozinha.ofc,,,2026-10-19T16:48:17Z,2026-11-09T16:55:20Z,,,,,,robots.txt
-http://linktr.ee/donaesthersorveteria,linktree,,2,incerto,blocked,,http://linktr.ee/donaesthersorveteria,,,2026-10-20T14:37:22Z,2026-11-03T17:21:40Z,,,,,,robots.txt
+http://linktr.ee/donaesthersorveteria,linktree,,2,incerto,blocked,,http://linktr.ee/donaesthersorveteria,,,2026-10-20T14:37:22Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/dr.telesaude,linktree,,2,incerto,blocked,,http://linktr.ee/dr.telesaude,,,2026-10-19T17:03:23Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 http://linktr.ee/eaivaiumcafepindacentro,linktree,,2,incerto,blocked,,http://linktr.ee/eaivaiumcafepindacentro,,,2026-10-18T15:07:53Z,2026-11-08T16:24:20Z,,,,,,robots.txt
 http://linktr.ee/eapcafe,linktree,,2,incerto,blocked,,http://linktr.ee/eapcafe,,,2026-10-18T15:25:29Z,2026-11-08T16:40:06Z,,,,,,robots.txt
 http://linktr.ee/edneichinelatobuffet,linktree,,2,incerto,blocked,,http://linktr.ee/edneichinelatobuffet,,,2026-10-26T13:22:10Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 http://linktr.ee/elfaraesfihas,linktree,,2,incerto,blocked,,http://linktr.ee/elfaraesfihas,,,2026-10-18T22:09:02Z,2026-11-09T16:47:53Z,,,,,,robots.txt
 http://linktr.ee/emporioeuro,linktree,,2,incerto,blocked,,http://linktr.ee/emporioeuro,,,2026-10-26T13:21:09Z,2026-11-09T16:37:52Z,,,,,,robots.txt
-http://linktr.ee/emporiumdapizza,linktree,,2,incerto,blocked,,http://linktr.ee/emporiumdapizza,,,2026-10-20T14:37:04Z,2026-11-03T17:21:32Z,,,,,,robots.txt
+http://linktr.ee/emporiumdapizza,linktree,,2,incerto,blocked,,http://linktr.ee/emporiumdapizza,,,2026-10-20T14:37:04Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/espetocantareira,linktree,,2,incerto,blocked,,http://linktr.ee/espetocantareira,,,2026-10-19T16:44:21Z,2026-11-09T16:52:05Z,,,,,,robots.txt
 http://linktr.ee/espetosprimegrill,linktree,,2,incerto,blocked,,http://linktr.ee/espetosprimegrill,,,2026-10-18T15:26:28Z,2026-11-08T16:41:08Z,,,,,,robots.txt
 http://linktr.ee/fazanbuffet,linktree,,2,incerto,blocked,,http://linktr.ee/fazanbuffet,,,2026-10-18T15:11:59Z,2026-11-08T16:27:47Z,,,,,,robots.txt
-http://linktr.ee/frangodacidadesjc,linktree,,2,incerto,blocked,,http://linktr.ee/frangodacidadesjc,,,2026-10-20T14:41:24Z,2026-11-03T17:26:12Z,,,,,,robots.txt
+http://linktr.ee/frangodacidadesjc,linktree,,2,incerto,blocked,,http://linktr.ee/frangodacidadesjc,,,2026-10-20T14:41:24Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/gendai_oficial,linktree,,2,incerto,blocked,,http://linktr.ee/gendai_oficial,,,2026-10-18T22:08:48Z,2026-11-09T16:47:41Z,,,,,,robots.txt
 http://linktr.ee/gil.burgeroficial,linktree,,2,incerto,blocked,,http://linktr.ee/gil.burgeroficial,,,2026-10-18T22:10:08Z,2026-11-09T16:48:59Z,,,,,,robots.txt
 http://linktr.ee/giovanapaesedoces97,linktree,,2,incerto,blocked,,http://linktr.ee/giovanapaesedoces97,,,2026-10-18T15:22:13Z,2026-11-08T16:36:54Z,,,,,,robots.txt
 http://linktr.ee/gogolamen/,linktree,,2,incerto,blocked,,http://linktr.ee/gogolamen/,,,2026-10-18T15:26:24Z,2026-11-08T16:41:05Z,,,,,,robots.txt
 http://linktr.ee/gogreenbr,linktree,,2,incerto,blocked,,http://linktr.ee/gogreenbr,,,2026-10-19T16:45:48Z,2026-11-09T16:53:17Z,,,,,,robots.txt
-http://linktr.ee/gostinhocaseiromogi,linktree,,2,incerto,blocked,,http://linktr.ee/gostinhocaseiromogi,,,2026-10-20T14:42:18Z,2026-11-03T17:27:34Z,,,,,,robots.txt
-http://linktr.ee/grillsul.oficial,linktree,,2,incerto,blocked,,http://linktr.ee/grillsul.oficial,,,2026-10-20T14:36:28Z,2026-11-03T17:21:30Z,,,,,,robots.txt
+http://linktr.ee/gostinhocaseiromogi,linktree,,2,incerto,blocked,,http://linktr.ee/gostinhocaseiromogi,,,2026-10-20T14:42:18Z,2026-11-10T17:18:31Z,,,,,,robots.txt
+http://linktr.ee/grillsul.oficial,linktree,,2,incerto,blocked,,http://linktr.ee/grillsul.oficial,,,2026-10-20T14:36:28Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/hausburger,linktree,,2,incerto,blocked,,http://linktr.ee/hausburger,,,2026-10-18T15:28:40Z,2026-11-08T16:43:22Z,,,,,,robots.txt
 http://linktr.ee/igesushi,linktree,,2,incerto,blocked,,http://linktr.ee/igesushi,,,2026-10-18T14:01:05Z,2026-11-08T16:21:57Z,,,,,,robots.txt
 http://linktr.ee/invernoditaliamm,linktree,,2,incerto,blocked,,http://linktr.ee/invernoditaliamm,,,2026-10-19T16:43:56Z,2026-11-09T16:51:47Z,,,,,,robots.txt
 http://linktr.ee/invernoditaliapirassununga,linktree,,2,incerto,blocked,,http://linktr.ee/invernoditaliapirassununga,,,2026-10-18T15:19:31Z,2026-11-08T16:33:59Z,,,,,,robots.txt
 http://linktr.ee/jandiralanches,linktree,,2,incerto,blocked,,http://linktr.ee/jandiralanches,,,2026-10-19T17:00:42Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-http://linktr.ee/jesuspizzatat,linktree,,2,incerto,blocked,,http://linktr.ee/jesuspizzatat,,,2026-10-20T14:38:28Z,2026-11-03T17:23:28Z,,,,,,robots.txt
+http://linktr.ee/jesuspizzatat,linktree,,2,incerto,blocked,,http://linktr.ee/jesuspizzatat,,,2026-10-20T14:38:28Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/jinjin.oficial,linktree,,2,incerto,blocked,,http://linktr.ee/jinjin.oficial,,,2026-10-18T15:24:21Z,2026-11-08T16:39:00Z,,,,,,robots.txt
 http://linktr.ee/johnnyrocketspraiagrande,linktree,,2,incerto,blocked,,http://linktr.ee/johnnyrocketspraiagrande,,,2026-10-19T16:41:46Z,2026-11-09T16:49:59Z,,,,,,robots.txt
 http://linktr.ee/katarinasbar,linktree,,2,incerto,blocked,,http://linktr.ee/katarinasbar,,,2026-10-18T22:08:26Z,2026-11-09T16:47:20Z,,,,,,robots.txt
@@ -3304,14 +3304,14 @@ http://linktr.ee/lanchonetetiradentes,linktree,,2,incerto,blocked,,http://linktr
 http://linktr.ee/madallenapizzabars,linktree,,2,incerto,blocked,,http://linktr.ee/madallenapizzabars,,,2026-10-18T15:28:37Z,2026-11-08T16:43:19Z,,,,,,robots.txt
 http://linktr.ee/marantacafe,linktree,,2,incerto,blocked,,http://linktr.ee/marantacafe,,,2026-10-19T16:44:42Z,2026-11-09T16:52:20Z,,,,,,robots.txt
 http://linktr.ee/maria_boleira,linktree,,2,incerto,blocked,,http://linktr.ee/maria_boleira,,,2026-10-18T15:21:38Z,2026-11-08T16:36:20Z,,,,,,robots.txt
-http://linktr.ee/mercatiararas,linktree,,2,incerto,blocked,,http://linktr.ee/mercatiararas,,,2026-10-20T14:36:30Z,2026-11-03T17:21:30Z,,,,,,robots.txt
+http://linktr.ee/mercatiararas,linktree,,2,incerto,blocked,,http://linktr.ee/mercatiararas,,,2026-10-20T14:36:30Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/mestiere.massas,linktree,,2,incerto,blocked,,http://linktr.ee/mestiere.massas,,,2026-10-18T22:10:26Z,2026-11-09T16:49:14Z,,,,,,robots.txt
-http://linktr.ee/milconfeitaria,linktree,,2,incerto,blocked,,http://linktr.ee/milconfeitaria,,,2026-10-20T14:39:10Z,2026-11-03T17:23:54Z,,,,,,robots.txt
+http://linktr.ee/milconfeitaria,linktree,,2,incerto,blocked,,http://linktr.ee/milconfeitaria,,,2026-10-20T14:39:10Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/minha.cozinha,linktree,,2,incerto,blocked,,http://linktr.ee/minha.cozinha,,,2026-10-18T15:22:21Z,2026-11-08T16:36:58Z,,,,,,robots.txt
 http://linktr.ee/miolasmashburger,linktree,,2,incerto,blocked,,http://linktr.ee/miolasmashburger,,,2026-10-18T15:23:28Z,2026-11-08T16:38:09Z,,,,,,robots.txt
 http://linktr.ee/mirantedaserradebrotas,linktree,,2,incerto,blocked,,http://linktr.ee/mirantedaserradebrotas,,,2026-10-18T15:39:01Z,2026-11-09T16:44:23Z,,,,,,robots.txt
 http://linktr.ee/mrcheneysaude,linktree,,2,incerto,blocked,,http://linktr.ee/mrcheneysaude,,,2026-10-18T22:06:28Z,2026-11-09T16:45:26Z,,,,,,robots.txt
-http://linktr.ee/nafazendaemporio,linktree,,2,incerto,blocked,,http://linktr.ee/nafazendaemporio,,,2026-10-20T14:39:50Z,2026-11-03T17:25:14Z,,,,,,robots.txt
+http://linktr.ee/nafazendaemporio,linktree,,2,incerto,blocked,,http://linktr.ee/nafazendaemporio,,,2026-10-20T14:39:50Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/ninhodacambaxirra,linktree,,2,incerto,blocked,,http://linktr.ee/ninhodacambaxirra,,,2026-10-18T22:07:44Z,2026-11-09T16:46:44Z,,,,,,robots.txt
 http://linktr.ee/ohamburguerdecaragua,linktree,,2,incerto,blocked,,http://linktr.ee/ohamburguerdecaragua,,,2026-10-18T15:21:25Z,2026-11-08T16:36:04Z,,,,,,robots.txt
 http://linktr.ee/ohanapokemaresias,linktree,,2,incerto,blocked,,http://linktr.ee/ohanapokemaresias,,,2026-10-19T16:54:34Z,2026-11-09T17:00:11Z,,,,,,robots.txt
@@ -3320,7 +3320,7 @@ http://linktr.ee/padariabommenino,linktree,,2,incerto,blocked,,http://linktr.ee/
 http://linktr.ee/padariagransabor,linktree,,2,incerto,blocked,,http://linktr.ee/padariagransabor,,,2026-10-18T15:34:21Z,2026-11-09T16:40:47Z,,,,,,robots.txt
 http://linktr.ee/padarialareira,linktree,,2,incerto,blocked,,http://linktr.ee/padarialareira,,,2026-10-18T15:35:01Z,2026-11-09T16:41:17Z,,,,,,robots.txt
 http://linktr.ee/padariapaonatural,linktree,,2,incerto,blocked,,http://linktr.ee/padariapaonatural,,,2026-10-18T15:25:48Z,2026-11-08T16:40:28Z,,,,,,robots.txt
-http://linktr.ee/pairecafeteria,linktree,,2,incerto,blocked,,http://linktr.ee/pairecafeteria,,,2026-10-20T14:39:12Z,2026-11-03T17:23:56Z,,,,,,robots.txt
+http://linktr.ee/pairecafeteria,linktree,,2,incerto,blocked,,http://linktr.ee/pairecafeteria,,,2026-10-20T14:39:12Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/patriaburger,linktree,,2,incerto,blocked,,http://linktr.ee/patriaburger,,,2026-10-18T15:14:16Z,2026-11-08T16:29:13Z,,,,,,robots.txt
 http://linktr.ee/pizzarianicole.veleiros,linktree,,2,incerto,blocked,,http://linktr.ee/pizzarianicole.veleiros,,,2026-10-18T15:15:59Z,2026-11-08T16:30:40Z,,,,,,robots.txt
 http://linktr.ee/pokeyou,linktree,,2,incerto,blocked,,http://linktr.ee/pokeyou,,,2026-10-18T15:28:08Z,2026-11-08T16:42:44Z,,,,,,robots.txt
@@ -3329,12 +3329,12 @@ http://linktr.ee/pontodaesfihanovoosasco,linktree,,2,incerto,blocked,,http://lin
 http://linktr.ee/pontodaesfihaofc,linktree,,2,incerto,blocked,,http://linktr.ee/pontodaesfihaofc,,,2026-10-19T16:58:41Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 http://linktr.ee/quiosqueluguisantos,linktree,,2,incerto,blocked,,http://linktr.ee/quiosqueluguisantos,,,2026-10-26T13:22:01Z,2026-11-09T17:00:35Z,,,,,,robots.txt
 http://linktr.ee/ranchoestacao,linktree,,2,incerto,blocked,,http://linktr.ee/ranchoestacao,,,2026-10-18T15:36:09Z,2026-11-09T16:42:08Z,,,,,,robots.txt
-http://linktr.ee/rangosgrill,linktree,,2,incerto,blocked,,http://linktr.ee/rangosgrill,,,2026-10-20T14:42:44Z,2026-11-03T17:27:44Z,,,,,,robots.txt
+http://linktr.ee/rangosgrill,linktree,,2,incerto,blocked,,http://linktr.ee/rangosgrill,,,2026-10-20T14:42:44Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/repcafe,linktree,,2,incerto,blocked,,http://linktr.ee/repcafe,,,2026-10-18T15:30:05Z,2026-11-08T16:43:57Z,,,,,,robots.txt
 http://linktr.ee/restauranteps,linktree,,2,incerto,blocked,,http://linktr.ee/restauranteps,,,2026-10-18T15:15:05Z,2026-11-08T16:29:43Z,,,,,,robots.txt
 http://linktr.ee/restaurantesaladamista,linktree,,2,incerto,blocked,,http://linktr.ee/restaurantesaladamista,,,2026-10-18T22:08:11Z,2026-11-09T16:47:08Z,,,,,,robots.txt
 http://linktr.ee/restaurantetradicao,linktree,,2,incerto,blocked,,http://linktr.ee/restaurantetradicao,,,2026-10-18T22:07:48Z,2026-11-09T16:46:47Z,,,,,,robots.txt
-http://linktr.ee/roastedprudente,linktree,,2,incerto,blocked,,http://linktr.ee/roastedprudente,,,2026-10-20T14:37:02Z,2026-11-03T17:21:32Z,,,,,,robots.txt
+http://linktr.ee/roastedprudente,linktree,,2,incerto,blocked,,http://linktr.ee/roastedprudente,,,2026-10-20T14:37:02Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/santoancho,linktree,,2,incerto,blocked,,http://linktr.ee/santoancho,,,2026-10-18T15:29:04Z,2026-11-08T16:43:40Z,,,,,,robots.txt
 http://linktr.ee/santobelisco,linktree,,2,incerto,blocked,,http://linktr.ee/santobelisco,,,2026-10-18T15:17:48Z,2026-11-08T16:32:20Z,,,,,,robots.txt
 http://linktr.ee/savvasgastronomia,linktree,,2,incerto,blocked,,http://linktr.ee/savvasgastronomia,,,2026-10-18T15:22:28Z,2026-11-08T16:37:06Z,,,,,,robots.txt
@@ -3350,13 +3350,13 @@ http://linktr.ee/takajapavalinhos,linktree,,2,incerto,blocked,,http://linktr.ee/
 http://linktr.ee/tavernadadosedragoes,linktree,,2,incerto,blocked,,http://linktr.ee/tavernadadosedragoes,,,2026-10-18T15:28:31Z,2026-11-08T16:43:13Z,,,,,,robots.txt
 http://linktr.ee/tokagastrobar,linktree,,2,incerto,blocked,,http://linktr.ee/tokagastrobar,,,2026-10-19T17:02:31Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 http://linktr.ee/tomocampolim,linktree,,2,incerto,blocked,,http://linktr.ee/tomocampolim,,,2026-10-19T16:49:29Z,2026-11-09T16:56:20Z,,,,,,robots.txt
-http://linktr.ee/trinitarestaurante,linktree,,2,incerto,blocked,,http://linktr.ee/trinitarestaurante,,,2026-10-20T14:37:48Z,2026-11-03T17:22:52Z,,,,,,robots.txt
+http://linktr.ee/trinitarestaurante,linktree,,2,incerto,blocked,,http://linktr.ee/trinitarestaurante,,,2026-10-20T14:37:48Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/tuusgastrobar,linktree,,2,incerto,blocked,,http://linktr.ee/tuusgastrobar,,,2026-10-19T17:03:31Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 http://linktr.ee/vilaserafim/,linktree,,2,incerto,blocked,,http://linktr.ee/vilaserafim/,,,2026-10-18T15:11:07Z,2026-11-08T16:27:13Z,,,,,,robots.txt
 http://linktr.ee/vinodiportopizzaria,linktree,,2,incerto,blocked,,http://linktr.ee/vinodiportopizzaria,,,2026-10-18T15:17:23Z,2026-11-08T16:31:56Z,,,,,,robots.txt
-http://linktr.ee/vistarooftop,linktree,,2,incerto,blocked,,http://linktr.ee/vistarooftop,,,2026-10-20T14:37:07Z,2026-11-03T17:21:33Z,,,,,,robots.txt
+http://linktr.ee/vistarooftop,linktree,,2,incerto,blocked,,http://linktr.ee/vistarooftop,,,2026-10-20T14:37:07Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/wandoslanches/,linktree,,2,incerto,blocked,,http://linktr.ee/wandoslanches/,,,2026-10-18T15:36:13Z,2026-11-09T16:42:11Z,,,,,,robots.txt
-http://linktr.ee/zerobertolanchonete,linktree,,2,incerto,blocked,,http://linktr.ee/zerobertolanchonete,,,2026-10-20T14:41:50Z,2026-11-03T17:27:18Z,,,,,,robots.txt
+http://linktr.ee/zerobertolanchonete,linktree,,2,incerto,blocked,,http://linktr.ee/zerobertolanchonete,,,2026-10-20T14:41:50Z,2026-11-10T17:18:31Z,,,,,,robots.txt
 http://linktr.ee/zumzumlanchonete,linktree,,2,incerto,blocked,,http://linktr.ee/zumzumlanchonete,,,2026-10-19T16:58:25Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 http://linktree.com.br/,site,,1,quebrado,conn,,http://linktree.com.br/,2,2026-10-27,2026-10-26T14:10:51Z,2026-10-27T15:35:31Z,,,,,,conn:gaierror
 http://linktree.com.br/new/thepokehouse,site,,2,quebrado,conn,,http://linktree.com.br/new/thepokehouse,2,2026-10-19,2026-10-18T15:04:44Z,2026-10-19T16:40:02Z,,,,,,conn:gaierror
@@ -7424,7 +7424,7 @@ http://ticoetecolanches.placeweb.site/,site,,1,quebrado,server,,http://ticoeteco
 http://tictacbuffet.com.br/,site,,2,quebrado,conn,,http://tictacbuffet.com.br/,2,2026-10-19,2026-10-18T14:54:07Z,2026-10-19T03:27:07Z,,,,,,conn:gaierror
 http://tilapiacaipirabar.com.br,site,,2,quebrado,conn,,http://tilapiacaipirabar.com.br,2,2026-10-19,2026-10-18T14:58:12Z,2026-10-19T03:29:25Z,,,,,,conn:gaierror
 http://tilapiacaipirabar.com.br/,site,,1,quebrado,conn,,http://tilapiacaipirabar.com.br/,2,2026-10-20,2026-10-19T03:31:23Z,2026-10-20T14:29:59Z,,,,,,conn:gaierror
-http://timaria.com.br/,site,,1,incerto,blocked,403,http://timaria.com.br/,1,2026-11-02,2026-10-19T03:30:37Z,2026-11-03T17:21:26Z,,,Hospedagem Locaweb,,,
+http://timaria.com.br/,site,,1,incerto,blocked,403,http://timaria.com.br/,1,2026-11-02,2026-10-19T03:30:37Z,2026-11-10T17:18:32Z,,,Hospedagem Locaweb,,,
 http://timaria.com.br/fotos,site,,2,quebrado,dead,404,http://timaria.com.br/fotos,2,2026-10-19,2026-10-18T14:50:47Z,2026-10-19T03:25:16Z,,,Hospedagem Locaweb,,,
 http://timeshowbar.com,site,,2,quebrado,conn,,http://timeshowbar.com,2,2026-10-19,2026-10-18T14:54:41Z,2026-10-19T03:27:25Z,,,,,,conn:gaierror
 http://timeshowbar.com/,site,,1,quebrado,conn,,http://timeshowbar.com/,2,2026-10-20,2026-10-19T03:30:55Z,2026-10-20T14:32:20Z,,,,,,conn:gaierror
@@ -12245,7 +12245,7 @@ http://www.emporiogrillchurrasqueiras.com.br/,site,,2,ok,ok,200,https://www.empo
 http://www.emporioitie.com.br/,site,,2,ok,ok,200,https://www.emporioitie.com.br/,0,,2026-10-18T14:00:35Z,2026-10-18T14:00:35Z,2026-10-18T14:00:35Z,1,EMPÓRIO ITIÊ,,,
 http://www.emporiojardim.com.br/,site,,0,ok,ok,200,https://emporiojardim.com.br/,0,,2026-10-18T14:41:20Z,2026-10-18T14:41:20Z,2026-10-18T14:41:20Z,1,Empório Sterci – Referência em carnes nobres com mais de 40 anos de tradição.,,,
 http://www.emporiojf.com.br/,site,,2,quebrado,conn,,http://www.emporiojf.com.br/,2,2026-10-19,2026-10-18T15:03:46Z,2026-10-19T03:24:53Z,,,,,,conn:gaierror
-http://www.emporiojosemenino.com.br/,site,,2,incerto,blocked,403,http://www.emporiojosemenino.com.br/,2,2026-11-02,2026-10-18T14:55:59Z,2026-11-03T17:21:28Z,,,Hospedagem Locaweb,,,
+http://www.emporiojosemenino.com.br/,site,,2,incerto,blocked,403,http://www.emporiojosemenino.com.br/,2,2026-11-02,2026-10-18T14:55:59Z,2026-11-10T17:18:32Z,,,Hospedagem Locaweb,,,
 http://www.emporiolitoral.com.br/,site,,2,ok,ok,200,https://www.emporiolitoral.com.br/,0,,2026-10-18T14:46:13Z,2026-10-18T14:46:13Z,2026-10-18T14:46:13Z,0,"Alimentos Naturais, Grãos e Bem-estar | Empório Litoral",,,
 http://www.emporiomarcomineiro.com.br/,site,,2,ok,ok,200,https://www.emporiomarcomineiro.com.br/,0,,2026-10-18T14:53:35Z,2026-10-18T14:53:35Z,2026-10-18T14:53:35Z,1,Empório Marco Mineiro,,,
 http://www.emporiomaxifour.com.br/,site,,2,ok,ok,200,https://www.emporiomaxifour.com.br/,0,2026-10-18,2026-10-18T14:52:26Z,2026-10-19T03:26:12Z,2026-10-19T03:26:12Z,1,Lebanon Market Center,,,
@@ -12290,7 +12290,7 @@ http://www.emporiozcarnes.com.br,site,,2,quebrado,conn,,http://www.emporiozcarne
 http://www.emporiozcarnes.com.br/,site,,1,quebrado,conn,,http://www.emporiozcarnes.com.br/,2,2026-10-20,2026-10-19T03:31:24Z,2026-10-20T14:32:10Z,,,,,,conn:gaierror
 http://www.emporiozucchini.com.br/,site,,2,ok,ok,200,http://www.emporiozucchini.com.br/,0,,2026-10-18T15:01:05Z,2026-10-18T15:01:05Z,2026-10-18T15:01:05Z,0,Verificação de segurança,,,
 http://www.emporiumbeef.com.br/,site,,2,quebrado,conn,,http://www.emporiumbeef.com.br/,2,2026-10-19,2026-10-18T14:56:11Z,2026-10-19T03:28:18Z,,,,,,conn:gaierror
-http://www.emporiumcafe.com.br,site,,2,falhando,conn,,http://www.emporiumcafe.com.br,1,2026-11-09,2026-10-26T13:20:20Z,2026-11-09T16:37:51Z,,,,,,conn:gaierror
+http://www.emporiumcafe.com.br,site,,2,incerto,blocked,403,http://www.emporiumcafe.com.br,1,2026-11-09,2026-10-26T13:20:20Z,2026-11-10T17:18:32Z,,,403 Forbidden,,,
 http://www.emporiumdobrigadeiro.com,site,,2,quebrado,conn,,http://www.emporiumdobrigadeiro.com,2,2026-10-19,2026-10-18T15:01:38Z,2026-10-19T16:40:37Z,,,,,,conn:gaierror
 http://www.emporiumdobrigadeiro.com/,site,,1,quebrado,conn,,http://www.emporiumdobrigadeiro.com/,2,2026-10-27,2026-10-26T14:09:49Z,2026-10-27T15:34:05Z,,,,,,conn:gaierror
 http://www.empresas.camposdojordao.inf.br/,site,,1,quebrado,conn,,http://www.empresas.camposdojordao.inf.br/,2,2026-10-20,2026-10-19T03:31:04Z,2026-10-20T14:33:06Z,,,,,,conn:gaierror
@@ -14673,7 +14673,7 @@ http://www.linkbio.co/menu,site,,1,quebrado,dead,404,https://www.linkbio.co/menu
 http://www.linkbio.co/padokadojota,site,,2,quebrado,dead,404,https://www.linkbio.co/padokadojota,2,2026-10-19,2026-10-18T15:06:03Z,2026-10-19T03:25:59Z,,,"404 - Desculpe, esta página não existe - Linkbio | Instabio - Link in bio",,,
 http://www.linktr.ee/bardopeixe,linktree,,2,incerto,blocked,,http://www.linktr.ee/bardopeixe,,,2026-10-18T15:34:38Z,2026-11-09T16:40:59Z,,,,,,robots.txt
 http://www.linktr.ee/sejareviva,linktree,,2,incerto,blocked,,http://www.linktr.ee/sejareviva,,,2026-10-18T22:09:08Z,2026-11-09T16:47:59Z,,,,,,robots.txt
-http://www.linktr.ee/teusburgers,linktree,,2,incerto,blocked,,http://www.linktr.ee/teusburgers,,,2026-10-20T14:36:47Z,2026-11-03T17:21:32Z,,,,,,robots.txt
+http://www.linktr.ee/teusburgers,linktree,,2,incerto,blocked,,http://www.linktr.ee/teusburgers,,,2026-10-20T14:36:47Z,2026-11-10T17:18:33Z,,,,,,robots.txt
 http://www.linktr.ee/tremdeminas_paodequeijocaseiro,linktree,,2,incerto,blocked,,http://www.linktr.ee/tremdeminas_paodequeijocaseiro,,,2026-10-18T15:27:37Z,2026-11-08T16:42:03Z,,,,,,robots.txt
 http://www.linktr.ee/yerestaurante,linktree,,2,incerto,blocked,,http://www.linktr.ee/yerestaurante,,,2026-10-19T16:45:22Z,2026-11-09T16:52:56Z,,,,,,robots.txt
 http://www.lionspizzas.com.br/,site,,2,quebrado,conn,,http://www.lionspizzas.com.br/,2,2026-10-19,2026-10-18T14:55:18Z,2026-10-19T03:27:49Z,,,,,,conn:gaierror
@@ -18356,7 +18356,7 @@ http://www.refugiosjc.com.br,site,,2,quebrado,conn,,http://www.refugiosjc.com.br
 http://www.refugiosjc.com.br/,site,,1,quebrado,conn,,http://www.refugiosjc.com.br/,2,2026-10-20,2026-10-19T01:21:16Z,2026-10-20T14:31:28Z,,,,,,conn:gaierror
 http://www.regallerestaurante.com.br/,site,,2,ok,ok,200,https://www.regallerestaurante.com.br/,0,,2026-10-18T14:49:09Z,2026-10-18T14:49:09Z,2026-10-18T14:49:09Z,1,HOME | Regalle Restaurante | Restaurante Por Quilo | Limeira -Sao Paulo,https://www.ifood.com.br/delivery/limeira-sp/ki-lanchao---regalle-restaurante-centro/0a8c3a39-9bbc-4e44-976f-2412a9f8472f,,
 http://www.reginapizzas.com.br/,site,,2,incerto,blocked,403,https://accon.ai/regina-pizzas,,,2026-10-18T14:48:45Z,2026-11-08T16:21:20Z,,,Just a moment...,,,
-http://www.rei.salgados.com.br/,site,,2,incerto,blocked,,http://www.rei.salgados.com.br/,1,2026-10-26,2026-10-26T13:20:55Z,2026-11-03T17:21:26Z,,,,,,robots.txt
+http://www.rei.salgados.com.br/,site,,2,incerto,blocked,,http://www.rei.salgados.com.br/,1,2026-10-26,2026-10-26T13:20:55Z,2026-11-10T17:18:30Z,,,,,,robots.txt
 http://www.reidacalabresa.com.br,site,,2,ok,ok,200,http://www.reidacalabresa.com.br,0,,2026-10-18T14:57:06Z,2026-10-18T14:57:06Z,2026-10-18T14:57:06Z,1,Rei da Calabresa – Só mais um site WordPress,,http://www.reidacalabresa.com.br/cardapio/,
 http://www.reidacalabresa.com.br/,site,,1,ok,ok,200,http://www.reidacalabresa.com.br/,0,,2026-10-18T15:41:35Z,2026-10-18T15:41:35Z,2026-10-18T15:41:35Z,1,Rei da Calabresa – Só mais um site WordPress,,http://www.reidacalabresa.com.br/cardapio/,
 http://www.reidacalabresa.com.br/cardapio/,site,,1,ok,ok,200,http://www.reidacalabresa.com.br/cardapio/,0,,2026-10-18T15:44:48Z,2026-10-18T15:44:48Z,2026-10-18T15:44:48Z,1,Cardápio – Rei da Calabresa,,http://www.reidacalabresa.com.br/cardapio/,
@@ -24415,7 +24415,7 @@ https://flow.page/poppysbarrabonita,site,,2,ok,ok,200,https://flow.page/poppysba
 https://flow.page/shoyou,site,,2,ok,ok,200,https://flow.page/shoyou,0,,2026-10-18T15:04:10Z,2026-10-18T15:04:10Z,2026-10-18T15:04:10Z,1,SHOYOU's Flowpage,,,
 https://flyingsushi.com.br,site,,2,ok,ok,200,https://flyingsushi.com.br,0,,2026-10-18T15:03:52Z,2026-10-18T15:03:52Z,2026-10-18T15:03:52Z,0,Verificação de segurança,,,
 https://flyingsushi.com.br/,site,,1,ok,ok,200,https://flyingsushi.com.br/,0,,2026-10-19T01:21:19Z,2026-10-19T01:21:19Z,2026-10-19T01:21:19Z,1,Home - Flying Sushi,,https://flyingsushi.com.br/cardapio-2/,
-https://flyingsushi.com.br/cardapio,site,,1,incerto,blocked,403,https://flyingsushi.com.br/cardapio/,1,2026-10-26,2026-10-19T01:22:54Z,2026-11-03T17:21:32Z,,,Hospedagem Locaweb,,,
+https://flyingsushi.com.br/cardapio,site,,1,incerto,blocked,403,https://flyingsushi.com.br/cardapio/,1,2026-10-26,2026-10-19T01:22:54Z,2026-11-10T17:18:36Z,,,Hospedagem Locaweb,,,
 https://flyingsushi.com.br/cardapio-2/,site,,1,ok,ok,200,https://flyingsushi.com.br/cardapio-2/,0,,2026-10-19T01:22:42Z,2026-10-19T01:22:42Z,2026-10-19T01:22:42Z,1,Cardápio - Flying Sushi,,https://flyingsushi.com.br/cardapio-2/,
 https://flyingsushi.com.br/cardapio.pdf,pdf,,1,quebrado,dead,404,https://flyingsushi.com.br/cardapio.pdf,2,2026-10-20,2026-10-19T01:23:11Z,2026-10-20T14:30:57Z,,,Página não encontrada - Flying Sushi,,,
 https://flyingsushi.com.br/menu,site,,1,quebrado,dead,404,https://flyingsushi.com.br/menu,2,2026-10-20,2026-10-19T01:23:05Z,2026-10-20T14:35:34Z,,,Página não encontrada - Flying Sushi,,,
@@ -25655,7 +25655,7 @@ https://linksharing.samsungcloud.com/fcEK4rnqgrPd,site,,2,incerto,blocked,,https
 https://linksharing.samsungcloud.com/ngj8ZMG9DvhU,site,,2,incerto,blocked,,https://linksharing.samsungcloud.com/ngj8ZMG9DvhU,,,2026-10-18T14:50:20Z,2026-11-08T16:21:20Z,,,,,,robots.txt
 https://linktr.ee/1085itamaratidelivery,linktree,,2,incerto,blocked,,https://linktr.ee/1085itamaratidelivery,,,2026-10-19T16:53:24Z,2026-11-09T16:59:20Z,,,,,,robots.txt
 https://linktr.ee/12por8bar,linktree,,2,incerto,blocked,,https://linktr.ee/12por8bar,,,2026-10-19T17:01:56Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/200Graus?ltsid=95afc5ed-9348-44d7-8743-538820a3caa1,linktree,,2,incerto,blocked,,https://linktr.ee/200Graus?ltsid=95afc5ed-9348-44d7-8743-538820a3caa1,,,2026-10-20T14:39:20Z,2026-11-03T17:24:30Z,,,,,,robots.txt
+https://linktr.ee/200Graus?ltsid=95afc5ed-9348-44d7-8743-538820a3caa1,linktree,,2,incerto,blocked,,https://linktr.ee/200Graus?ltsid=95afc5ed-9348-44d7-8743-538820a3caa1,,,2026-10-20T14:39:20Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/829.yakiniku,linktree,,2,incerto,blocked,,https://linktr.ee/829.yakiniku,,,2026-10-18T15:38:41Z,2026-11-09T16:44:05Z,,,,,,robots.txt
 https://linktr.ee/Abudi_,linktree,,2,incerto,blocked,,https://linktr.ee/Abudi_,,,2026-10-19T16:51:29Z,2026-11-09T16:57:53Z,,,,,,robots.txt
 https://linktr.ee/Alameda170,linktree,,2,incerto,blocked,,https://linktr.ee/Alameda170,,,2026-10-18T15:23:19Z,2026-11-08T16:38:01Z,,,,,,robots.txt
@@ -25674,12 +25674,12 @@ https://linktr.ee/CUSCUZDAIRINA,linktree,,2,incerto,blocked,,https://linktr.ee/C
 https://linktr.ee/CacaueCafeSantos,linktree,,2,incerto,blocked,,https://linktr.ee/CacaueCafeSantos,,,2026-10-18T15:35:59Z,2026-11-09T16:41:59Z,,,,,,robots.txt
 https://linktr.ee/Cafe_doces,linktree,,2,incerto,blocked,,https://linktr.ee/Cafe_doces,,,2026-10-18T22:07:38Z,2026-11-09T16:46:35Z,,,,,,robots.txt
 https://linktr.ee/CafecomleiteeCia,linktree,,2,incerto,blocked,,https://linktr.ee/CafecomleiteeCia,,,2026-10-19T16:46:27Z,2026-11-09T16:53:53Z,,,,,,robots.txt
-https://linktr.ee/CantinhoDoCaju,linktree,,2,incerto,blocked,,https://linktr.ee/CantinhoDoCaju,,,2026-10-20T14:40:40Z,2026-11-03T17:25:38Z,,,,,,robots.txt
+https://linktr.ee/CantinhoDoCaju,linktree,,2,incerto,blocked,,https://linktr.ee/CantinhoDoCaju,,,2026-10-20T14:40:40Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/Capitaoprimeoficial,linktree,,2,incerto,blocked,,https://linktr.ee/Capitaoprimeoficial,,,2026-10-18T15:15:15Z,2026-11-08T16:29:52Z,,,,,,robots.txt
 https://linktr.ee/Casadaesfihaof,linktree,,2,incerto,blocked,,https://linktr.ee/Casadaesfihaof,,,2026-10-18T14:01:02Z,2026-11-08T16:21:49Z,,,,,,robots.txt
 https://linktr.ee/Citylanchesdelivery,linktree,,2,incerto,blocked,,https://linktr.ee/Citylanchesdelivery,,,2026-10-19T16:47:31Z,2026-11-09T16:54:47Z,,,,,,robots.txt
 https://linktr.ee/Comedorialiteraria,linktree,,2,incerto,blocked,,https://linktr.ee/Comedorialiteraria,,,2026-10-18T15:36:01Z,2026-11-09T16:42:02Z,,,,,,robots.txt
-https://linktr.ee/CroasonhoMoema,linktree,,2,incerto,blocked,,https://linktr.ee/CroasonhoMoema,,,2026-10-20T14:36:42Z,2026-11-03T17:21:31Z,,,,,,robots.txt
+https://linktr.ee/CroasonhoMoema,linktree,,2,incerto,blocked,,https://linktr.ee/CroasonhoMoema,,,2026-10-20T14:36:42Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/DGustPizzariaeEsfiharia,linktree,,2,incerto,blocked,,https://linktr.ee/DGustPizzariaeEsfiharia,,,2026-10-18T15:10:08Z,2026-11-08T16:26:21Z,,,,,,robots.txt
 https://linktr.ee/DieOma,linktree,,2,incerto,blocked,,https://linktr.ee/DieOma,,,2026-10-19T16:43:37Z,2026-11-09T16:51:32Z,,,,,,robots.txt
 https://linktr.ee/DivinasHoras,linktree,,2,incerto,blocked,,https://linktr.ee/DivinasHoras,,,2026-10-18T15:08:17Z,2026-11-08T16:24:35Z,,,,,,robots.txt
@@ -25694,21 +25694,21 @@ https://linktr.ee/Fazio.Moema,linktree,,2,incerto,blocked,,https://linktr.ee/Faz
 https://linktr.ee/FeirinhaCafe,linktree,,2,incerto,blocked,,https://linktr.ee/FeirinhaCafe,,,2026-10-19T16:52:47Z,2026-11-09T16:58:53Z,,,,,,robots.txt
 https://linktr.ee/FrangoTruck,linktree,,2,incerto,blocked,,https://linktr.ee/FrangoTruck,,,2026-10-19T16:47:29Z,2026-11-09T16:54:44Z,,,,,,robots.txt
 https://linktr.ee/Fredbistro,linktree,,2,incerto,blocked,,https://linktr.ee/Fredbistro,,,2026-10-18T22:10:41Z,2026-11-09T16:49:26Z,,,,,,robots.txt
-https://linktr.ee/Fugacontemporanea,linktree,,2,incerto,blocked,,https://linktr.ee/Fugacontemporanea,,,2026-10-20T14:37:26Z,2026-11-03T17:21:45Z,,,,,,robots.txt
+https://linktr.ee/Fugacontemporanea,linktree,,2,incerto,blocked,,https://linktr.ee/Fugacontemporanea,,,2026-10-20T14:37:26Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/GoodTimesBurger,linktree,,2,incerto,blocked,,https://linktr.ee/GoodTimesBurger,,,2026-10-18T15:07:49Z,2026-11-08T16:24:17Z,,,,,,robots.txt
-https://linktr.ee/Hadirestaurante.com.br,linktree,,2,incerto,blocked,,https://linktr.ee/Hadirestaurante.com.br,,,2026-10-20T14:40:06Z,2026-11-03T17:25:24Z,,,,,,robots.txt
+https://linktr.ee/Hadirestaurante.com.br,linktree,,2,incerto,blocked,,https://linktr.ee/Hadirestaurante.com.br,,,2026-10-20T14:40:06Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/Hamburgueriaflorida,linktree,,2,incerto,blocked,,https://linktr.ee/Hamburgueriaflorida,,,2026-10-18T15:21:46Z,2026-11-08T16:36:26Z,,,,,,robots.txt
 https://linktr.ee/Hamburgueriafredeleo,linktree,,2,incerto,blocked,,https://linktr.ee/Hamburgueriafredeleo,,,2026-10-18T15:33:48Z,2026-11-09T16:40:17Z,,,,,,robots.txt
 https://linktr.ee/Italiapizzas,linktree,,2,incerto,blocked,,https://linktr.ee/Italiapizzas,,,2026-10-18T15:37:13Z,2026-11-09T16:42:56Z,,,,,,robots.txt
 https://linktr.ee/JJBARPARAISOPOLIS,linktree,,2,incerto,blocked,,https://linktr.ee/JJBARPARAISOPOLIS,,,2026-10-18T15:14:54Z,2026-11-08T16:29:35Z,,,,,,robots.txt
 https://linktr.ee/JKpizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/JKpizzaria,,,2026-10-19T17:03:37Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/Jaguarybar,linktree,,2,incerto,blocked,,https://linktr.ee/Jaguarybar,,,2026-10-18T22:10:06Z,2026-11-09T16:48:56Z,,,,,,robots.txt
-https://linktr.ee/Jalapeno_mexicano,linktree,,2,incerto,blocked,,https://linktr.ee/Jalapeno_mexicano,,,2026-10-20T14:37:50Z,2026-11-03T17:22:54Z,,,,,,robots.txt
+https://linktr.ee/Jalapeno_mexicano,linktree,,2,incerto,blocked,,https://linktr.ee/Jalapeno_mexicano,,,2026-10-20T14:37:50Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/Kampai.rotisseria,linktree,,2,incerto,blocked,,https://linktr.ee/Kampai.rotisseria,,,2026-10-18T15:20:05Z,2026-11-08T16:34:32Z,,,,,,robots.txt
 https://linktr.ee/Kazuorestaurante,linktree,,1,incerto,blocked,,https://linktr.ee/Kazuorestaurante,,,2026-10-26T14:09:27Z,2026-11-09T16:37:47Z,,,,,,robots.txt
 https://linktr.ee/Kogai,linktree,,2,incerto,blocked,,https://linktr.ee/Kogai,,,2026-10-18T15:33:54Z,2026-11-09T16:40:23Z,,,,,,robots.txt
 https://linktr.ee/LadelliPizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/LadelliPizzaria,,,2026-10-18T22:10:47Z,2026-11-09T16:49:32Z,,,,,,robots.txt
-https://linktr.ee/MMdracena,linktree,,2,incerto,blocked,,https://linktr.ee/MMdracena,,,2026-10-20T14:41:00Z,2026-11-03T17:25:48Z,,,,,,robots.txt
+https://linktr.ee/MMdracena,linktree,,2,incerto,blocked,,https://linktr.ee/MMdracena,,,2026-10-20T14:41:00Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/Macaraibox13,linktree,,2,incerto,blocked,,https://linktr.ee/Macaraibox13,,,2026-10-18T15:09:07Z,2026-11-08T16:25:21Z,,,,,,robots.txt
 https://linktr.ee/MadaHCafe,linktree,,2,incerto,blocked,,https://linktr.ee/MadaHCafe,,,2026-10-18T15:28:04Z,2026-11-08T16:42:36Z,,,,,,robots.txt
 https://linktr.ee/Malagueta_Grill,linktree,,2,incerto,blocked,,https://linktr.ee/Malagueta_Grill,,,2026-10-19T16:53:47Z,2026-11-09T16:59:38Z,,,,,,robots.txt
@@ -25721,23 +25721,23 @@ https://linktr.ee/NicePasteis,linktree,,2,incerto,blocked,,https://linktr.ee/Nic
 https://linktr.ee/NolaCafeBr,linktree,,2,incerto,blocked,,https://linktr.ee/NolaCafeBr,,,2026-10-19T16:47:40Z,2026-11-09T16:54:53Z,,,,,,robots.txt
 https://linktr.ee/Nota10_,linktree,,2,incerto,blocked,,https://linktr.ee/Nota10_,,,2026-10-19T16:56:15Z,2026-11-09T17:01:35Z,,,,,,robots.txt
 https://linktr.ee/NovoPontodaEsfihaTiete,linktree,,2,incerto,blocked,,https://linktr.ee/NovoPontodaEsfihaTiete,,,2026-10-18T15:30:09Z,2026-11-08T16:44:00Z,,,,,,robots.txt
-https://linktr.ee/NutriversoEspacoFit,linktree,,2,incerto,blocked,,https://linktr.ee/NutriversoEspacoFit,,,2026-10-20T14:36:58Z,2026-11-03T17:21:32Z,,,,,,robots.txt
+https://linktr.ee/NutriversoEspacoFit,linktree,,2,incerto,blocked,,https://linktr.ee/NutriversoEspacoFit,,,2026-10-20T14:36:58Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/OCampeiro,linktree,,2,incerto,blocked,,https://linktr.ee/OCampeiro,,,2026-10-18T15:21:40Z,2026-11-08T16:36:23Z,,,,,,robots.txt
 https://linktr.ee/PadariaBoaPraca,linktree,,2,incerto,blocked,,https://linktr.ee/PadariaBoaPraca,,,2026-10-19T16:42:25Z,2026-11-09T16:50:35Z,,,,,,robots.txt
 https://linktr.ee/PadariaCapellini,linktree,,2,incerto,blocked,,https://linktr.ee/PadariaCapellini,,,2026-10-19T16:41:49Z,2026-11-09T16:50:02Z,,,,,,robots.txt
-https://linktr.ee/PadariaPizzariaDMRDomJose,linktree,,2,incerto,blocked,,https://linktr.ee/PadariaPizzariaDMRDomJose,,,2026-10-20T14:37:16Z,2026-11-03T17:21:39Z,,,,,,robots.txt
+https://linktr.ee/PadariaPizzariaDMRDomJose,linktree,,2,incerto,blocked,,https://linktr.ee/PadariaPizzariaDMRDomJose,,,2026-10-20T14:37:16Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/Padariaindependencia,linktree,,2,incerto,blocked,,https://linktr.ee/Padariaindependencia,,,2026-10-18T22:06:41Z,2026-11-09T16:45:41Z,,,,,,robots.txt
 https://linktr.ee/Pallazze,linktree,,2,incerto,blocked,,https://linktr.ee/Pallazze,,,2026-10-18T15:18:32Z,2026-11-08T16:33:06Z,,,,,,robots.txt
-https://linktr.ee/Papasgourmetbauru,linktree,,2,incerto,blocked,,https://linktr.ee/Papasgourmetbauru,,,2026-10-20T14:36:51Z,2026-11-03T17:21:32Z,,,,,,robots.txt
+https://linktr.ee/Papasgourmetbauru,linktree,,2,incerto,blocked,,https://linktr.ee/Papasgourmetbauru,,,2026-10-20T14:36:51Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/PedirAgora.BistroDoGordim,linktree,,2,incerto,blocked,,https://linktr.ee/PedirAgora.BistroDoGordim,,,2026-10-18T15:31:33Z,2026-11-09T16:38:29Z,,,,,,robots.txt
 https://linktr.ee/Pesqueiro_ademar,linktree,,2,incerto,blocked,,https://linktr.ee/Pesqueiro_ademar,,,2026-10-19T16:42:55Z,2026-11-09T16:50:59Z,,,,,,robots.txt
 https://linktr.ee/PiltzGastroBar,linktree,,2,incerto,blocked,,https://linktr.ee/PiltzGastroBar,,,2026-10-19T16:59:41Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/Pizza.1846,linktree,,2,incerto,blocked,,https://linktr.ee/Pizza.1846,,,2026-10-19T16:53:43Z,2026-11-09T16:59:35Z,,,,,,robots.txt
-https://linktr.ee/PizzariaEsfihariasabor,linktree,,2,incerto,blocked,,https://linktr.ee/PizzariaEsfihariasabor,,,2026-10-20T14:41:42Z,2026-11-03T17:27:10Z,,,,,,robots.txt
+https://linktr.ee/PizzariaEsfihariasabor,linktree,,2,incerto,blocked,,https://linktr.ee/PizzariaEsfihariasabor,,,2026-10-20T14:41:42Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/PizzariaNovaApetitosa,linktree,,2,incerto,blocked,,https://linktr.ee/PizzariaNovaApetitosa,,,2026-10-19T16:43:26Z,2026-11-09T16:51:23Z,,,,,,robots.txt
 https://linktr.ee/PizzariaReal.itaqua,linktree,,2,incerto,blocked,,https://linktr.ee/PizzariaReal.itaqua,,,2026-10-18T14:01:22Z,2026-11-08T16:22:39Z,,,,,,robots.txt
 https://linktr.ee/Pizzaria_altoalegre,linktree,,2,incerto,blocked,,https://linktr.ee/Pizzaria_altoalegre,,,2026-10-19T17:02:54Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/Pizzariafratellopinhal?ltsid=88210b95-2b4f-4c28-9112-02a40fc7f7be,linktree,,2,incerto,blocked,,https://linktr.ee/Pizzariafratellopinhal?ltsid=88210b95-2b4f-4c28-9112-02a40fc7f7be,,,2026-10-20T14:38:22Z,2026-11-03T17:23:24Z,,,,,,robots.txt
+https://linktr.ee/Pizzariafratellopinhal?ltsid=88210b95-2b4f-4c28-9112-02a40fc7f7be,linktree,,2,incerto,blocked,,https://linktr.ee/Pizzariafratellopinhal?ltsid=88210b95-2b4f-4c28-9112-02a40fc7f7be,,,2026-10-20T14:38:22Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/Pizzariarenata,linktree,,2,incerto,blocked,,https://linktr.ee/Pizzariarenata,,,2026-10-18T15:31:08Z,2026-11-09T16:38:20Z,,,,,,robots.txt
 https://linktr.ee/QUITUTESDAPATHY,linktree,,2,incerto,blocked,,https://linktr.ee/QUITUTESDAPATHY,,,2026-10-26T13:21:15Z,2026-11-09T16:37:53Z,,,,,,robots.txt
 https://linktr.ee/QuadradoSP,linktree,,2,incerto,blocked,,https://linktr.ee/QuadradoSP,,,2026-10-19T16:45:39Z,2026-11-09T16:53:08Z,,,,,,robots.txt
@@ -25754,7 +25754,7 @@ https://linktr.ee/Skinasuculenta,linktree,,2,incerto,blocked,,https://linktr.ee/
 https://linktr.ee/Spoleto.Shopping.Taboao,linktree,,2,incerto,blocked,,https://linktr.ee/Spoleto.Shopping.Taboao,,,2026-10-18T15:34:44Z,2026-11-09T16:41:05Z,,,,,,robots.txt
 https://linktr.ee/Spoleto_Largo_Treze,linktree,,2,incerto,blocked,,https://linktr.ee/Spoleto_Largo_Treze,,,2026-10-18T22:06:56Z,2026-11-09T16:45:59Z,,,,,,robots.txt
 https://linktr.ee/SternaCafeK1,linktree,,2,incerto,blocked,,https://linktr.ee/SternaCafeK1,,,2026-10-18T15:35:23Z,2026-11-09T16:41:32Z,,,,,,robots.txt
-https://linktr.ee/SubwayRp,linktree,,2,incerto,blocked,,https://linktr.ee/SubwayRp,,,2026-10-20T14:37:44Z,2026-11-03T17:22:50Z,,,,,,robots.txt
+https://linktr.ee/SubwayRp,linktree,,2,incerto,blocked,,https://linktr.ee/SubwayRp,,,2026-10-20T14:37:44Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/TavernaPaulinia2021,linktree,,2,incerto,blocked,,https://linktr.ee/TavernaPaulinia2021,,,2026-10-18T15:16:54Z,2026-11-08T16:31:28Z,,,,,,robots.txt
 https://linktr.ee/TemploDaPizza,linktree,,2,incerto,blocked,,https://linktr.ee/TemploDaPizza,,,2026-10-18T22:07:16Z,2026-11-09T16:46:20Z,,,,,,robots.txt
 https://linktr.ee/Terracopoint,linktree,,2,incerto,blocked,,https://linktr.ee/Terracopoint,,,2026-10-19T16:56:06Z,2026-11-09T17:01:23Z,,,,,,robots.txt
@@ -25769,7 +25769,7 @@ https://linktr.ee/Vilalosmuertos,linktree,,2,incerto,blocked,,https://linktr.ee/
 https://linktr.ee/VillaDiPedrina,linktree,,2,incerto,blocked,,https://linktr.ee/VillaDiPedrina,,,2026-10-19T16:45:02Z,2026-11-09T16:52:38Z,,,,,,robots.txt
 https://linktr.ee/VivAcai,linktree,,2,incerto,blocked,,https://linktr.ee/VivAcai,,,2026-10-18T15:07:14Z,2026-11-08T16:23:45Z,,,,,,robots.txt
 https://linktr.ee/ZaruSushi,linktree,,2,incerto,blocked,,https://linktr.ee/ZaruSushi,,,2026-10-18T15:33:23Z,2026-11-09T16:39:56Z,,,,,,robots.txt
-https://linktr.ee/Zenofficecafe,linktree,,2,incerto,blocked,,https://linktr.ee/Zenofficecafe,,,2026-10-20T14:37:08Z,2026-11-03T17:21:34Z,,,,,,robots.txt
+https://linktr.ee/Zenofficecafe,linktree,,2,incerto,blocked,,https://linktr.ee/Zenofficecafe,,,2026-10-20T14:37:08Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/_boliriumbrasil,linktree,,2,incerto,blocked,,https://linktr.ee/_boliriumbrasil,,,2026-10-19T16:50:14Z,2026-11-09T16:56:59Z,,,,,,robots.txt
 https://linktr.ee/_faca_seu_pedido,linktree,,2,incerto,blocked,,https://linktr.ee/_faca_seu_pedido,,,2026-10-19T17:01:47Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/_lukaolanches,linktree,,2,incerto,blocked,,https://linktr.ee/_lukaolanches,,,2026-10-18T15:30:14Z,2026-11-08T16:44:02Z,,,,,,robots.txt
@@ -25777,7 +25777,7 @@ https://linktr.ee/aadegadoparque,linktree,,2,incerto,blocked,,https://linktr.ee/
 https://linktr.ee/acaffebrasil,linktree,,2,incerto,blocked,,https://linktr.ee/acaffebrasil,,,2026-10-18T15:10:46Z,2026-11-08T16:26:55Z,,,,,,robots.txt
 https://linktr.ee/acaidabarra.montealto,linktree,,2,incerto,blocked,,https://linktr.ee/acaidabarra.montealto,,,2026-10-18T15:35:07Z,2026-11-09T16:41:20Z,,,,,,robots.txt
 https://linktr.ee/acaiphuket,linktree,,2,incerto,blocked,,https://linktr.ee/acaiphuket,,,2026-10-18T22:10:54Z,2026-11-09T16:49:38Z,,,,,,robots.txt
-https://linktr.ee/acaiteriaraffaello_?ltsid=5f570010-fceb-4eea-bb1b-d5ca3da71d73,linktree,,2,incerto,blocked,,https://linktr.ee/acaiteriaraffaello_?ltsid=5f570010-fceb-4eea-bb1b-d5ca3da71d73,,,2026-10-20T14:36:40Z,2026-11-03T17:21:31Z,,,,,,robots.txt
+https://linktr.ee/acaiteriaraffaello_?ltsid=5f570010-fceb-4eea-bb1b-d5ca3da71d73,linktree,,2,incerto,blocked,,https://linktr.ee/acaiteriaraffaello_?ltsid=5f570010-fceb-4eea-bb1b-d5ca3da71d73,,,2026-10-20T14:36:40Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/acasinhapizzavino,linktree,,2,incerto,blocked,,https://linktr.ee/acasinhapizzavino,,,2026-10-18T15:34:34Z,2026-11-09T16:40:56Z,,,,,,robots.txt
 https://linktr.ee/acessefamintosdog_,linktree,,2,incerto,blocked,,https://linktr.ee/acessefamintosdog_,,,2026-10-18T15:39:17Z,2026-11-09T16:44:35Z,,,,,,robots.txt
 https://linktr.ee/adeliaboulangerie,linktree,,2,incerto,blocked,,https://linktr.ee/adeliaboulangerie,,,2026-10-18T22:06:08Z,2026-11-09T16:44:53Z,,,,,,robots.txt
@@ -25789,7 +25789,7 @@ https://linktr.ee/ajlboxmineirosantoamaro,linktree,,2,incerto,blocked,,https://l
 https://linktr.ee/ajlboxmineirotaboaosp,linktree,,2,incerto,blocked,,https://linktr.ee/ajlboxmineirotaboaosp,,,2026-10-18T15:22:35Z,2026-11-08T16:37:15Z,,,,,,robots.txt
 https://linktr.ee/akiraculinariajaponesa,linktree,,2,incerto,blocked,,https://linktr.ee/akiraculinariajaponesa,,,2026-10-18T15:28:44Z,2026-11-08T16:43:25Z,,,,,,robots.txt
 https://linktr.ee/akitembebidas,linktree,,2,incerto,blocked,,https://linktr.ee/akitembebidas,,,2026-10-18T22:08:32Z,2026-11-09T16:47:26Z,,,,,,robots.txt
-https://linktr.ee/akokorestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/akokorestaurante,,,2026-10-20T14:36:39Z,2026-11-03T17:21:31Z,,,,,,robots.txt
+https://linktr.ee/akokorestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/akokorestaurante,,,2026-10-20T14:36:39Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/alcantarapizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/alcantarapizzaria,,,2026-10-19T16:51:39Z,2026-11-09T16:58:02Z,,,,,,robots.txt
 https://linktr.ee/alicita,linktree,,2,incerto,blocked,,https://linktr.ee/alicita,,,2026-10-18T15:22:23Z,2026-11-08T16:37:01Z,,,,,,robots.txt
 https://linktr.ee/almocodadinda,linktree,,2,incerto,blocked,,https://linktr.ee/almocodadinda,,,2026-10-18T15:18:18Z,2026-11-08T16:32:47Z,,,,,,robots.txt
@@ -25797,7 +25797,7 @@ https://linktr.ee/altitudeburger,linktree,,2,incerto,blocked,,https://linktr.ee/
 https://linktr.ee/alvarogarnero,linktree,,2,incerto,blocked,,https://linktr.ee/alvarogarnero,,,2026-10-19T16:50:39Z,2026-11-09T16:57:20Z,,,,,,robots.txt
 https://linktr.ee/amarettopizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/amarettopizzaria,,,2026-10-19T16:52:14Z,2026-11-09T16:58:26Z,,,,,,robots.txt
 https://linktr.ee/amitieboulangerie,linktree,,2,incerto,blocked,,https://linktr.ee/amitieboulangerie,,,2026-10-18T15:39:13Z,2026-11-09T16:44:32Z,,,,,,robots.txt
-https://linktr.ee/amoraospedacos.com.br,linktree,,2,incerto,blocked,,https://linktr.ee/amoraospedacos.com.br,,,2026-10-20T14:40:02Z,2026-11-03T17:25:22Z,,,,,,robots.txt
+https://linktr.ee/amoraospedacos.com.br,linktree,,2,incerto,blocked,,https://linktr.ee/amoraospedacos.com.br,,,2026-10-20T14:40:02Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/anjosbar,linktree,,2,incerto,blocked,,https://linktr.ee/anjosbar,,,2026-10-19T16:46:04Z,2026-11-09T16:53:32Z,,,,,,robots.txt
 https://linktr.ee/apraca.padaria,linktree,,2,incerto,blocked,,https://linktr.ee/apraca.padaria,,,2026-10-26T13:21:04Z,2026-11-09T16:37:52Z,,,,,,robots.txt
 https://linktr.ee/aquitem_sertaozinho,linktree,,2,incerto,blocked,,https://linktr.ee/aquitem_sertaozinho,,,2026-10-26T13:21:13Z,2026-11-09T16:37:52Z,,,,,,robots.txt
@@ -25814,9 +25814,9 @@ https://linktr.ee/ateliekapricho,linktree,,2,incerto,blocked,,https://linktr.ee/
 https://linktr.ee/atibaiabeer,linktree,,2,incerto,blocked,,https://linktr.ee/atibaiabeer,,,2026-10-18T15:21:34Z,2026-11-08T16:36:15Z,,,,,,robots.txt
 https://linktr.ee/atlanticochopperia,linktree,,2,incerto,blocked,,https://linktr.ee/atlanticochopperia,,,2026-10-18T15:32:06Z,2026-11-09T16:38:50Z,,,,,,robots.txt
 https://linktr.ee/babodomenico,linktree,,2,incerto,blocked,,https://linktr.ee/babodomenico,,,2026-10-18T15:16:52Z,2026-11-08T16:31:25Z,,,,,,robots.txt
-https://linktr.ee/bacanaburger013,linktree,,2,incerto,blocked,,https://linktr.ee/bacanaburger013,,,2026-10-20T14:37:42Z,2026-11-03T17:22:46Z,,,,,,robots.txt
+https://linktr.ee/bacanaburger013,linktree,,2,incerto,blocked,,https://linktr.ee/bacanaburger013,,,2026-10-20T14:37:42Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/bacurimoficial,linktree,,2,incerto,blocked,,https://linktr.ee/bacurimoficial,,,2026-10-19T16:51:32Z,2026-11-09T16:57:56Z,,,,,,robots.txt
-https://linktr.ee/bagatellerestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/bagatellerestaurante,,,2026-10-20T14:35:09Z,2026-11-03T17:21:26Z,,,,,,robots.txt
+https://linktr.ee/bagatellerestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/bagatellerestaurante,,,2026-10-20T14:35:09Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/ballabilaconfeitaria?ltsid=2dab2834-f5ed-4325-bd4d-f3c29bcadea7,linktree,,2,incerto,blocked,,https://linktr.ee/ballabilaconfeitaria?ltsid=2dab2834-f5ed-4325-bd4d-f3c29bcadea7,,,2026-10-18T15:17:27Z,2026-11-08T16:32:00Z,,,,,,robots.txt
 https://linktr.ee/balthasburguer,linktree,,2,incerto,blocked,,https://linktr.ee/balthasburguer,,,2026-10-18T15:15:25Z,2026-11-08T16:30:04Z,,,,,,robots.txt
 https://linktr.ee/banaiasrestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/banaiasrestaurante,,,2026-10-19T16:59:45Z,2026-11-09T17:02:35Z,,,,,,robots.txt
@@ -25876,11 +25876,11 @@ https://linktr.ee/braza.bar,linktree,,2,incerto,blocked,,https://linktr.ee/braza
 https://linktr.ee/brazony,linktree,,2,incerto,blocked,,https://linktr.ee/brazony,,,2026-10-19T16:59:13Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/brodspub,linktree,,2,incerto,blocked,,https://linktr.ee/brodspub,,,2026-10-19T16:47:36Z,2026-11-09T16:54:50Z,,,,,,robots.txt
 https://linktr.ee/brookshamburgueriaitu,linktree,,2,incerto,blocked,,https://linktr.ee/brookshamburgueriaitu,,,2026-10-18T22:08:59Z,2026-11-09T16:47:50Z,,,,,,robots.txt
-https://linktr.ee/brutostche,linktree,,2,incerto,blocked,,https://linktr.ee/brutostche,,,2026-10-20T14:38:14Z,2026-11-03T17:23:20Z,,,,,,robots.txt
+https://linktr.ee/brutostche,linktree,,2,incerto,blocked,,https://linktr.ee/brutostche,,,2026-10-20T14:38:14Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/buffetize_,linktree,,2,incerto,blocked,,https://linktr.ee/buffetize_,,,2026-10-18T15:15:21Z,2026-11-08T16:29:58Z,,,,,,robots.txt
 https://linktr.ee/bullgrillchurrascaria,linktree,,2,incerto,blocked,,https://linktr.ee/bullgrillchurrascaria,,,2026-10-18T15:26:53Z,2026-11-08T16:41:28Z,,,,,,robots.txt
 https://linktr.ee/burgerham,linktree,,2,incerto,blocked,,https://linktr.ee/burgerham,,,2026-10-19T16:56:37Z,2026-11-09T17:01:50Z,,,,,,robots.txt
-https://linktr.ee/burgerhousejdaurelia,linktree,,2,incerto,blocked,,https://linktr.ee/burgerhousejdaurelia,,,2026-10-20T14:41:18Z,2026-11-03T17:26:02Z,,,,,,robots.txt
+https://linktr.ee/burgerhousejdaurelia,linktree,,2,incerto,blocked,,https://linktr.ee/burgerhousejdaurelia,,,2026-10-20T14:41:18Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/butecodogordo,linktree,,2,incerto,blocked,,https://linktr.ee/butecodogordo,,,2026-10-18T15:18:35Z,2026-11-08T16:33:12Z,,,,,,robots.txt
 https://linktr.ee/buxixosjc,linktree,,2,incerto,blocked,,https://linktr.ee/buxixosjc,,,2026-10-26T13:21:42Z,2026-11-09T16:39:20Z,,,,,,robots.txt
 https://linktr.ee/cabanaquintino,linktree,,2,incerto,blocked,,https://linktr.ee/cabanaquintino,,,2026-10-18T15:20:54Z,2026-11-08T16:35:26Z,,,,,,robots.txt
@@ -25889,7 +25889,7 @@ https://linktr.ee/cafearaba,linktree,,2,incerto,blocked,,https://linktr.ee/cafea
 https://linktr.ee/cafeblackaracatuba,linktree,,2,incerto,blocked,,https://linktr.ee/cafeblackaracatuba,,,2026-10-19T16:45:16Z,2026-11-09T16:52:50Z,,,,,,robots.txt
 https://linktr.ee/cafedorodrigo,linktree,,2,incerto,blocked,,https://linktr.ee/cafedorodrigo,,,2026-10-18T15:29:13Z,2026-11-08T16:43:42Z,,,,,,robots.txt
 https://linktr.ee/cafeeprosaitu,linktree,,2,incerto,blocked,,https://linktr.ee/cafeeprosaitu,,,2026-10-18T22:06:08Z,2026-11-09T16:45:05Z,,,,,,robots.txt
-https://linktr.ee/cafefunchalbr,linktree,,2,incerto,blocked,,https://linktr.ee/cafefunchalbr,,,2026-10-20T14:37:24Z,2026-11-03T17:21:41Z,,,,,,robots.txt
+https://linktr.ee/cafefunchalbr,linktree,,2,incerto,blocked,,https://linktr.ee/cafefunchalbr,,,2026-10-20T14:37:24Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/cafeode,linktree,,2,incerto,blocked,,https://linktr.ee/cafeode,,,2026-10-18T15:26:41Z,2026-11-08T16:41:18Z,,,,,,robots.txt
 https://linktr.ee/cafeteria.coffeeland,linktree,,2,incerto,blocked,,https://linktr.ee/cafeteria.coffeeland,,,2026-10-18T14:01:21Z,2026-11-08T16:22:35Z,,,,,,robots.txt
 https://linktr.ee/cafeteriainbox,linktree,,2,incerto,blocked,,https://linktr.ee/cafeteriainbox,,,2026-10-18T15:20:51Z,2026-11-08T16:35:20Z,,,,,,robots.txt
@@ -25899,7 +25899,7 @@ https://linktr.ee/calabrone,linktree,,2,incerto,blocked,,https://linktr.ee/calab
 https://linktr.ee/caldinhosaodimasoficial,linktree,,2,incerto,blocked,,https://linktr.ee/caldinhosaodimasoficial,,,2026-10-18T15:10:40Z,2026-11-08T16:26:51Z,,,,,,robots.txt
 https://linktr.ee/califafreshfood,linktree,,2,incerto,blocked,,https://linktr.ee/califafreshfood,,,2026-10-18T15:22:56Z,2026-11-08T16:37:34Z,,,,,,robots.txt
 https://linktr.ee/calzerbar,linktree,,2,incerto,blocked,,https://linktr.ee/calzerbar,,,2026-10-19T16:46:26Z,2026-11-09T16:53:50Z,,,,,,robots.txt
-https://linktr.ee/campanelafrangofrito,linktree,,2,incerto,blocked,,https://linktr.ee/campanelafrangofrito,,,2026-10-20T14:37:34Z,2026-11-03T17:22:26Z,,,,,,robots.txt
+https://linktr.ee/campanelafrangofrito,linktree,,2,incerto,blocked,,https://linktr.ee/campanelafrangofrito,,,2026-10-20T14:37:34Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/canelacafe.emporio,linktree,,2,incerto,blocked,,https://linktr.ee/canelacafe.emporio,,,2026-10-18T22:06:08Z,2026-11-09T16:44:47Z,,,,,,robots.txt
 https://linktr.ee/cantinabrunelli,linktree,,2,incerto,blocked,,https://linktr.ee/cantinabrunelli,,,2026-10-18T22:06:08Z,2026-11-09T16:44:56Z,,,,,,robots.txt
 https://linktr.ee/cantinadomjoao2,linktree,,2,incerto,blocked,,https://linktr.ee/cantinadomjoao2,,,2026-10-19T16:46:14Z,2026-11-09T16:53:38Z,,,,,,robots.txt
@@ -25919,8 +25919,8 @@ https://linktr.ee/casadaesfihacachoeira,linktree,,2,incerto,blocked,,https://lin
 https://linktr.ee/casadaesfihacampinas,linktree,,2,incerto,blocked,,https://linktr.ee/casadaesfihacampinas,,,2026-10-18T15:11:01Z,2026-11-08T16:27:07Z,,,,,,robots.txt
 https://linktr.ee/casadapizzaconchal,linktree,,2,incerto,blocked,,https://linktr.ee/casadapizzaconchal,,,2026-10-18T15:21:57Z,2026-11-08T16:36:36Z,,,,,,robots.txt
 https://linktr.ee/casadeboloslimeira,linktree,,2,incerto,blocked,,https://linktr.ee/casadeboloslimeira,,,2026-10-19T16:59:59Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/casadiana,linktree,,2,incerto,blocked,,https://linktr.ee/casadiana,,,2026-10-20T14:36:26Z,2026-11-03T17:21:30Z,,,,,,robots.txt
-https://linktr.ee/casafabbron,linktree,,2,incerto,blocked,,https://linktr.ee/casafabbron,,,2026-10-20T14:36:38Z,2026-11-03T17:21:30Z,,,,,,robots.txt
+https://linktr.ee/casadiana,linktree,,2,incerto,blocked,,https://linktr.ee/casadiana,,,2026-10-20T14:36:26Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/casafabbron,linktree,,2,incerto,blocked,,https://linktr.ee/casafabbron,,,2026-10-20T14:36:38Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/casamaeta,linktree,,2,incerto,blocked,,https://linktr.ee/casamaeta,,,2026-10-18T22:08:52Z,2026-11-09T16:47:44Z,,,,,,robots.txt
 https://linktr.ee/casamiaata,linktree,,2,incerto,blocked,,https://linktr.ee/casamiaata,,,2026-10-18T15:19:34Z,2026-11-08T16:34:04Z,,,,,,robots.txt
 https://linktr.ee/casamocca,linktree,,2,incerto,blocked,,https://linktr.ee/casamocca,,,2026-10-19T16:58:43Z,2026-11-09T17:02:35Z,,,,,,robots.txt
@@ -25933,7 +25933,7 @@ https://linktr.ee/castanhabarupadariaglutenfree,linktree,,2,incerto,blocked,,htt
 https://linktr.ee/catayoriental,linktree,,2,incerto,blocked,,https://linktr.ee/catayoriental,,,2026-10-19T16:54:46Z,2026-11-09T17:00:20Z,,,,,,robots.txt
 https://linktr.ee/cdbnovaodessa,linktree,,2,incerto,blocked,,https://linktr.ee/cdbnovaodessa,,,2026-10-18T22:08:02Z,2026-11-09T16:46:59Z,,,,,,robots.txt
 https://linktr.ee/celeirobtu,linktree,,2,incerto,blocked,,https://linktr.ee/celeirobtu,,,2026-10-18T15:23:31Z,2026-11-08T16:38:12Z,,,,,,robots.txt
-https://linktr.ee/centraldapizzavalinhos,linktree,,2,incerto,blocked,,https://linktr.ee/centraldapizzavalinhos,,,2026-10-20T14:39:14Z,2026-11-03T17:24:00Z,,,,,,robots.txt
+https://linktr.ee/centraldapizzavalinhos,linktree,,2,incerto,blocked,,https://linktr.ee/centraldapizzavalinhos,,,2026-10-20T14:39:14Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/centralle,linktree,,2,incerto,blocked,,https://linktr.ee/centralle,,,2026-10-18T14:00:52Z,2026-11-08T16:21:41Z,,,,,,robots.txt
 https://linktr.ee/centralnordeste,linktree,,2,incerto,blocked,,https://linktr.ee/centralnordeste,,,2026-10-19T16:57:39Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/centralpizzaa,linktree,,2,incerto,blocked,,https://linktr.ee/centralpizzaa,,,2026-10-18T15:17:07Z,2026-11-08T16:31:40Z,,,,,,robots.txt
@@ -25947,14 +25947,14 @@ https://linktr.ee/cheirinbaoredentora,linktree,,2,incerto,blocked,,https://linkt
 https://linktr.ee/chickenbites.sp,linktree,,2,incerto,blocked,,https://linktr.ee/chickenbites.sp,,,2026-10-19T16:43:10Z,2026-11-09T16:51:11Z,,,,,,robots.txt
 https://linktr.ee/chickentop.cotia,linktree,,2,incerto,blocked,,https://linktr.ee/chickentop.cotia,,,2026-10-18T14:01:11Z,2026-11-08T16:22:03Z,,,,,,robots.txt
 https://linktr.ee/chicojuliodog,linktree,,2,incerto,blocked,,https://linktr.ee/chicojuliodog,,,2026-10-19T16:56:41Z,2026-11-09T17:01:53Z,,,,,,robots.txt
-https://linktr.ee/chinesehouse,linktree,,2,incerto,blocked,,https://linktr.ee/chinesehouse,,,2026-10-20T14:41:38Z,2026-11-03T17:26:56Z,,,,,,robots.txt
+https://linktr.ee/chinesehouse,linktree,,2,incerto,blocked,,https://linktr.ee/chinesehouse,,,2026-10-20T14:41:38Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/chosun.analiafranco,linktree,,2,incerto,blocked,,https://linktr.ee/chosun.analiafranco,,,2026-10-19T17:00:31Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/churrasco.tempero.goiano,linktree,,2,incerto,blocked,,https://linktr.ee/churrasco.tempero.goiano,,,2026-10-19T16:46:22Z,2026-11-09T16:53:47Z,,,,,,robots.txt
 https://linktr.ee/churrasexpresssbc,linktree,,2,incerto,blocked,,https://linktr.ee/churrasexpresssbc,,,2026-10-18T15:38:15Z,2026-11-09T16:43:44Z,,,,,,robots.txt
 https://linktr.ee/churraskiloemporio,linktree,,2,incerto,blocked,,https://linktr.ee/churraskiloemporio,,,2026-10-19T16:46:36Z,2026-11-09T16:54:05Z,,,,,,robots.txt
 https://linktr.ee/cidaliarestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/cidaliarestaurante,,,2026-10-18T22:06:18Z,2026-11-09T16:45:17Z,,,,,,robots.txt
 https://linktr.ee/citta_della,linktree,,2,incerto,blocked,,https://linktr.ee/citta_della,,,2026-10-18T15:31:14Z,2026-11-09T16:38:23Z,,,,,,robots.txt
-https://linktr.ee/classica.gastronomia,linktree,,2,incerto,blocked,,https://linktr.ee/classica.gastronomia,,,2026-10-20T14:36:55Z,2026-11-03T17:21:32Z,,,,,,robots.txt
+https://linktr.ee/classica.gastronomia,linktree,,2,incerto,blocked,,https://linktr.ee/classica.gastronomia,,,2026-10-20T14:36:55Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/classicapanificadora,linktree,,2,incerto,blocked,,https://linktr.ee/classicapanificadora,,,2026-10-18T15:25:15Z,2026-11-08T16:39:50Z,,,,,,robots.txt
 https://linktr.ee/cocaobarperuibe,linktree,,2,incerto,blocked,,https://linktr.ee/cocaobarperuibe,,,2026-10-18T15:21:29Z,2026-11-08T16:36:07Z,,,,,,robots.txt
 https://linktr.ee/coco_leve,linktree,,2,incerto,blocked,,https://linktr.ee/coco_leve,,,2026-10-26T13:21:44Z,2026-11-09T16:42:59Z,,,,,,robots.txt
@@ -25973,11 +25973,11 @@ https://linktr.ee/corsini.bistro,linktree,,2,incerto,blocked,,https://linktr.ee/
 https://linktr.ee/countrybar,linktree,,2,incerto,blocked,,https://linktr.ee/countrybar,,,2026-10-18T15:27:41Z,2026-11-08T16:42:05Z,,,,,,robots.txt
 https://linktr.ee/countrylanchestarabai,linktree,,2,incerto,blocked,,https://linktr.ee/countrylanchestarabai,,,2026-10-18T22:09:20Z,2026-11-09T16:48:11Z,,,,,,robots.txt
 https://linktr.ee/cozinhacampestre,linktree,,2,incerto,blocked,,https://linktr.ee/cozinhacampestre,,,2026-10-19T16:50:42Z,2026-11-09T16:57:23Z,,,,,,robots.txt
-https://linktr.ee/cozinhadochefe,linktree,,2,incerto,blocked,,https://linktr.ee/cozinhadochefe,,,2026-10-20T14:41:46Z,2026-11-03T17:27:14Z,,,,,,robots.txt
+https://linktr.ee/cozinhadochefe,linktree,,2,incerto,blocked,,https://linktr.ee/cozinhadochefe,,,2026-10-20T14:41:46Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/cozinhavivaah,linktree,,2,incerto,blocked,,https://linktr.ee/cozinhavivaah,,,2026-10-18T22:09:35Z,2026-11-09T16:48:26Z,,,,,,robots.txt
 https://linktr.ee/cravocanelasburger,linktree,,2,incerto,blocked,,https://linktr.ee/cravocanelasburger,,,2026-10-19T16:49:46Z,2026-11-09T16:56:32Z,,,,,,robots.txt
 https://linktr.ee/crepie,linktree,,2,incerto,blocked,,https://linktr.ee/crepie,,,2026-10-19T17:01:18Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/cromaburguers,linktree,,2,incerto,blocked,,https://linktr.ee/cromaburguers,,,2026-10-20T14:42:48Z,2026-11-03T17:27:46Z,,,,,,robots.txt
+https://linktr.ee/cromaburguers,linktree,,2,incerto,blocked,,https://linktr.ee/cromaburguers,,,2026-10-20T14:42:48Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/curtirartlike,linktree,,2,incerto,blocked,,https://linktr.ee/curtirartlike,,,2026-10-18T15:31:23Z,2026-11-09T16:38:26Z,,,,,,robots.txt
 https://linktr.ee/curvaderioribeirao,linktree,,2,incerto,blocked,,https://linktr.ee/curvaderioribeirao,,,2026-10-19T16:42:48Z,2026-11-09T16:50:53Z,,,,,,robots.txt
 https://linktr.ee/d.cestariesmalteria,linktree,,2,incerto,blocked,,https://linktr.ee/d.cestariesmalteria,,,2026-10-19T16:50:47Z,2026-11-09T16:57:26Z,,,,,,robots.txt
@@ -26013,10 +26013,10 @@ https://linktr.ee/diretonabrasa_,linktree,,2,incerto,blocked,,https://linktr.ee/
 https://linktr.ee/diskpizzachiquini,linktree,,2,incerto,blocked,,https://linktr.ee/diskpizzachiquini,,,2026-10-19T17:00:29Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/divinabrasatruck,linktree,,2,incerto,blocked,,https://linktr.ee/divinabrasatruck,,,2026-10-18T15:15:42Z,2026-11-08T16:30:20Z,,,,,,robots.txt
 https://linktr.ee/divinus.coffee,linktree,,2,incerto,blocked,,https://linktr.ee/divinus.coffee,,,2026-10-18T15:20:13Z,2026-11-08T16:34:41Z,,,,,,robots.txt
-https://linktr.ee/dixhamburgueria,linktree,,2,incerto,blocked,,https://linktr.ee/dixhamburgueria,,,2026-10-20T14:36:37Z,2026-11-03T17:21:30Z,,,,,,robots.txt
+https://linktr.ee/dixhamburgueria,linktree,,2,incerto,blocked,,https://linktr.ee/dixhamburgueria,,,2026-10-20T14:36:37Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/docuras_daHi,linktree,,2,incerto,blocked,,https://linktr.ee/docuras_daHi,,,2026-10-26T13:21:46Z,2026-11-09T16:44:11Z,,,,,,robots.txt
 https://linktr.ee/dogaodemaringa,linktree,,2,incerto,blocked,,https://linktr.ee/dogaodemaringa,,,2026-10-18T15:12:07Z,2026-11-08T16:27:51Z,,,,,,robots.txt
-https://linktr.ee/dokumamoto,linktree,,2,incerto,blocked,,https://linktr.ee/dokumamoto,,,2026-10-20T14:39:30Z,2026-11-03T17:24:48Z,,,,,,robots.txt
+https://linktr.ee/dokumamoto,linktree,,2,incerto,blocked,,https://linktr.ee/dokumamoto,,,2026-10-20T14:39:30Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/dom.miguel,linktree,,2,incerto,blocked,,https://linktr.ee/dom.miguel,,,2026-10-18T15:17:03Z,2026-11-08T16:31:37Z,,,,,,robots.txt
 https://linktr.ee/domflint_,linktree,,2,incerto,blocked,,https://linktr.ee/domflint_,,,2026-10-19T16:54:11Z,2026-11-09T16:59:56Z,,,,,,robots.txt
 https://linktr.ee/dommarinoprudente,linktree,,2,incerto,blocked,,https://linktr.ee/dommarinoprudente,,,2026-10-18T15:12:46Z,2026-11-08T16:28:20Z,,,,,,robots.txt
@@ -26040,7 +26040,7 @@ https://linktr.ee/elefantecoloridofestas,linktree,,2,incerto,blocked,,https://li
 https://linktr.ee/elzabistro,linktree,,2,incerto,blocked,,https://linktr.ee/elzabistro,,,2026-10-19T17:03:10Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/empanadaslamaga,linktree,,2,incerto,blocked,,https://linktr.ee/empanadaslamaga,,,2026-10-18T15:23:57Z,2026-11-08T16:38:37Z,,,,,,robots.txt
 https://linktr.ee/emporio.do.nono,linktree,,2,incerto,blocked,,https://linktr.ee/emporio.do.nono,,,2026-10-19T16:50:55Z,2026-11-09T16:57:32Z,,,,,,robots.txt
-https://linktr.ee/emporiodadeisy,linktree,,2,incerto,blocked,,https://linktr.ee/emporiodadeisy,,,2026-10-20T14:37:14Z,2026-11-03T17:21:39Z,,,,,,robots.txt
+https://linktr.ee/emporiodadeisy,linktree,,2,incerto,blocked,,https://linktr.ee/emporiodadeisy,,,2026-10-20T14:37:14Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/emporiodastortasoficial,linktree,,2,incerto,blocked,,https://linktr.ee/emporiodastortasoficial,,,2026-10-18T14:01:12Z,2026-11-08T16:22:12Z,,,,,,robots.txt
 https://linktr.ee/emporiodomercado,linktree,,2,incerto,blocked,,https://linktr.ee/emporiodomercado,,,2026-10-18T15:07:40Z,2026-11-08T16:24:10Z,,,,,,robots.txt
 https://linktr.ee/emporioelite,linktree,,2,incerto,blocked,,https://linktr.ee/emporioelite,,,2026-10-18T15:25:59Z,2026-11-08T16:40:42Z,,,,,,robots.txt
@@ -26048,11 +26048,11 @@ https://linktr.ee/emporionordestino,linktree,,2,incerto,blocked,,https://linktr.
 https://linktr.ee/emporiosantahelena,linktree,,2,incerto,blocked,,https://linktr.ee/emporiosantahelena,,,2026-10-19T16:42:05Z,2026-11-09T16:50:17Z,,,,,,robots.txt
 https://linktr.ee/emporiosantochurrasco?ltsid=790c63a4-0123-43ab-9b1a-17fb4167b255,linktree,,2,incerto,blocked,,https://linktr.ee/emporiosantochurrasco?ltsid=790c63a4-0123-43ab-9b1a-17fb4167b255,,,2026-10-19T16:44:32Z,2026-11-09T16:52:14Z,,,,,,robots.txt
 https://linktr.ee/emporiosaovicenteoficial,linktree,,2,incerto,blocked,,https://linktr.ee/emporiosaovicenteoficial,,,2026-10-19T16:46:50Z,2026-11-09T16:54:17Z,,,,,,robots.txt
-https://linktr.ee/emporioterraviva,linktree,,2,incerto,blocked,,https://linktr.ee/emporioterraviva,,,2026-10-20T14:37:54Z,2026-11-03T17:22:58Z,,,,,,robots.txt
-https://linktr.ee/enjoyloucasoficial,linktree,,2,incerto,blocked,,https://linktr.ee/enjoyloucasoficial,,,2026-10-20T14:39:52Z,2026-11-03T17:25:16Z,,,,,,robots.txt
+https://linktr.ee/emporioterraviva,linktree,,2,incerto,blocked,,https://linktr.ee/emporioterraviva,,,2026-10-20T14:37:54Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/enjoyloucasoficial,linktree,,2,incerto,blocked,,https://linktr.ee/enjoyloucasoficial,,,2026-10-20T14:39:52Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/enzopizzariabeb,linktree,,2,incerto,blocked,,https://linktr.ee/enzopizzariabeb,,,2026-10-18T14:01:11Z,2026-11-08T16:22:08Z,,,,,,robots.txt
 https://linktr.ee/eprajaparp,linktree,,2,incerto,blocked,,https://linktr.ee/eprajaparp,,,2026-10-18T15:21:04Z,2026-11-08T16:35:38Z,,,,,,robots.txt
-https://linktr.ee/esfiha10vazame,linktree,,2,incerto,blocked,,https://linktr.ee/esfiha10vazame,,,2026-10-20T14:39:16Z,2026-11-03T17:24:04Z,,,,,,robots.txt
+https://linktr.ee/esfiha10vazame,linktree,,2,incerto,blocked,,https://linktr.ee/esfiha10vazame,,,2026-10-20T14:39:16Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/esfihacity,linktree,,2,incerto,blocked,,https://linktr.ee/esfihacity,,,2026-10-18T22:09:56Z,2026-11-09T16:48:47Z,,,,,,robots.txt
 https://linktr.ee/esfihacityhortolandia,linktree,,2,incerto,blocked,,https://linktr.ee/esfihacityhortolandia,,,2026-10-19T16:45:54Z,2026-11-09T16:53:23Z,,,,,,robots.txt
 https://linktr.ee/esfihadoprincipe,linktree,,2,incerto,blocked,,https://linktr.ee/esfihadoprincipe,,,2026-10-19T16:51:19Z,2026-11-09T16:57:47Z,,,,,,robots.txt
@@ -26065,7 +26065,7 @@ https://linktr.ee/espetinhosabeca,linktree,,2,incerto,blocked,,https://linktr.ee
 https://linktr.ee/espetodavilaa?ltsid=fdc0c666-2e77-4807-9210-6b3e39aaf433,linktree,,2,incerto,blocked,,https://linktr.ee/espetodavilaa?ltsid=fdc0c666-2e77-4807-9210-6b3e39aaf433,,,2026-10-18T22:06:22Z,2026-11-09T16:45:20Z,,,,,,robots.txt
 https://linktr.ee/espetodeouro_sorocaba,linktree,,2,incerto,blocked,,https://linktr.ee/espetodeouro_sorocaba,,,2026-10-19T16:56:43Z,2026-11-09T17:01:56Z,,,,,,robots.txt
 https://linktr.ee/esquinadavilasp,linktree,,2,incerto,blocked,,https://linktr.ee/esquinadavilasp,,,2026-10-18T15:39:21Z,2026-11-09T16:44:38Z,,,,,,robots.txt
-https://linktr.ee/estacaobocadomonte,linktree,,2,incerto,blocked,,https://linktr.ee/estacaobocadomonte,,,2026-10-20T14:42:14Z,2026-11-03T17:27:32Z,,,,,,robots.txt
+https://linktr.ee/estacaobocadomonte,linktree,,2,incerto,blocked,,https://linktr.ee/estacaobocadomonte,,,2026-10-20T14:42:14Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/estacaocampineira,linktree,,2,incerto,blocked,,https://linktr.ee/estacaocampineira,,,2026-10-19T16:46:00Z,2026-11-09T16:53:29Z,,,,,,robots.txt
 https://linktr.ee/estanciagaucharioclaro,linktree,,2,incerto,blocked,,https://linktr.ee/estanciagaucharioclaro,,,2026-10-18T15:11:46Z,2026-11-08T16:27:41Z,,,,,,robots.txt
 https://linktr.ee/express_dapizza,linktree,,2,incerto,blocked,,https://linktr.ee/express_dapizza,,,2026-10-18T22:07:23Z,2026-11-09T16:46:26Z,,,,,,robots.txt
@@ -26074,7 +26074,7 @@ https://linktr.ee/fabricadopao,linktree,,2,incerto,blocked,,https://linktr.ee/fa
 https://linktr.ee/fabrique.paes,linktree,,2,incerto,blocked,,https://linktr.ee/fabrique.paes,,,2026-10-19T16:47:51Z,2026-11-09T16:55:02Z,,,,,,robots.txt
 https://linktr.ee/familiativoli,linktree,,2,incerto,blocked,,https://linktr.ee/familiativoli,,,2026-10-18T15:38:37Z,2026-11-09T16:44:02Z,,,,,,robots.txt
 https://linktr.ee/farinheiroesfihariaavare,linktree,,2,incerto,blocked,,https://linktr.ee/farinheiroesfihariaavare,,,2026-10-19T16:57:49Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/farofabrasil,linktree,,2,incerto,blocked,,https://linktr.ee/farofabrasil,,,2026-10-20T14:39:24Z,2026-11-03T17:24:42Z,,,,,,robots.txt
+https://linktr.ee/farofabrasil,linktree,,2,incerto,blocked,,https://linktr.ee/farofabrasil,,,2026-10-20T14:39:24Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/fastteleburger,linktree,,2,incerto,blocked,,https://linktr.ee/fastteleburger,,,2026-10-18T15:08:45Z,2026-11-08T16:24:59Z,,,,,,robots.txt
 https://linktr.ee/fazanbuffet_,linktree,,2,incerto,blocked,,https://linktr.ee/fazanbuffet_,,,2026-10-18T15:32:39Z,2026-11-09T16:39:17Z,,,,,,robots.txt
 https://linktr.ee/fazendachurrascada,linktree,,2,incerto,blocked,,https://linktr.ee/fazendachurrascada,,,2026-10-18T15:38:47Z,2026-11-09T16:44:14Z,,,,,,robots.txt
@@ -26092,12 +26092,12 @@ https://linktr.ee/freshfreeze,linktree,,2,incerto,blocked,,https://linktr.ee/fre
 https://linktr.ee/fridas_burguer,linktree,,2,incerto,blocked,,https://linktr.ee/fridas_burguer,,,2026-10-19T16:51:08Z,2026-11-09T16:57:38Z,,,,,,robots.txt
 https://linktr.ee/fxpizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/fxpizzaria,,,2026-10-18T15:27:08Z,2026-11-08T16:41:40Z,,,,,,robots.txt
 https://linktr.ee/gagocoutinho,linktree,,2,incerto,blocked,,https://linktr.ee/gagocoutinho,,,2026-10-19T16:52:55Z,2026-11-09T16:58:59Z,,,,,,robots.txt
-https://linktr.ee/gairdinsp,linktree,,2,incerto,blocked,,https://linktr.ee/gairdinsp,,,2026-10-20T14:37:38Z,2026-11-03T17:22:28Z,,,,,,robots.txt
+https://linktr.ee/gairdinsp,linktree,,2,incerto,blocked,,https://linktr.ee/gairdinsp,,,2026-10-20T14:37:38Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/galpaodapicanha1270,linktree,,2,incerto,blocked,,https://linktr.ee/galpaodapicanha1270,,,2026-10-19T16:55:25Z,2026-11-09T17:00:53Z,,,,,,robots.txt
-https://linktr.ee/garagem.do.brigadeiro,linktree,,2,incerto,blocked,,https://linktr.ee/garagem.do.brigadeiro,,,2026-10-20T14:39:58Z,2026-11-03T17:25:20Z,,,,,,robots.txt
+https://linktr.ee/garagem.do.brigadeiro,linktree,,2,incerto,blocked,,https://linktr.ee/garagem.do.brigadeiro,,,2026-10-20T14:39:58Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/gasparpescados,linktree,,2,incerto,blocked,,https://linktr.ee/gasparpescados,,,2026-10-18T15:38:19Z,2026-11-09T16:43:47Z,,,,,,robots.txt
 https://linktr.ee/gastrogarden,linktree,,2,incerto,blocked,,https://linktr.ee/gastrogarden,,,2026-10-18T15:17:12Z,2026-11-08T16:31:44Z,,,,,,robots.txt
-https://linktr.ee/gcfastfood,linktree,,2,incerto,blocked,,https://linktr.ee/gcfastfood,,,2026-10-20T14:38:56Z,2026-11-03T17:23:46Z,,,,,,robots.txt
+https://linktr.ee/gcfastfood,linktree,,2,incerto,blocked,,https://linktr.ee/gcfastfood,,,2026-10-20T14:38:56Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/generalprimeburgerjundiai,linktree,,2,incerto,blocked,,https://linktr.ee/generalprimeburgerjundiai,,,2026-10-18T15:27:19Z,2026-11-08T16:41:50Z,,,,,,robots.txt
 https://linktr.ee/genzaipremiumsushi,linktree,,2,incerto,blocked,,https://linktr.ee/genzaipremiumsushi,,,2026-10-18T15:10:11Z,2026-11-08T16:26:25Z,,,,,,robots.txt
 https://linktr.ee/germann,linktree,,2,incerto,blocked,,https://linktr.ee/germann,,,2026-10-19T16:58:47Z,2026-11-09T17:02:35Z,,,,,,robots.txt
@@ -26117,12 +26117,12 @@ https://linktr.ee/gostinhodefamilia,linktree,,2,incerto,blocked,,https://linktr.
 https://linktr.ee/gourmetatelier,linktree,,2,incerto,blocked,,https://linktr.ee/gourmetatelier,,,2026-10-19T17:01:51Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/gringosrestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/gringosrestaurante,,,2026-10-19T16:48:20Z,2026-11-09T16:55:23Z,,,,,,robots.txt
 https://linktr.ee/gringossushi,linktree,,2,incerto,blocked,,https://linktr.ee/gringossushi,,,2026-10-19T16:50:02Z,2026-11-09T16:56:44Z,,,,,,robots.txt
-https://linktr.ee/grotta_charcutaria,linktree,,2,incerto,blocked,,https://linktr.ee/grotta_charcutaria,,,2026-10-20T14:39:28Z,2026-11-03T17:24:46Z,,,,,,robots.txt
+https://linktr.ee/grotta_charcutaria,linktree,,2,incerto,blocked,,https://linktr.ee/grotta_charcutaria,,,2026-10-20T14:39:28Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/grottapizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/grottapizzaria,,,2026-10-18T15:07:28Z,2026-11-08T16:24:00Z,,,,,,robots.txt
 https://linktr.ee/grupoburguesmogi,linktree,,2,incerto,blocked,,https://linktr.ee/grupoburguesmogi,,,2026-10-18T22:06:08Z,2026-11-09T16:45:11Z,,,,,,robots.txt
 https://linktr.ee/grupoluzza_?ltsid=0d9e62e1-8f92-44a2-8b7c-3e7794de063a,linktree,,2,incerto,blocked,,https://linktr.ee/grupoluzza_?ltsid=0d9e62e1-8f92-44a2-8b7c-3e7794de063a,,,2026-10-18T15:16:33Z,2026-11-08T16:31:10Z,,,,,,robots.txt
 https://linktr.ee/grupoportugalfoods,linktree,,2,incerto,blocked,,https://linktr.ee/grupoportugalfoods,,,2026-10-18T15:20:35Z,2026-11-08T16:35:07Z,,,,,,robots.txt
-https://linktr.ee/gustomoema,linktree,,2,incerto,blocked,,https://linktr.ee/gustomoema,,,2026-10-20T14:39:08Z,2026-11-03T17:23:52Z,,,,,,robots.txt
+https://linktr.ee/gustomoema,linktree,,2,incerto,blocked,,https://linktr.ee/gustomoema,,,2026-10-20T14:39:08Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/haigesfiharia,linktree,,2,incerto,blocked,,https://linktr.ee/haigesfiharia,,,2026-10-19T16:45:56Z,2026-11-09T16:53:26Z,,,,,,robots.txt
 https://linktr.ee/hamburgueria.alameda,linktree,,2,incerto,blocked,,https://linktr.ee/hamburgueria.alameda,,,2026-10-19T16:42:28Z,2026-11-09T16:50:38Z,,,,,,robots.txt
 https://linktr.ee/hamburgueriadafeira,linktree,,2,incerto,blocked,,https://linktr.ee/hamburgueriadafeira,,,2026-10-19T16:46:38Z,2026-11-09T16:54:08Z,,,,,,robots.txt
@@ -26133,15 +26133,15 @@ https://linktr.ee/henbrazaburguer,linktree,,2,incerto,blocked,,https://linktr.ee
 https://linktr.ee/herbalife.dayaneoliveira,linktree,,2,incerto,blocked,,https://linktr.ee/herbalife.dayaneoliveira,,,2026-10-18T15:34:40Z,2026-11-09T16:41:02Z,,,,,,robots.txt
 https://linktr.ee/higapastelaria,linktree,,2,incerto,blocked,,https://linktr.ee/higapastelaria,,,2026-10-18T15:18:14Z,2026-11-08T16:32:44Z,,,,,,robots.txt
 https://linktr.ee/hiotorioclaro,linktree,,2,incerto,blocked,,https://linktr.ee/hiotorioclaro,,,2026-10-19T16:44:53Z,2026-11-09T16:52:29Z,,,,,,robots.txt
-https://linktr.ee/honeyrestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/honeyrestaurante,,,2026-10-20T14:36:45Z,2026-11-03T17:21:31Z,,,,,,robots.txt
-https://linktr.ee/hora_dolanche,linktree,,2,incerto,blocked,,https://linktr.ee/hora_dolanche,,,2026-10-20T14:41:58Z,2026-11-03T17:27:22Z,,,,,,robots.txt
+https://linktr.ee/honeyrestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/honeyrestaurante,,,2026-10-20T14:36:45Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/hora_dolanche,linktree,,2,incerto,blocked,,https://linktr.ee/hora_dolanche,,,2026-10-20T14:41:58Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/horozrestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/horozrestaurante,,,2026-10-18T15:21:50Z,2026-11-08T16:36:29Z,,,,,,robots.txt
-https://linktr.ee/housburger.salto,linktree,,2,incerto,blocked,,https://linktr.ee/housburger.salto,,,2026-10-20T14:41:12Z,2026-11-03T17:25:58Z,,,,,,robots.txt
+https://linktr.ee/housburger.salto,linktree,,2,incerto,blocked,,https://linktr.ee/housburger.salto,,,2026-10-20T14:41:12Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/ichibancozinhaoriental?ltsid=2364cfa9-fbbd-475c-b7dc-14f166ea4d1f,linktree,,2,incerto,blocked,,https://linktr.ee/ichibancozinhaoriental?ltsid=2364cfa9-fbbd-475c-b7dc-14f166ea4d1f,,,2026-10-18T15:32:24Z,2026-11-09T16:39:05Z,,,,,,robots.txt
 https://linktr.ee/ilgiropizzanapoletana,linktree,,2,incerto,blocked,,https://linktr.ee/ilgiropizzanapoletana,,,2026-10-18T15:17:38Z,2026-11-08T16:32:10Z,,,,,,robots.txt
 https://linktr.ee/ilpumo,linktree,,2,incerto,blocked,,https://linktr.ee/ilpumo,,,2026-10-18T15:28:19Z,2026-11-08T16:43:00Z,,,,,,robots.txt
 https://linktr.ee/inescentro,linktree,,2,incerto,blocked,,https://linktr.ee/inescentro,,,2026-10-18T15:31:45Z,2026-11-09T16:38:33Z,,,,,,robots.txt
-https://linktr.ee/inhocchi_,linktree,,2,incerto,blocked,,https://linktr.ee/inhocchi_,,,2026-10-20T14:37:32Z,2026-11-03T17:22:22Z,,,,,,robots.txt
+https://linktr.ee/inhocchi_,linktree,,2,incerto,blocked,,https://linktr.ee/inhocchi_,,,2026-10-20T14:37:32Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/inooburguer,linktree,,2,incerto,blocked,,https://linktr.ee/inooburguer,,,2026-10-18T15:10:33Z,2026-11-08T16:26:43Z,,,,,,robots.txt
 https://linktr.ee/institutonovossabores,linktree,,2,incerto,blocked,,https://linktr.ee/institutonovossabores,,,2026-10-18T14:01:12Z,2026-11-08T16:22:16Z,,,,,,robots.txt
 https://linktr.ee/irohaleopoldina,linktree,,2,incerto,blocked,,https://linktr.ee/irohaleopoldina,,,2026-10-18T14:01:03Z,2026-11-08T16:21:55Z,,,,,,robots.txt
@@ -26154,7 +26154,7 @@ https://linktr.ee/jla_lanches,linktree,,2,incerto,blocked,,https://linktr.ee/jla
 https://linktr.ee/jpbolosecia,linktree,,2,incerto,blocked,,https://linktr.ee/jpbolosecia,,,2026-10-19T16:53:06Z,2026-11-09T16:59:05Z,,,,,,robots.txt
 https://linktr.ee/jspadariaeconfeitaria,linktree,,2,incerto,blocked,,https://linktr.ee/jspadariaeconfeitaria,,,2026-10-19T16:52:35Z,2026-11-09T16:58:44Z,,,,,,robots.txt
 https://linktr.ee/jukalanchesrp,linktree,,2,incerto,blocked,,https://linktr.ee/jukalanchesrp,,,2026-10-26T13:21:35Z,2026-11-09T16:38:02Z,,,,,,robots.txt
-https://linktr.ee/jumpburger,linktree,,2,incerto,blocked,,https://linktr.ee/jumpburger,,,2026-10-20T14:41:16Z,2026-11-03T17:26:00Z,,,,,,robots.txt
+https://linktr.ee/jumpburger,linktree,,2,incerto,blocked,,https://linktr.ee/jumpburger,,,2026-10-20T14:41:16Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/justburger,linktree,,2,incerto,blocked,,https://linktr.ee/justburger,,,2026-10-18T15:15:57Z,2026-11-08T16:30:36Z,,,,,,robots.txt
 https://linktr.ee/kadoyapastelaria,linktree,,2,incerto,blocked,,https://linktr.ee/kadoyapastelaria,,,2026-10-19T16:51:50Z,2026-11-09T16:58:08Z,,,,,,robots.txt
 https://linktr.ee/kai.pastelaria,linktree,,2,incerto,blocked,,https://linktr.ee/kai.pastelaria,,,2026-10-19T16:44:01Z,2026-11-09T16:51:50Z,,,,,,robots.txt
@@ -26165,8 +26165,8 @@ https://linktr.ee/kazoku_sushi,linktree,,2,incerto,blocked,,https://linktr.ee/ka
 https://linktr.ee/kdelaogourmet,linktree,,2,incerto,blocked,,https://linktr.ee/kdelaogourmet,,,2026-10-18T15:35:39Z,2026-11-09T16:41:44Z,,,,,,robots.txt
 https://linktr.ee/kebabparis,linktree,,2,incerto,blocked,,https://linktr.ee/kebabparis,,,2026-10-18T15:34:06Z,2026-11-09T16:40:35Z,,,,,,robots.txt
 https://linktr.ee/ked.bolos,linktree,,2,incerto,blocked,,https://linktr.ee/ked.bolos,,,2026-10-18T15:26:11Z,2026-11-08T16:40:52Z,,,,,,robots.txt
-https://linktr.ee/kidelicia_limeira,linktree,,2,incerto,blocked,,https://linktr.ee/kidelicia_limeira,,,2026-10-20T14:42:56Z,2026-11-03T17:27:50Z,,,,,,robots.txt
-https://linktr.ee/kingburger,linktree,,2,incerto,blocked,,https://linktr.ee/kingburger,,,2026-10-20T14:40:48Z,2026-11-03T17:25:42Z,,,,,,robots.txt
+https://linktr.ee/kidelicia_limeira,linktree,,2,incerto,blocked,,https://linktr.ee/kidelicia_limeira,,,2026-10-20T14:42:56Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/kingburger,linktree,,2,incerto,blocked,,https://linktr.ee/kingburger,,,2026-10-20T14:40:48Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/kingstoned,linktree,,2,incerto,blocked,,https://linktr.ee/kingstoned,,,2026-10-18T15:13:38Z,2026-11-08T16:28:55Z,,,,,,robots.txt
 https://linktr.ee/kirinustaboao,linktree,,2,incerto,blocked,,https://linktr.ee/kirinustaboao,,,2026-10-18T15:25:39Z,2026-11-08T16:40:20Z,,,,,,robots.txt
 https://linktr.ee/kizuisushisuzano,linktree,,2,incerto,blocked,,https://linktr.ee/kizuisushisuzano,,,2026-10-18T22:07:18Z,2026-11-09T16:46:23Z,,,,,,robots.txt
@@ -26187,13 +26187,13 @@ https://linktr.ee/lanchaoamericana_rjgourmet,linktree,,2,incerto,blocked,,https:
 https://linktr.ee/lanchedoluis_sp,linktree,,2,incerto,blocked,,https://linktr.ee/lanchedoluis_sp,,,2026-10-18T15:08:05Z,2026-11-08T16:24:29Z,,,,,,robots.txt
 https://linktr.ee/lanchoneteporks,linktree,,2,incerto,blocked,,https://linktr.ee/lanchoneteporks,,,2026-10-19T16:58:22Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/lanchoneteuniabc,linktree,,2,incerto,blocked,,https://linktr.ee/lanchoneteuniabc,,,2026-10-18T15:33:08Z,2026-11-09T16:39:44Z,,,,,,robots.txt
-https://linktr.ee/laperlepatisserie,linktree,,2,incerto,blocked,,https://linktr.ee/laperlepatisserie,,,2026-10-20T14:40:36Z,2026-11-03T17:25:36Z,,,,,,robots.txt
+https://linktr.ee/laperlepatisserie,linktree,,2,incerto,blocked,,https://linktr.ee/laperlepatisserie,,,2026-10-20T14:40:36Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/latavolarestaurantee,linktree,,2,incerto,blocked,,https://linktr.ee/latavolarestaurantee,,,2026-10-18T15:28:34Z,2026-11-08T16:43:16Z,,,,,,robots.txt
 https://linktr.ee/lavateriafastrpnovoshopping,linktree,,2,incerto,blocked,,https://linktr.ee/lavateriafastrpnovoshopping,,,2026-10-18T15:16:39Z,2026-11-08T16:31:14Z,,,,,,robots.txt
 https://linktr.ee/lavoratopizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/lavoratopizzaria,,,2026-10-18T15:16:05Z,2026-11-08T16:30:43Z,,,,,,robots.txt
 https://linktr.ee/legadoparrilla,linktree,,2,incerto,blocked,,https://linktr.ee/legadoparrilla,,,2026-10-18T22:09:53Z,2026-11-09T16:48:44Z,,,,,,robots.txt
 https://linktr.ee/lellispizzariapastaitaim,linktree,,2,incerto,blocked,,https://linktr.ee/lellispizzariapastaitaim,,,2026-10-18T14:01:01Z,2026-11-08T16:21:47Z,,,,,,robots.txt
-https://linktr.ee/lentrecotedeparissjrp?ltsid=e5a82590-af9f-4c1e-94f5-a076961c535f,linktree,,2,incerto,blocked,,https://linktr.ee/lentrecotedeparissjrp?ltsid=e5a82590-af9f-4c1e-94f5-a076961c535f,,,2026-10-20T14:41:54Z,2026-11-03T17:27:20Z,,,,,,robots.txt
+https://linktr.ee/lentrecotedeparissjrp?ltsid=e5a82590-af9f-4c1e-94f5-a076961c535f,linktree,,2,incerto,blocked,,https://linktr.ee/lentrecotedeparissjrp?ltsid=e5a82590-af9f-4c1e-94f5-a076961c535f,,,2026-10-20T14:41:54Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/letriskellbistro,linktree,,2,incerto,blocked,,https://linktr.ee/letriskellbistro,,,2026-10-19T16:44:06Z,2026-11-09T16:51:53Z,,,,,,robots.txt
 https://linktr.ee/liderpadaria,linktree,,2,incerto,blocked,,https://linktr.ee/liderpadaria,,,2026-10-18T22:06:59Z,2026-11-09T16:46:02Z,,,,,,robots.txt
 https://linktr.ee/likesriopreto,linktree,,2,incerto,blocked,,https://linktr.ee/likesriopreto,,,2026-10-18T15:37:09Z,2026-11-09T16:42:53Z,,,,,,robots.txt
@@ -26208,7 +26208,7 @@ https://linktr.ee/livrariacandeeiro,linktree,,2,incerto,blocked,,https://linktr.
 https://linktr.ee/loja.japonesa,linktree,,2,incerto,blocked,,https://linktr.ee/loja.japonesa,,,2026-10-26T13:21:58Z,2026-11-09T16:57:11Z,,,,,,robots.txt
 https://linktr.ee/lorenzzos,linktree,,2,incerto,blocked,,https://linktr.ee/lorenzzos,,,2026-10-18T22:06:52Z,2026-11-09T16:45:53Z,,,,,,robots.txt
 https://linktr.ee/losmexsaojosedoscampos,linktree,,2,incerto,blocked,,https://linktr.ee/losmexsaojosedoscampos,,,2026-10-18T15:32:53Z,2026-11-09T16:39:29Z,,,,,,robots.txt
-https://linktr.ee/luacogumelocafe,linktree,,2,incerto,blocked,,https://linktr.ee/luacogumelocafe,,,2026-10-20T14:36:00Z,2026-11-03T17:21:28Z,,,,,,robots.txt
+https://linktr.ee/luacogumelocafe,linktree,,2,incerto,blocked,,https://linktr.ee/luacogumelocafe,,,2026-10-20T14:36:00Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/ludohouse,linktree,,2,incerto,blocked,,https://linktr.ee/ludohouse,,,2026-10-19T16:55:50Z,2026-11-09T17:01:11Z,,,,,,robots.txt
 https://linktr.ee/mado.japanese,linktree,,2,incerto,blocked,,https://linktr.ee/mado.japanese,,,2026-10-19T16:47:59Z,2026-11-09T16:55:08Z,,,,,,robots.txt
 https://linktr.ee/madrugaolanchestupa,linktree,,2,incerto,blocked,,https://linktr.ee/madrugaolanchestupa,,,2026-10-19T16:42:03Z,2026-11-09T16:50:14Z,,,,,,robots.txt
@@ -26219,14 +26219,14 @@ https://linktr.ee/maisquesaborpasteis,linktree,,2,incerto,blocked,,https://linkt
 https://linktr.ee/makiburger,linktree,,2,incerto,blocked,,https://linktr.ee/makiburger,,,2026-10-18T15:38:53Z,2026-11-09T16:44:17Z,,,,,,robots.txt
 https://linktr.ee/makisplacecambui,linktree,,2,incerto,blocked,,https://linktr.ee/makisplacecambui,,,2026-10-18T15:36:21Z,2026-11-09T16:42:17Z,,,,,,robots.txt
 https://linktr.ee/maladosbar,linktree,,2,incerto,blocked,,https://linktr.ee/maladosbar,,,2026-10-18T22:10:35Z,2026-11-09T16:49:20Z,,,,,,robots.txt
-https://linktr.ee/malibuburgue,linktree,,2,incerto,blocked,,https://linktr.ee/malibuburgue,,,2026-10-20T14:38:52Z,2026-11-03T17:23:40Z,,,,,,robots.txt
+https://linktr.ee/malibuburgue,linktree,,2,incerto,blocked,,https://linktr.ee/malibuburgue,,,2026-10-20T14:38:52Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/malletitos,linktree,,2,incerto,blocked,,https://linktr.ee/malletitos,,,2026-10-18T15:27:24Z,2026-11-08T16:41:53Z,,,,,,robots.txt
 https://linktr.ee/mamma.doro,linktree,,2,incerto,blocked,,https://linktr.ee/mamma.doro,,,2026-10-18T15:36:17Z,2026-11-09T16:42:14Z,,,,,,robots.txt
 https://linktr.ee/mammamiasantafe,linktree,,2,incerto,blocked,,https://linktr.ee/mammamiasantafe,,,2026-10-18T15:37:51Z,2026-11-09T16:43:26Z,,,,,,robots.txt
 https://linktr.ee/mammarotisserie,linktree,,2,incerto,blocked,,https://linktr.ee/mammarotisserie,,,2026-10-18T15:21:21Z,2026-11-08T16:36:01Z,,,,,,robots.txt
 https://linktr.ee/mamorusushi,linktree,,2,incerto,blocked,,https://linktr.ee/mamorusushi,,,2026-10-18T15:22:41Z,2026-11-08T16:37:18Z,,,,,,robots.txt
-https://linktr.ee/manoelemaria,linktree,,2,incerto,blocked,,https://linktr.ee/manoelemaria,,,2026-10-20T14:41:08Z,2026-11-03T17:25:56Z,,,,,,robots.txt
-https://linktr.ee/manubakery_,linktree,,2,incerto,blocked,,https://linktr.ee/manubakery_,,,2026-10-20T14:41:28Z,2026-11-03T17:26:38Z,,,,,,robots.txt
+https://linktr.ee/manoelemaria,linktree,,2,incerto,blocked,,https://linktr.ee/manoelemaria,,,2026-10-20T14:41:08Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/manubakery_,linktree,,2,incerto,blocked,,https://linktr.ee/manubakery_,,,2026-10-20T14:41:28Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/manzoneprime,linktree,,2,incerto,blocked,,https://linktr.ee/manzoneprime,,,2026-10-18T22:07:58Z,2026-11-09T16:46:56Z,,,,,,robots.txt
 https://linktr.ee/marcaopizzabalcao,linktree,,2,incerto,blocked,,https://linktr.ee/marcaopizzabalcao,,,2026-10-19T16:59:26Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/marcaorestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/marcaorestaurante,,,2026-10-19T16:52:39Z,2026-11-09T16:58:47Z,,,,,,robots.txt
@@ -26247,15 +26247,15 @@ https://linktr.ee/mcprensado,linktree,,2,incerto,blocked,,https://linktr.ee/mcpr
 https://linktr.ee/meburgeraruja,linktree,,2,incerto,blocked,,https://linktr.ee/meburgeraruja,,,2026-10-18T15:32:04Z,2026-11-09T16:38:47Z,,,,,,robots.txt
 https://linktr.ee/meet.burguer,linktree,,2,incerto,blocked,,https://linktr.ee/meet.burguer,,,2026-10-19T16:58:06Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/megaesfihabarrobrancooficial,linktree,,2,incerto,blocked,,https://linktr.ee/megaesfihabarrobrancooficial,,,2026-10-19T16:59:22Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/megumirestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/megumirestaurante,,,2026-10-20T14:40:44Z,2026-11-03T17:25:40Z,,,,,,robots.txt
+https://linktr.ee/megumirestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/megumirestaurante,,,2026-10-20T14:40:44Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/melaniepatisserie,linktree,,2,incerto,blocked,,https://linktr.ee/melaniepatisserie,,,2026-10-19T16:42:40Z,2026-11-09T16:50:47Z,,,,,,robots.txt
 https://linktr.ee/meldeurucucafe,linktree,,2,incerto,blocked,,https://linktr.ee/meldeurucucafe,,,2026-10-19T17:02:07Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/melluscantina,linktree,,2,incerto,blocked,,https://linktr.ee/melluscantina,,,2026-10-20T14:41:32Z,2026-11-03T17:26:50Z,,,,,,robots.txt
+https://linktr.ee/melluscantina,linktree,,2,incerto,blocked,,https://linktr.ee/melluscantina,,,2026-10-20T14:41:32Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/mestre119441,linktree,,2,incerto,blocked,,https://linktr.ee/mestre119441,,,2026-10-18T15:37:05Z,2026-11-09T16:42:50Z,,,,,,robots.txt
 https://linktr.ee/michelfarsoun,linktree,,2,incerto,blocked,,https://linktr.ee/michelfarsoun,,,2026-10-19T17:02:24Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/microcantinababboamice,linktree,,2,incerto,blocked,,https://linktr.ee/microcantinababboamice,,,2026-10-18T15:11:17Z,2026-11-08T16:27:22Z,,,,,,robots.txt
 https://linktr.ee/milazzocucinaespressa,linktree,,2,incerto,blocked,,https://linktr.ee/milazzocucinaespressa,,,2026-10-18T15:37:17Z,2026-11-09T16:43:02Z,,,,,,robots.txt
-https://linktr.ee/minguialichepizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/minguialichepizzaria,,,2026-10-20T14:37:54Z,2026-11-03T17:22:56Z,,,,,,robots.txt
+https://linktr.ee/minguialichepizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/minguialichepizzaria,,,2026-10-20T14:37:54Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/misterpepperonipizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/misterpepperonipizzaria,,,2026-10-18T15:25:55Z,2026-11-08T16:40:38Z,,,,,,robots.txt
 https://linktr.ee/mixxdeliveryoc,linktree,,2,incerto,blocked,,https://linktr.ee/mixxdeliveryoc,,,2026-10-18T15:29:57Z,2026-11-08T16:43:54Z,,,,,,robots.txt
 https://linktr.ee/mjpizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/mjpizzaria,,,2026-10-18T15:32:14Z,2026-11-09T16:38:56Z,,,,,,robots.txt
@@ -26298,17 +26298,17 @@ https://linktr.ee/o.brutus,linktree,,2,incerto,blocked,,https://linktr.ee/o.brut
 https://linktr.ee/obarrilpizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/obarrilpizzaria,,,2026-10-19T16:50:51Z,2026-11-09T16:57:29Z,,,,,,robots.txt
 https://linktr.ee/obasiquim,linktree,,2,incerto,blocked,,https://linktr.ee/obasiquim,,,2026-10-18T15:23:44Z,2026-11-08T16:38:26Z,,,,,,robots.txt
 https://linktr.ee/obaurudsete,linktree,,2,incerto,blocked,,https://linktr.ee/obaurudsete,,,2026-10-18T15:09:27Z,2026-11-08T16:25:39Z,,,,,,robots.txt
-https://linktr.ee/obrasileirinho,linktree,,2,incerto,blocked,,https://linktr.ee/obrasileirinho,,,2026-10-20T14:42:38Z,2026-11-03T17:27:40Z,,,,,,robots.txt
+https://linktr.ee/obrasileirinho,linktree,,2,incerto,blocked,,https://linktr.ee/obrasileirinho,,,2026-10-20T14:42:38Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/ocantoculinario,linktree,,2,incerto,blocked,,https://linktr.ee/ocantoculinario,,,2026-10-18T22:06:36Z,2026-11-09T16:45:35Z,,,,,,robots.txt
 https://linktr.ee/ochef,linktree,,2,incerto,blocked,,https://linktr.ee/ochef,,,2026-10-19T16:43:44Z,2026-11-09T16:51:38Z,,,,,,robots.txt
 https://linktr.ee/oficialbolodafazenda,linktree,,2,incerto,blocked,,https://linktr.ee/oficialbolodafazenda,,,2026-10-19T16:59:05Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/oficialdonjoseph,linktree,,2,incerto,blocked,,https://linktr.ee/oficialdonjoseph,,,2026-10-19T16:46:17Z,2026-11-09T16:53:41Z,,,,,,robots.txt
 https://linktr.ee/oficinadosassados,linktree,,2,incerto,blocked,,https://linktr.ee/oficinadosassados,,,2026-10-18T15:25:13Z,2026-11-08T16:39:46Z,,,,,,robots.txt
-https://linktr.ee/oforneiro,linktree,,2,incerto,blocked,,https://linktr.ee/oforneiro,,,2026-10-20T14:36:48Z,2026-11-03T17:21:32Z,,,,,,robots.txt
+https://linktr.ee/oforneiro,linktree,,2,incerto,blocked,,https://linktr.ee/oforneiro,,,2026-10-20T14:36:48Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/ogringodelivery,linktree,,2,incerto,blocked,,https://linktr.ee/ogringodelivery,,,2026-10-19T16:43:02Z,2026-11-09T16:51:05Z,,,,,,robots.txt
 https://linktr.ee/oh_delicia,linktree,,2,incerto,blocked,,https://linktr.ee/oh_delicia,,,2026-10-18T15:14:39Z,2026-11-08T16:29:27Z,,,,,,robots.txt
-https://linktr.ee/ohtempero,linktree,,2,incerto,blocked,,https://linktr.ee/ohtempero,,,2026-10-20T14:41:04Z,2026-11-03T17:25:54Z,,,,,,robots.txt
-https://linktr.ee/ojardimdasdelicias,linktree,,2,incerto,blocked,,https://linktr.ee/ojardimdasdelicias,,,2026-10-20T14:42:06Z,2026-11-03T17:27:28Z,,,,,,robots.txt
+https://linktr.ee/ohtempero,linktree,,2,incerto,blocked,,https://linktr.ee/ohtempero,,,2026-10-20T14:41:04Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/ojardimdasdelicias,linktree,,2,incerto,blocked,,https://linktr.ee/ojardimdasdelicias,,,2026-10-20T14:42:06Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/okaresushiprime,linktree,,2,incerto,blocked,,https://linktr.ee/okaresushiprime,,,2026-10-18T15:10:20Z,2026-11-08T16:26:33Z,,,,,,robots.txt
 https://linktr.ee/oktobeerchoperia,linktree,,2,incerto,blocked,,https://linktr.ee/oktobeerchoperia,,,2026-10-19T16:55:53Z,2026-11-09T17:01:14Z,,,,,,robots.txt
 https://linktr.ee/onetwopizzas,linktree,,2,incerto,blocked,,https://linktr.ee/onetwopizzas,,,2026-10-18T15:08:25Z,2026-11-08T16:24:41Z,,,,,,robots.txt
@@ -26318,23 +26318,23 @@ https://linktr.ee/oprogrediorexpress,linktree,,2,incerto,blocked,,https://linktr
 https://linktr.ee/oquintal.sushi.burguer,linktree,,2,incerto,blocked,,https://linktr.ee/oquintal.sushi.burguer,,,2026-10-19T16:54:18Z,2026-11-09T16:59:59Z,,,,,,robots.txt
 https://linktr.ee/padaria.saocarlos,linktree,,2,incerto,blocked,,https://linktr.ee/padaria.saocarlos,,,2026-10-18T22:06:46Z,2026-11-09T16:45:47Z,,,,,,robots.txt
 https://linktr.ee/padariaaliancacardeal,linktree,,2,incerto,blocked,,https://linktr.ee/padariaaliancacardeal,,,2026-10-18T15:38:27Z,2026-11-09T16:43:53Z,,,,,,robots.txt
-https://linktr.ee/padariaband4,linktree,,2,incerto,blocked,,https://linktr.ee/padariaband4,,,2026-10-20T14:38:44Z,2026-11-03T17:23:36Z,,,,,,robots.txt
+https://linktr.ee/padariaband4,linktree,,2,incerto,blocked,,https://linktr.ee/padariaband4,,,2026-10-20T14:38:44Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/padariacapaoredondooficial,linktree,,2,incerto,blocked,,https://linktr.ee/padariacapaoredondooficial,,,2026-10-19T16:55:34Z,2026-11-09T17:00:59Z,,,,,,robots.txt
 https://linktr.ee/padariacapri,linktree,,2,incerto,blocked,,https://linktr.ee/padariacapri,,,2026-10-19T16:45:31Z,2026-11-09T16:53:02Z,,,,,,robots.txt
 https://linktr.ee/padariacasacunha,linktree,,2,incerto,blocked,,https://linktr.ee/padariacasacunha,,,2026-10-18T15:37:45Z,2026-11-09T16:43:20Z,,,,,,robots.txt
 https://linktr.ee/padariacrisegesse,linktree,,2,incerto,blocked,,https://linktr.ee/padariacrisegesse,,,2026-10-18T15:19:04Z,2026-11-08T16:33:41Z,,,,,,robots.txt
 https://linktr.ee/padariadely,linktree,,2,incerto,blocked,,https://linktr.ee/padariadely,,,2026-10-18T15:13:32Z,2026-11-08T16:28:51Z,,,,,,robots.txt
 https://linktr.ee/padariadgust,linktree,,2,incerto,blocked,,https://linktr.ee/padariadgust,,,2026-10-19T16:53:37Z,2026-11-09T16:59:29Z,,,,,,robots.txt
-https://linktr.ee/padariadonei,linktree,,2,incerto,blocked,,https://linktr.ee/padariadonei,,,2026-10-20T14:40:26Z,2026-11-03T17:25:30Z,,,,,,robots.txt
+https://linktr.ee/padariadonei,linktree,,2,incerto,blocked,,https://linktr.ee/padariadonei,,,2026-10-20T14:40:26Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/padariaeldorado,linktree,,2,incerto,blocked,,https://linktr.ee/padariaeldorado,,,2026-10-18T15:30:46Z,2026-11-09T16:38:11Z,,,,,,robots.txt
 https://linktr.ee/padariamodelorc,linktree,,2,incerto,blocked,,https://linktr.ee/padariamodelorc,,,2026-10-19T16:46:41Z,2026-11-09T16:54:11Z,,,,,,robots.txt
 https://linktr.ee/padarianovaseara,linktree,,2,incerto,blocked,,https://linktr.ee/padarianovaseara,,,2026-10-18T15:24:16Z,2026-11-08T16:38:57Z,,,,,,robots.txt
-https://linktr.ee/padariapaoso,linktree,,2,incerto,blocked,,https://linktr.ee/padariapaoso,,,2026-10-20T14:37:58Z,2026-11-03T17:23:14Z,,,,,,robots.txt
+https://linktr.ee/padariapaoso,linktree,,2,incerto,blocked,,https://linktr.ee/padariapaoso,,,2026-10-20T14:37:58Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/padariaparati,linktree,,2,incerto,blocked,,https://linktr.ee/padariaparati,,,2026-10-19T17:00:11Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/padariapirituba,linktree,,2,incerto,blocked,,https://linktr.ee/padariapirituba,,,2026-10-18T15:25:25Z,2026-11-08T16:39:57Z,,,,,,robots.txt
 https://linktr.ee/padariasacramento,linktree,,2,incerto,blocked,,https://linktr.ee/padariasacramento,,,2026-10-19T16:53:14Z,2026-11-09T16:59:11Z,,,,,,robots.txt
 https://linktr.ee/padariasantamicaela,linktree,,2,incerto,blocked,,https://linktr.ee/padariasantamicaela,,,2026-10-19T16:53:18Z,2026-11-09T16:59:14Z,,,,,,robots.txt
-https://linktr.ee/padariasantamicaela?ltsid=a175eeaf-feff-4eb6-ad43-b2aed9d422e1,linktree,,2,incerto,blocked,,https://linktr.ee/padariasantamicaela?ltsid=a175eeaf-feff-4eb6-ad43-b2aed9d422e1,,,2026-10-20T14:42:02Z,2026-11-03T17:27:26Z,,,,,,robots.txt
+https://linktr.ee/padariasantamicaela?ltsid=a175eeaf-feff-4eb6-ad43-b2aed9d422e1,linktree,,2,incerto,blocked,,https://linktr.ee/padariasantamicaela?ltsid=a175eeaf-feff-4eb6-ad43-b2aed9d422e1,,,2026-10-20T14:42:02Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/padariasantoantoniobariri,linktree,,2,incerto,blocked,,https://linktr.ee/padariasantoantoniobariri,,,2026-10-19T17:02:02Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/padariavitoriamogimirim,linktree,,2,incerto,blocked,,https://linktr.ee/padariavitoriamogimirim,,,2026-10-19T17:03:02Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/padocaamparo,linktree,,2,incerto,blocked,,https://linktr.ee/padocaamparo,,,2026-10-18T15:17:42Z,2026-11-08T16:32:13Z,,,,,,robots.txt
@@ -26359,11 +26359,11 @@ https://linktr.ee/pastawayjundiai,linktree,,2,incerto,blocked,,https://linktr.ee
 https://linktr.ee/pastawaypompeia,linktree,,2,incerto,blocked,,https://linktr.ee/pastawaypompeia,,,2026-10-19T16:49:01Z,2026-11-09T16:55:56Z,,,,,,robots.txt
 https://linktr.ee/pastelarialapeana,linktree,,2,incerto,blocked,,https://linktr.ee/pastelarialapeana,,,2026-10-19T16:43:18Z,2026-11-09T16:51:17Z,,,,,,robots.txt
 https://linktr.ee/pastelariasp,linktree,,2,incerto,blocked,,https://linktr.ee/pastelariasp,,,2026-10-18T15:08:33Z,2026-11-08T16:24:49Z,,,,,,robots.txt
-https://linktr.ee/pastelariataniacampos,linktree,,2,incerto,blocked,,https://linktr.ee/pastelariataniacampos,,,2026-10-20T14:41:22Z,2026-11-03T17:26:08Z,,,,,,robots.txt
+https://linktr.ee/pastelariataniacampos,linktree,,2,incerto,blocked,,https://linktr.ee/pastelariataniacampos,,,2026-10-20T14:41:22Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/pasteldanegona,linktree,,2,incerto,blocked,,https://linktr.ee/pasteldanegona,,,2026-10-19T16:44:56Z,2026-11-09T16:52:32Z,,,,,,robots.txt
 https://linktr.ee/pasteldoamaral,linktree,,2,incerto,blocked,,https://linktr.ee/pasteldoamaral,,,2026-10-19T17:00:15Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/pasteldobil,linktree,,2,incerto,blocked,,https://linktr.ee/pasteldobil,,,2026-10-20T14:37:40Z,2026-11-03T17:22:42Z,,,,,,robots.txt
-https://linktr.ee/pasteldojairoficial,linktree,,2,incerto,blocked,,https://linktr.ee/pasteldojairoficial,,,2026-10-20T14:40:10Z,2026-11-03T17:25:26Z,,,,,,robots.txt
+https://linktr.ee/pasteldobil,linktree,,2,incerto,blocked,,https://linktr.ee/pasteldobil,,,2026-10-20T14:37:40Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/pasteldojairoficial,linktree,,2,incerto,blocked,,https://linktr.ee/pasteldojairoficial,,,2026-10-20T14:40:10Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/pedefavaoficial,linktree,,2,incerto,blocked,,https://linktr.ee/pedefavaoficial,,,2026-10-18T15:20:00Z,2026-11-08T16:34:28Z,,,,,,robots.txt
 https://linktr.ee/pegpaoitanhaem,linktree,,2,incerto,blocked,,https://linktr.ee/pegpaoitanhaem,,,2026-10-19T16:49:49Z,2026-11-09T16:56:35Z,,,,,,robots.txt
 https://linktr.ee/pegpaomongagua,linktree,,2,incerto,blocked,,https://linktr.ee/pegpaomongagua,,,2026-10-19T16:45:45Z,2026-11-09T16:53:14Z,,,,,,robots.txt
@@ -26389,13 +26389,13 @@ https://linktr.ee/pizzaria.dapraca,linktree,,2,incerto,blocked,,https://linktr.e
 https://linktr.ee/pizzaria.vini,linktree,,2,incerto,blocked,,https://linktr.ee/pizzaria.vini,,,2026-10-18T15:13:04Z,2026-11-08T16:28:33Z,,,,,,robots.txt
 https://linktr.ee/pizzaria_bambino,linktree,,2,incerto,blocked,,https://linktr.ee/pizzaria_bambino,,,2026-10-18T15:35:31Z,2026-11-09T16:41:38Z,,,,,,robots.txt
 https://linktr.ee/pizzaria_donatelloo,linktree,,2,incerto,blocked,,https://linktr.ee/pizzaria_donatelloo,,,2026-10-18T15:09:47Z,2026-11-08T16:25:59Z,,,,,,robots.txt
-https://linktr.ee/pizzariaaline,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaaline,,,2026-10-20T14:40:52Z,2026-11-03T17:25:44Z,,,,,,robots.txt
+https://linktr.ee/pizzariaaline,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaaline,,,2026-10-20T14:40:52Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/pizzariaaquarela,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaaquarela,,,2026-10-18T15:13:14Z,2026-11-08T16:28:41Z,,,,,,robots.txt
-https://linktr.ee/pizzariaarvore,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaarvore,,,2026-10-20T14:38:32Z,2026-11-03T17:23:30Z,,,,,,robots.txt
+https://linktr.ee/pizzariaarvore,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaarvore,,,2026-10-20T14:38:32Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/pizzariabellaluti,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariabellaluti,,,2026-10-18T15:20:47Z,2026-11-08T16:35:16Z,,,,,,robots.txt
 https://linktr.ee/pizzariabenoni,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariabenoni,,,2026-10-18T22:08:20Z,2026-11-09T16:47:14Z,,,,,,robots.txt
 https://linktr.ee/pizzariaboaz,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaboaz,,,2026-10-18T15:34:48Z,2026-11-09T16:41:08Z,,,,,,robots.txt
-https://linktr.ee/pizzariabomsucesso,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariabomsucesso,,,2026-10-20T14:42:10Z,2026-11-03T17:27:30Z,,,,,,robots.txt
+https://linktr.ee/pizzariabomsucesso,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariabomsucesso,,,2026-10-20T14:42:10Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/pizzariabonforno,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariabonforno,,,2026-10-18T15:06:54Z,2026-11-08T16:23:22Z,,,,,,robots.txt
 https://linktr.ee/pizzariabonissima,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariabonissima,,,2026-10-18T15:28:59Z,2026-11-08T16:43:38Z,,,,,,robots.txt
 https://linktr.ee/pizzariabortolotti,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariabortolotti,,,2026-10-18T15:16:23Z,2026-11-08T16:31:00Z,,,,,,robots.txt
@@ -26407,7 +26407,7 @@ https://linktr.ee/pizzariacearaoficial,linktree,,2,incerto,blocked,,https://link
 https://linktr.ee/pizzariadiegos_,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariadiegos_,,,2026-10-18T15:16:59Z,2026-11-08T16:31:34Z,,,,,,robots.txt
 https://linktr.ee/pizzariadiflorenca,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariadiflorenca,,,2026-10-19T16:52:27Z,2026-11-09T16:58:38Z,,,,,,robots.txt
 https://linktr.ee/pizzariadomrafael,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariadomrafael,,,2026-10-18T15:25:37Z,2026-11-08T16:40:15Z,,,,,,robots.txt
-https://linktr.ee/pizzariaeburgerplanaltosc,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaeburgerplanaltosc,,,2026-10-20T14:38:40Z,2026-11-03T17:23:34Z,,,,,,robots.txt
+https://linktr.ee/pizzariaeburgerplanaltosc,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaeburgerplanaltosc,,,2026-10-20T14:38:40Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/pizzariaeduarda,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaeduarda,,,2026-10-18T15:23:01Z,2026-11-08T16:37:38Z,,,,,,robots.txt
 https://linktr.ee/pizzariaexplo,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaexplo,,,2026-10-19T16:51:54Z,2026-11-09T16:58:11Z,,,,,,robots.txt
 https://linktr.ee/pizzariaferraris,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariaferraris,,,2026-10-18T14:01:20Z,2026-11-08T16:22:32Z,,,,,,robots.txt
@@ -26420,7 +26420,7 @@ https://linktr.ee/pizzariamammamiacps,linktree,,2,incerto,blocked,,https://linkt
 https://linktr.ee/pizzariamassadourada,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariamassadourada,,,2026-10-26T13:21:40Z,2026-11-09T16:38:23Z,,,,,,robots.txt
 https://linktr.ee/pizzariamassavip,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariamassavip,,,2026-10-18T15:38:57Z,2026-11-09T16:44:20Z,,,,,,robots.txt
 https://linktr.ee/pizzariamenezes,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariamenezes,,,2026-10-19T17:01:39Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/pizzarianovaalianca,linktree,,2,incerto,blocked,,https://linktr.ee/pizzarianovaalianca,,,2026-10-20T14:43:00Z,2026-11-03T17:27:52Z,,,,,,robots.txt
+https://linktr.ee/pizzarianovaalianca,linktree,,2,incerto,blocked,,https://linktr.ee/pizzarianovaalianca,,,2026-10-20T14:43:00Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/pizzariapandora,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariapandora,,,2026-10-18T22:10:30Z,2026-11-09T16:49:17Z,,,,,,robots.txt
 https://linktr.ee/pizzariapark,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariapark,,,2026-10-18T14:01:16Z,2026-11-08T16:22:19Z,,,,,,robots.txt
 https://linktr.ee/pizzariapoppellutchu,linktree,,2,incerto,blocked,,https://linktr.ee/pizzariapoppellutchu,,,2026-10-19T16:58:33Z,2026-11-09T17:02:35Z,,,,,,robots.txt
@@ -26444,7 +26444,7 @@ https://linktr.ee/pontodaesfihajardimprudencia,linktree,,2,incerto,blocked,,http
 https://linktr.ee/pontodaesfihalimeira,linktree,,2,incerto,blocked,,https://linktr.ee/pontodaesfihalimeira,,,2026-10-18T15:24:31Z,2026-11-08T16:39:08Z,,,,,,robots.txt
 https://linktr.ee/pontodoacaisp,linktree,,2,incerto,blocked,,https://linktr.ee/pontodoacaisp,,,2026-10-19T16:53:34Z,2026-11-09T16:59:26Z,,,,,,robots.txt
 https://linktr.ee/pontomaniapizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/pontomaniapizzaria,,,2026-10-19T16:48:30Z,2026-11-09T16:55:32Z,,,,,,robots.txt
-https://linktr.ee/popcinedog,linktree,,2,incerto,blocked,,https://linktr.ee/popcinedog,,,2026-10-20T14:40:30Z,2026-11-03T17:25:32Z,,,,,,robots.txt
+https://linktr.ee/popcinedog,linktree,,2,incerto,blocked,,https://linktr.ee/popcinedog,,,2026-10-20T14:40:30Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/popypizzas,linktree,,2,incerto,blocked,,https://linktr.ee/popypizzas,,,2026-10-26T13:22:19Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/potibarerestaurante_,linktree,,2,incerto,blocked,,https://linktr.ee/potibarerestaurante_,,,2026-10-18T15:36:25Z,2026-11-09T16:42:20Z,,,,,,robots.txt
 https://linktr.ee/pppanificadora,linktree,,2,incerto,blocked,,https://linktr.ee/pppanificadora,,,2026-10-19T17:02:57Z,2026-11-09T17:02:35Z,,,,,,robots.txt
@@ -26467,19 +26467,19 @@ https://linktr.ee/quintaldavobr,linktree,,2,incerto,blocked,,https://linktr.ee/q
 https://linktr.ee/quintaldicasaofc,linktree,,2,incerto,blocked,,https://linktr.ee/quintaldicasaofc,,,2026-10-18T15:30:01Z,2026-11-08T16:43:56Z,,,,,,robots.txt
 https://linktr.ee/quintaldomarchetti,linktree,,2,incerto,blocked,,https://linktr.ee/quintaldomarchetti,,,2026-10-19T16:48:36Z,2026-11-09T16:55:38Z,,,,,,robots.txt
 https://linktr.ee/quintaldosergio,linktree,,2,incerto,blocked,,https://linktr.ee/quintaldosergio,,,2026-10-18T14:01:18Z,2026-11-08T16:22:26Z,,,,,,robots.txt
-https://linktr.ee/quintalmediterraneo,linktree,,2,incerto,blocked,,https://linktr.ee/quintalmediterraneo,,,2026-10-20T14:42:00Z,2026-11-03T17:27:24Z,,,,,,robots.txt
+https://linktr.ee/quintalmediterraneo,linktree,,2,incerto,blocked,,https://linktr.ee/quintalmediterraneo,,,2026-10-20T14:42:00Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/raffa.e.gio,linktree,,2,incerto,blocked,,https://linktr.ee/raffa.e.gio,,,2026-10-18T15:14:10Z,2026-11-08T16:29:10Z,,,,,,robots.txt
 https://linktr.ee/rainhadapazpizzaria,linktree,,2,incerto,blocked,,https://linktr.ee/rainhadapazpizzaria,,,2026-10-19T16:49:23Z,2026-11-09T16:56:17Z,,,,,,robots.txt
-https://linktr.ee/rainhadograo,linktree,,2,incerto,blocked,,https://linktr.ee/rainhadograo,,,2026-10-20T14:39:34Z,2026-11-03T17:25:02Z,,,,,,robots.txt
+https://linktr.ee/rainhadograo,linktree,,2,incerto,blocked,,https://linktr.ee/rainhadograo,,,2026-10-20T14:39:34Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/rainhadoimperador,linktree,,2,incerto,blocked,,https://linktr.ee/rainhadoimperador,,,2026-10-19T16:46:20Z,2026-11-09T16:53:44Z,,,,,,robots.txt
 https://linktr.ee/raizestapiocariaespetaria,linktree,,2,incerto,blocked,,https://linktr.ee/raizestapiocariaespetaria,,,2026-10-19T16:54:50Z,2026-11-09T17:00:23Z,,,,,,robots.txt
-https://linktr.ee/ranchaozecarlao,linktree,,2,incerto,blocked,,https://linktr.ee/ranchaozecarlao,,,2026-10-20T14:39:04Z,2026-11-03T17:23:50Z,,,,,,robots.txt
+https://linktr.ee/ranchaozecarlao,linktree,,2,incerto,blocked,,https://linktr.ee/ranchaozecarlao,,,2026-10-20T14:39:04Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/ranchobelavistalimeira?ltsid=805e44ec-473e-43c8-a378-8b16984fe8a3,linktree,,2,incerto,blocked,,https://linktr.ee/ranchobelavistalimeira?ltsid=805e44ec-473e-43c8-a378-8b16984fe8a3,,,2026-10-18T22:07:08Z,2026-11-09T16:46:14Z,,,,,,robots.txt
 https://linktr.ee/ranchodoguri,linktree,,2,incerto,blocked,,https://linktr.ee/ranchodoguri,,,2026-10-18T15:27:57Z,2026-11-08T16:42:28Z,,,,,,robots.txt
 https://linktr.ee/ranchodoguto,linktree,,2,incerto,blocked,,https://linktr.ee/ranchodoguto,,,2026-10-18T15:14:49Z,2026-11-08T16:29:33Z,,,,,,robots.txt
-https://linktr.ee/rangobraboburger,linktree,,2,incerto,blocked,,https://linktr.ee/rangobraboburger,,,2026-10-20T14:39:00Z,2026-11-03T17:23:48Z,,,,,,robots.txt
-https://linktr.ee/rangosgrill,linktree,,2,incerto,blocked,,https://linktr.ee/rangosgrill,,,2026-10-20T14:41:20Z,2026-11-03T17:26:04Z,,,,,,robots.txt
-https://linktr.ee/rdmunimart,linktree,,2,incerto,blocked,,https://linktr.ee/rdmunimart,,,2026-10-20T14:36:33Z,2026-11-03T17:21:30Z,,,,,,robots.txt
+https://linktr.ee/rangobraboburger,linktree,,2,incerto,blocked,,https://linktr.ee/rangobraboburger,,,2026-10-20T14:39:00Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/rangosgrill,linktree,,2,incerto,blocked,,https://linktr.ee/rangosgrill,,,2026-10-20T14:41:20Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/rdmunimart,linktree,,2,incerto,blocked,,https://linktr.ee/rdmunimart,,,2026-10-20T14:36:33Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/recantodascerejeirasbtu,linktree,,2,incerto,blocked,,https://linktr.ee/recantodascerejeirasbtu,,,2026-10-18T14:01:03Z,2026-11-08T16:21:51Z,,,,,,robots.txt
 https://linktr.ee/recantodocaicara,linktree,,2,incerto,blocked,,https://linktr.ee/recantodocaicara,,,2026-10-19T17:00:54Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/reidossalgadosoficial,linktree,,2,incerto,blocked,,https://linktr.ee/reidossalgadosoficial,,,2026-10-19T16:51:24Z,2026-11-09T16:57:50Z,,,,,,robots.txt
@@ -26501,11 +26501,11 @@ https://linktr.ee/restauranteebarcampestre,linktree,,2,incerto,blocked,,https://
 https://linktr.ee/restauranteeleeela,linktree,,2,incerto,blocked,,https://linktr.ee/restauranteeleeela,,,2026-10-18T15:20:32Z,2026-11-08T16:35:04Z,,,,,,robots.txt
 https://linktr.ee/restauranteh3p,linktree,,2,incerto,blocked,,https://linktr.ee/restauranteh3p,,,2026-10-18T15:11:35Z,2026-11-08T16:27:33Z,,,,,,robots.txt
 https://linktr.ee/restaurantenadomartins2,linktree,,2,incerto,blocked,,https://linktr.ee/restaurantenadomartins2,,,2026-10-19T16:45:35Z,2026-11-09T16:53:05Z,,,,,,robots.txt
-https://linktr.ee/restauranteneri,linktree,,2,incerto,blocked,,https://linktr.ee/restauranteneri,,,2026-10-20T14:37:20Z,2026-11-03T17:21:40Z,,,,,,robots.txt
+https://linktr.ee/restauranteneri,linktree,,2,incerto,blocked,,https://linktr.ee/restauranteneri,,,2026-10-20T14:37:20Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/restaurantenovaopcao,linktree,,2,incerto,blocked,,https://linktr.ee/restaurantenovaopcao,,,2026-10-18T15:27:53Z,2026-11-08T16:42:22Z,,,,,,robots.txt
 https://linktr.ee/restaurantepizzaria2irmaos,linktree,,2,incerto,blocked,,https://linktr.ee/restaurantepizzaria2irmaos,,,2026-10-18T15:26:44Z,2026-11-08T16:41:20Z,,,,,,robots.txt
 https://linktr.ee/restauranteribeiros,linktree,,2,incerto,blocked,,https://linktr.ee/restauranteribeiros,,,2026-10-18T15:17:45Z,2026-11-08T16:32:16Z,,,,,,robots.txt
-https://linktr.ee/restauranterosefamily,linktree,,2,incerto,blocked,,https://linktr.ee/restauranterosefamily,,,2026-10-20T14:36:52Z,2026-11-03T17:21:32Z,,,,,,robots.txt
+https://linktr.ee/restauranterosefamily,linktree,,2,incerto,blocked,,https://linktr.ee/restauranterosefamily,,,2026-10-20T14:36:52Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/restaurantes.dona.maria?ltsid=53a4012f-d997-4344-b795-a18a707af7af,linktree,,2,incerto,blocked,,https://linktr.ee/restaurantes.dona.maria?ltsid=53a4012f-d997-4344-b795-a18a707af7af,,,2026-10-19T16:54:37Z,2026-11-09T17:00:14Z,,,,,,robots.txt
 https://linktr.ee/restaurantesaky,linktree,,2,incerto,blocked,,https://linktr.ee/restaurantesaky,,,2026-10-18T15:07:06Z,2026-11-08T16:23:34Z,,,,,,robots.txt
 https://linktr.ee/restaurantesaojudas,linktree,,2,incerto,blocked,,https://linktr.ee/restaurantesaojudas,,,2026-10-18T15:39:25Z,2026-11-09T16:44:41Z,,,,,,robots.txt
@@ -26517,18 +26517,18 @@ https://linktr.ee/ricarotisseria,linktree,,2,incerto,blocked,,https://linktr.ee/
 https://linktr.ee/riomaroriental,linktree,,2,incerto,blocked,,https://linktr.ee/riomaroriental,,,2026-10-19T16:42:52Z,2026-11-09T16:50:56Z,,,,,,robots.txt
 https://linktr.ee/rocco.osteria,linktree,,2,incerto,blocked,,https://linktr.ee/rocco.osteria,,,2026-10-19T16:49:33Z,2026-11-09T16:56:23Z,,,,,,robots.txt
 https://linktr.ee/rockburgerhouse,linktree,,2,incerto,blocked,,https://linktr.ee/rockburgerhouse,,,2026-10-19T16:56:23Z,2026-11-09T17:01:41Z,,,,,,robots.txt
-https://linktr.ee/romanapastelaria,linktree,,2,incerto,blocked,,https://linktr.ee/romanapastelaria,,,2026-10-20T14:39:54Z,2026-11-03T17:25:18Z,,,,,,robots.txt
+https://linktr.ee/romanapastelaria,linktree,,2,incerto,blocked,,https://linktr.ee/romanapastelaria,,,2026-10-20T14:39:54Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/rosanemacedo,linktree,,2,incerto,blocked,,https://linktr.ee/rosanemacedo,,,2026-10-19T16:59:15Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/saborcaseirorestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/saborcaseirorestaurante,,,2026-10-18T15:12:39Z,2026-11-08T16:28:16Z,,,,,,robots.txt
 https://linktr.ee/sabordadora,linktree,,2,incerto,blocked,,https://linktr.ee/sabordadora,,,2026-10-18T15:25:03Z,2026-11-08T16:39:36Z,,,,,,robots.txt
 https://linktr.ee/sabordaterrasp,linktree,,2,incerto,blocked,,https://linktr.ee/sabordaterrasp,,,2026-10-19T16:44:45Z,2026-11-09T16:52:23Z,,,,,,robots.txt
 https://linktr.ee/sabordechurras,linktree,,2,incerto,blocked,,https://linktr.ee/sabordechurras,,,2026-10-18T22:09:44Z,2026-11-09T16:48:38Z,,,,,,robots.txt
 https://linktr.ee/sabordonordeste.mooca,linktree,,2,incerto,blocked,,https://linktr.ee/sabordonordeste.mooca,,,2026-10-18T15:08:53Z,2026-11-08T16:25:09Z,,,,,,robots.txt
-https://linktr.ee/saboreartegourmet,linktree,,2,incerto,blocked,,https://linktr.ee/saboreartegourmet,,,2026-10-20T14:38:36Z,2026-11-03T17:23:32Z,,,,,,robots.txt
-https://linktr.ee/saboremdobro013,linktree,,2,incerto,blocked,,https://linktr.ee/saboremdobro013,,,2026-10-20T14:37:11Z,2026-11-03T17:21:34Z,,,,,,robots.txt
+https://linktr.ee/saboreartegourmet,linktree,,2,incerto,blocked,,https://linktr.ee/saboreartegourmet,,,2026-10-20T14:38:36Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/saboremdobro013,linktree,,2,incerto,blocked,,https://linktr.ee/saboremdobro013,,,2026-10-20T14:37:11Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/saborencantado,linktree,,2,incerto,blocked,,https://linktr.ee/saborencantado,,,2026-10-18T15:24:59Z,2026-11-08T16:39:32Z,,,,,,robots.txt
 https://linktr.ee/saboresdavo,linktree,,2,incerto,blocked,,https://linktr.ee/saboresdavo,,,2026-10-18T15:23:24Z,2026-11-08T16:38:06Z,,,,,,robots.txt
-https://linktr.ee/salgadoscia,linktree,,2,incerto,blocked,,https://linktr.ee/salgadoscia,,,2026-10-20T14:42:30Z,2026-11-03T17:27:36Z,,,,,,robots.txt
+https://linktr.ee/salgadoscia,linktree,,2,incerto,blocked,,https://linktr.ee/salgadoscia,,,2026-10-20T14:42:30Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/salgateriadochef,linktree,,2,incerto,blocked,,https://linktr.ee/salgateriadochef,,,2026-10-18T15:21:18Z,2026-11-08T16:35:58Z,,,,,,robots.txt
 https://linktr.ee/samuraisushibar.pg,linktree,,2,incerto,blocked,,https://linktr.ee/samuraisushibar.pg,,,2026-10-18T22:09:29Z,2026-11-09T16:48:23Z,,,,,,robots.txt
 https://linktr.ee/sanbrunorestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/sanbrunorestaurante,,,2026-10-18T15:10:52Z,2026-11-08T16:26:59Z,,,,,,robots.txt
@@ -26554,22 +26554,22 @@ https://linktr.ee/shogaholl,linktree,,2,incerto,blocked,,https://linktr.ee/shoga
 https://linktr.ee/singellobrigadeiro,linktree,,2,incerto,blocked,,https://linktr.ee/singellobrigadeiro,,,2026-10-19T16:41:35Z,2026-11-09T16:49:50Z,,,,,,robots.txt
 https://linktr.ee/singelobraseiro,linktree,,2,incerto,blocked,,https://linktr.ee/singelobraseiro,,,2026-10-19T17:03:47Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/sitio_17,linktree,,2,incerto,blocked,,https://linktr.ee/sitio_17,,,2026-10-18T22:11:00Z,2026-11-09T16:49:41Z,,,,,,robots.txt
-https://linktr.ee/skinadapicanha__,linktree,,2,incerto,blocked,,https://linktr.ee/skinadapicanha__,,,2026-10-20T14:42:34Z,2026-11-03T17:27:38Z,,,,,,robots.txt
+https://linktr.ee/skinadapicanha__,linktree,,2,incerto,blocked,,https://linktr.ee/skinadapicanha__,,,2026-10-20T14:42:34Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/smash4youburger,linktree,,2,incerto,blocked,,https://linktr.ee/smash4youburger,,,2026-10-18T15:34:26Z,2026-11-09T16:40:50Z,,,,,,robots.txt
-https://linktr.ee/smashhousealphaville,linktree,,2,incerto,blocked,,https://linktr.ee/smashhousealphaville,,,2026-10-20T14:38:02Z,2026-11-03T17:23:18Z,,,,,,robots.txt
+https://linktr.ee/smashhousealphaville,linktree,,2,incerto,blocked,,https://linktr.ee/smashhousealphaville,,,2026-10-20T14:38:02Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/smbrasilcampinas,linktree,,2,incerto,blocked,,https://linktr.ee/smbrasilcampinas,,,2026-10-18T15:36:45Z,2026-11-09T16:42:35Z,,,,,,robots.txt
 https://linktr.ee/sodie.itapetininga,linktree,,2,incerto,blocked,,https://linktr.ee/sodie.itapetininga,,,2026-10-18T15:31:49Z,2026-11-09T16:38:35Z,,,,,,robots.txt
 https://linktr.ee/sodiedocesparaiso,linktree,,2,incerto,blocked,,https://linktr.ee/sodiedocesparaiso,,,2026-10-18T22:10:23Z,2026-11-09T16:49:11Z,,,,,,robots.txt
 https://linktr.ee/sodiedocesvilaolimpia,linktree,,2,incerto,blocked,,https://linktr.ee/sodiedocesvilaolimpia,,,2026-10-18T15:22:00Z,2026-11-08T16:36:40Z,,,,,,robots.txt
-https://linktr.ee/sodiemoema,linktree,,2,incerto,blocked,,https://linktr.ee/sodiemoema,,,2026-10-20T14:37:18Z,2026-11-03T17:21:40Z,,,,,,robots.txt
-https://linktr.ee/sodiesocrates,linktree,,2,incerto,blocked,,https://linktr.ee/sodiesocrates,,,2026-10-20T14:39:42Z,2026-11-03T17:25:10Z,,,,,,robots.txt
+https://linktr.ee/sodiemoema,linktree,,2,incerto,blocked,,https://linktr.ee/sodiemoema,,,2026-10-20T14:37:18Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/sodiesocrates,linktree,,2,incerto,blocked,,https://linktr.ee/sodiesocrates,,,2026-10-20T14:39:42Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/sonhosdoce2020,linktree,,2,incerto,blocked,,https://linktr.ee/sonhosdoce2020,,,2026-10-19T16:52:51Z,2026-11-09T16:58:56Z,,,,,,robots.txt
 https://linktr.ee/soulkitchenveg,linktree,,2,incerto,blocked,,https://linktr.ee/soulkitchenveg,,,2026-10-18T15:07:32Z,2026-11-08T16:24:03Z,,,,,,robots.txt
 https://linktr.ee/spelloburger,linktree,,2,incerto,blocked,,https://linktr.ee/spelloburger,,,2026-10-19T16:58:10Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/srdogcampinas,linktree,,2,incerto,blocked,,https://linktr.ee/srdogcampinas,,,2026-10-19T17:00:59Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/sstay_ssafe,linktree,,2,incerto,blocked,,https://linktr.ee/sstay_ssafe,,,2026-10-18T15:06:31Z,2026-11-08T16:23:08Z,,,,,,robots.txt
-https://linktr.ee/stadiumlanches,linktree,,2,incerto,blocked,,https://linktr.ee/stadiumlanches,,,2026-10-20T14:38:00Z,2026-11-03T17:23:16Z,,,,,,robots.txt
-https://linktr.ee/steenburgersp,linktree,,2,incerto,blocked,,https://linktr.ee/steenburgersp,,,2026-10-20T14:43:08Z,2026-11-03T17:27:56Z,,,,,,robots.txt
+https://linktr.ee/stadiumlanches,linktree,,2,incerto,blocked,,https://linktr.ee/stadiumlanches,,,2026-10-20T14:38:00Z,2026-11-10T17:18:29Z,,,,,,robots.txt
+https://linktr.ee/steenburgersp,linktree,,2,incerto,blocked,,https://linktr.ee/steenburgersp,,,2026-10-20T14:43:08Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/stockbrazilbistro,linktree,,2,incerto,blocked,,https://linktr.ee/stockbrazilbistro,,,2026-10-18T15:31:57Z,2026-11-09T16:38:41Z,,,,,,robots.txt
 https://linktr.ee/sublanche,linktree,,2,incerto,blocked,,https://linktr.ee/sublanche,,,2026-10-19T17:00:07Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/sucaria_acai?ltsid=25aeec35-eb53-4fcf-841d-dc6a2c9c2fd5,linktree,,2,incerto,blocked,,https://linktr.ee/sucaria_acai?ltsid=25aeec35-eb53-4fcf-841d-dc6a2c9c2fd5,,,2026-10-19T16:47:06Z,2026-11-09T16:54:26Z,,,,,,robots.txt
@@ -26582,7 +26582,7 @@ https://linktr.ee/sushyoficial,linktree,,2,incerto,blocked,,https://linktr.ee/su
 https://linktr.ee/tappicozinhaevinho,linktree,,2,incerto,blocked,,https://linktr.ee/tappicozinhaevinho,,,2026-10-18T15:25:43Z,2026-11-08T16:40:23Z,,,,,,robots.txt
 https://linktr.ee/tarantellapizzaria.marilia,linktree,,2,incerto,blocked,,https://linktr.ee/tarantellapizzaria.marilia,,,2026-10-19T16:53:21Z,2026-11-09T16:59:17Z,,,,,,robots.txt
 https://linktr.ee/tarbush_restaurante,linktree,,2,incerto,blocked,,https://linktr.ee/tarbush_restaurante,,,2026-10-19T17:00:50Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/taresushiepizza,linktree,,2,incerto,blocked,,https://linktr.ee/taresushiepizza,,,2026-10-20T14:37:08Z,2026-11-03T17:21:33Z,,,,,,robots.txt
+https://linktr.ee/taresushiepizza,linktree,,2,incerto,blocked,,https://linktr.ee/taresushiepizza,,,2026-10-20T14:37:08Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/tastyburguer,linktree,,2,incerto,blocked,,https://linktr.ee/tastyburguer,,,2026-10-19T16:55:17Z,2026-11-09T17:00:47Z,,,,,,robots.txt
 https://linktr.ee/tastyburguerbtu,linktree,,2,incerto,blocked,,https://linktr.ee/tastyburguerbtu,,,2026-10-19T16:48:32Z,2026-11-09T16:55:35Z,,,,,,robots.txt
 https://linktr.ee/tburgers,linktree,,2,incerto,blocked,,https://linktr.ee/tburgers,,,2026-10-18T14:42:07Z,2026-11-08T16:22:41Z,,,,,,robots.txt
@@ -26591,11 +26591,11 @@ https://linktr.ee/tedtodburger,linktree,,2,incerto,blocked,,https://linktr.ee/te
 https://linktr.ee/tega_burger,linktree,,2,incerto,blocked,,https://linktr.ee/tega_burger,,,2026-10-18T15:28:15Z,2026-11-08T16:42:54Z,,,,,,robots.txt
 https://linktr.ee/temakis.barueri,linktree,,2,incerto,blocked,,https://linktr.ee/temakis.barueri,,,2026-10-18T22:09:41Z,2026-11-09T16:48:32Z,,,,,,robots.txt
 https://linktr.ee/tempero.ancestral,linktree,,2,incerto,blocked,,https://linktr.ee/tempero.ancestral,,,2026-10-18T22:06:10Z,2026-11-09T16:45:14Z,,,,,,robots.txt
-https://linktr.ee/temperodatereza19,linktree,,2,incerto,blocked,,https://linktr.ee/temperodatereza19,,,2026-10-20T14:37:56Z,2026-11-03T17:23:12Z,,,,,,robots.txt
+https://linktr.ee/temperodatereza19,linktree,,2,incerto,blocked,,https://linktr.ee/temperodatereza19,,,2026-10-20T14:37:56Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/temperomineiro1,linktree,,2,incerto,blocked,,https://linktr.ee/temperomineiro1,,,2026-10-19T16:44:38Z,2026-11-09T16:52:17Z,,,,,,robots.txt
 https://linktr.ee/temperovegano1,linktree,,2,incerto,blocked,,https://linktr.ee/temperovegano1,,,2026-10-18T15:35:47Z,2026-11-09T16:41:50Z,,,,,,robots.txt
 https://linktr.ee/teneriffe,linktree,,2,incerto,blocked,,https://linktr.ee/teneriffe,,,2026-10-18T15:09:55Z,2026-11-08T16:26:09Z,,,,,,robots.txt
-https://linktr.ee/texasburguerbrasa,linktree,,2,incerto,blocked,,https://linktr.ee/texasburguerbrasa,,,2026-10-20T14:39:38Z,2026-11-03T17:25:06Z,,,,,,robots.txt
+https://linktr.ee/texasburguerbrasa,linktree,,2,incerto,blocked,,https://linktr.ee/texasburguerbrasa,,,2026-10-20T14:39:38Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/thatspizzas,linktree,,2,incerto,blocked,,https://linktr.ee/thatspizzas,,,2026-10-19T16:56:11Z,2026-11-09T17:01:32Z,,,,,,robots.txt
 https://linktr.ee/thebronksburger,linktree,,2,incerto,blocked,,https://linktr.ee/thebronksburger,,,2026-10-18T15:14:57Z,2026-11-08T16:29:37Z,,,,,,robots.txt
 https://linktr.ee/thejapabestburger,linktree,,2,incerto,blocked,,https://linktr.ee/thejapabestburger,,,2026-10-19T17:02:27Z,2026-11-09T17:02:35Z,,,,,,robots.txt
@@ -26610,7 +26610,7 @@ https://linktr.ee/topmixcompany,linktree,,2,incerto,blocked,,https://linktr.ee/t
 https://linktr.ee/toscana.focacceria,linktree,,2,incerto,blocked,,https://linktr.ee/toscana.focacceria,,,2026-10-19T16:53:55Z,2026-11-09T16:59:44Z,,,,,,robots.txt
 https://linktr.ee/tradicaodaesfiha,linktree,,2,incerto,blocked,,https://linktr.ee/tradicaodaesfiha,,,2026-10-19T16:52:21Z,2026-11-09T16:58:32Z,,,,,,robots.txt
 https://linktr.ee/tres_paineiras,linktree,,2,incerto,blocked,,https://linktr.ee/tres_paineiras,,,2026-10-18T15:08:29Z,2026-11-08T16:24:45Z,,,,,,robots.txt
-https://linktr.ee/trevisomogimirim,linktree,,2,incerto,blocked,,https://linktr.ee/trevisomogimirim,,,2026-10-20T14:37:26Z,2026-11-03T17:21:43Z,,,,,,robots.txt
+https://linktr.ee/trevisomogimirim,linktree,,2,incerto,blocked,,https://linktr.ee/trevisomogimirim,,,2026-10-20T14:37:26Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/trigopanepizza,linktree,,2,incerto,blocked,,https://linktr.ee/trigopanepizza,,,2026-10-18T15:15:39Z,2026-11-08T16:30:16Z,,,,,,robots.txt
 https://linktr.ee/tripbuffet,linktree,,2,incerto,blocked,,https://linktr.ee/tripbuffet,,,2026-10-19T16:41:59Z,2026-11-09T16:50:11Z,,,,,,robots.txt
 https://linktr.ee/tutiyasushibar,linktree,,2,incerto,blocked,,https://linktr.ee/tutiyasushibar,,,2026-10-18T15:28:52Z,2026-11-08T16:43:31Z,,,,,,robots.txt
@@ -26624,7 +26624,7 @@ https://linktr.ee/varolalanches,linktree,,2,incerto,blocked,,https://linktr.ee/v
 https://linktr.ee/vegetalle,linktree,,2,incerto,blocked,,https://linktr.ee/vegetalle,,,2026-10-18T15:13:48Z,2026-11-08T16:29:01Z,,,,,,robots.txt
 https://linktr.ee/viafico,linktree,,2,incerto,blocked,,https://linktr.ee/viafico,,,2026-10-18T15:29:25Z,2026-11-08T16:43:46Z,,,,,,robots.txt
 https://linktr.ee/vieira_lanches,linktree,,2,incerto,blocked,,https://linktr.ee/vieira_lanches,,,2026-10-18T15:33:15Z,2026-11-09T16:39:50Z,,,,,,robots.txt
-https://linktr.ee/vila_real,linktree,,2,incerto,blocked,,https://linktr.ee/vila_real,,,2026-10-20T14:37:01Z,2026-11-03T17:21:32Z,,,,,,robots.txt
+https://linktr.ee/vila_real,linktree,,2,incerto,blocked,,https://linktr.ee/vila_real,,,2026-10-20T14:37:01Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/vilacantareira,linktree,,2,incerto,blocked,,https://linktr.ee/vilacantareira,,,2026-10-18T15:09:15Z,2026-11-08T16:25:29Z,,,,,,robots.txt
 https://linktr.ee/viladobosquerestaurante,linktree,,2,incerto,blocked,,https://linktr.ee/viladobosquerestaurante,,,2026-10-18T15:33:35Z,2026-11-09T16:40:05Z,,,,,,robots.txt
 https://linktr.ee/vilagonzaga,linktree,,2,incerto,blocked,,https://linktr.ee/vilagonzaga,,,2026-10-18T15:25:07Z,2026-11-08T16:39:42Z,,,,,,robots.txt
@@ -26644,15 +26644,15 @@ https://linktr.ee/vovoformiga.aracatuba,linktree,,2,incerto,blocked,,https://lin
 https://linktr.ee/vovomineiropaodequeijo,linktree,,2,incerto,blocked,,https://linktr.ee/vovomineiropaodequeijo,,,2026-10-18T15:14:05Z,2026-11-08T16:29:07Z,,,,,,robots.txt
 https://linktr.ee/vovovegana,linktree,,2,incerto,blocked,,https://linktr.ee/vovovegana,,,2026-10-18T15:30:30Z,2026-11-08T16:44:10Z,,,,,,robots.txt
 https://linktr.ee/whatsapppantojo,linktree,,2,incerto,blocked,,https://linktr.ee/whatsapppantojo,,,2026-10-19T17:03:29Z,2026-11-09T17:02:35Z,,,,,,robots.txt
-https://linktr.ee/willfitcoach,linktree,,2,incerto,blocked,,https://linktr.ee/willfitcoach,,,2026-10-20T14:43:12Z,2026-11-03T17:28:02Z,,,,,,robots.txt
+https://linktr.ee/willfitcoach,linktree,,2,incerto,blocked,,https://linktr.ee/willfitcoach,,,2026-10-20T14:43:12Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/woodbarhortolandia,linktree,,2,incerto,blocked,,https://linktr.ee/woodbarhortolandia,,,2026-10-19T17:00:56Z,2026-11-09T17:02:35Z,,,,,,robots.txt
 https://linktr.ee/xequeburgerr,linktree,,2,incerto,blocked,,https://linktr.ee/xequeburgerr,,,2026-10-18T15:24:35Z,2026-11-08T16:39:12Z,,,,,,robots.txt
 https://linktr.ee/xhamburgueria,linktree,,2,incerto,blocked,,https://linktr.ee/xhamburgueria,,,2026-10-19T16:57:09Z,2026-11-09T17:02:14Z,,,,,,robots.txt
 https://linktr.ee/yellow.burgersedogs,linktree,,2,incerto,blocked,,https://linktr.ee/yellow.burgersedogs,,,2026-10-18T15:21:15Z,2026-11-08T16:35:55Z,,,,,,robots.txt
 https://linktr.ee/zanguinholanches,linktree,,2,incerto,blocked,,https://linktr.ee/zanguinholanches,,,2026-10-26T13:21:23Z,2026-11-09T16:37:56Z,,,,,,robots.txt
-https://linktr.ee/zarifecozinhaarabe,linktree,,2,incerto,blocked,,https://linktr.ee/zarifecozinhaarabe,,,2026-10-20T14:36:34Z,2026-11-03T17:21:30Z,,,,,,robots.txt
+https://linktr.ee/zarifecozinhaarabe,linktree,,2,incerto,blocked,,https://linktr.ee/zarifecozinhaarabe,,,2026-10-20T14:36:34Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/zero4hamburgueria,linktree,,2,incerto,blocked,,https://linktr.ee/zero4hamburgueria,,,2026-10-18T22:06:44Z,2026-11-09T16:45:44Z,,,,,,robots.txt
-https://linktr.ee/zumbadacarnedesol,linktree,,2,incerto,blocked,,https://linktr.ee/zumbadacarnedesol,,,2026-10-20T14:38:18Z,2026-11-03T17:23:22Z,,,,,,robots.txt
+https://linktr.ee/zumbadacarnedesol,linktree,,2,incerto,blocked,,https://linktr.ee/zumbadacarnedesol,,,2026-10-20T14:38:18Z,2026-11-10T17:18:29Z,,,,,,robots.txt
 https://linktr.ee/zumorestaurantekaraoke,linktree,,2,incerto,blocked,,https://linktr.ee/zumorestaurantekaraoke,,,2026-10-19T16:55:11Z,2026-11-09T17:00:44Z,,,,,,robots.txt
 https://linktree.com.br/,site,,1,quebrado,conn,,https://linktree.com.br/,2,2026-10-27,2026-10-26T14:09:31Z,2026-10-27T15:33:40Z,,,,,,conn:gaierror
 https://linktree.com.br/new/Padaria_Silva,site,,2,quebrado,conn,,https://linktree.com.br/new/Padaria_Silva,2,2026-10-19,2026-10-18T15:05:37Z,2026-10-19T16:41:36Z,,,,,,conn:gaierror
