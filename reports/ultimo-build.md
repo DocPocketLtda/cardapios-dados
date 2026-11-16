@@ -1,22 +1,22 @@
-# Relatório do build (09/11/2026 17:04 UTC)
+# Relatório do build (16/11/2026 16:31 UTC)
 
 ## Regiões
 
 | Região | Linhas antes | Linhas agora | Restaurantes | Entraram | Saíram | Tamanho |
 |---|---:|---:|---:|---:|---:|---:|
 | `sp/grande-sp` | 2460 | 2460 | 2456 | 0 | 0 | 848 KB |
-| `sp/capital` | 6772 | 6772 | 6758 | 0 | 0 | 2088 KB |
-| `sp/metropolitana` | 2633 | 2634 | 2628 | 1 | 0 | 787 KB |
-| `sp/campinas` | 1477 | 1477 | 1474 | 0 | 0 | 432 KB |
-| `sp/litoral` | 871 | 871 | 870 | 0 | 0 | 255 KB |
+| `sp/capital` | 6772 | 6775 | 6761 | 3 | 0 | 2089 KB |
+| `sp/metropolitana` | 2634 | 2637 | 2631 | 3 | 0 | 788 KB |
+| `sp/campinas` | 1477 | 1480 | 1477 | 3 | 0 | 433 KB |
+| `sp/litoral` | 871 | 875 | 873 | 3 | 0 | 256 KB |
 | `sp/jundiai` | 685 | 685 | 684 | 0 | 0 | 201 KB |
-| `sp/sorocaba` | 674 | 674 | 666 | 0 | 0 | 196 KB |
-| `sp/vale-do-paraiba` | 853 | 854 | 849 | 1 | 0 | 262 KB |
+| `sp/sorocaba` | 674 | 676 | 668 | 2 | 0 | 197 KB |
+| `sp/vale-do-paraiba` | 854 | 856 | 851 | 2 | 0 | 262 KB |
 | `sp/piracicaba` | 725 | 725 | 721 | 0 | 0 | 212 KB |
-| `sp/ribeirao-preto` | 744 | 744 | 738 | 0 | 0 | 221 KB |
+| `sp/ribeirao-preto` | 744 | 745 | 739 | 1 | 0 | 221 KB |
 | `sp/araraquara` | 418 | 418 | 415 | 0 | 0 | 124 KB |
-| `sp/bauru` | 416 | 416 | 413 | 0 | 0 | 120 KB |
-| `sp/marilia` | 293 | 293 | 290 | 0 | 0 | 85 KB |
+| `sp/bauru` | 416 | 417 | 414 | 1 | 0 | 120 KB |
+| `sp/marilia` | 293 | 294 | 291 | 1 | 0 | 85 KB |
 | `sp/presidente-prudente` | 150 | 150 | 150 | 0 | 0 | 46 KB |
 | `sp/aracatuba` | 241 | 241 | 241 | 0 | 0 | 71 KB |
 | `sp/sao-jose-do-rio-preto` | 464 | 464 | 461 | 0 | 0 | 142 KB |
@@ -26,20 +26,20 @@
 
 | Origem:status | Linhas |
 |---|---:|
-| overture:falhando | 1 |
-| overture:incerto | 4484 |
-| overture:ok | 14006 |
-| overture:omitidas | 46929 |
+| overture:incerto | 4460 |
+| overture:ok | 14026 |
+| overture:omitidas | 46909 |
 | overture:pendente | 32754 |
-| overture:quebrado | 10397 |
-| overture:reparadas | 3939 |
+| overture:quebrado | 10402 |
+| overture:reparadas | 3944 |
 | overture:sem link | 382 |
-| planilha:incerto | 108 |
-| planilha:ok | 2323 |
+| planilha:falhando | 1 |
+| planilha:incerto | 103 |
+| planilha:ok | 2326 |
 | planilha:omitidas | 18 |
-| planilha:pendente | 29 |
+| planilha:pendente | 30 |
 | planilha:quebrado | 18 |
-| planilha:reparadas | 80 |
+| planilha:reparadas | 82 |
 
 ## Merge
 
@@ -76,7 +76,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | 5690 | Coracao Mineiro | https://coracaomineiro.com.br/ |
 | 6830 | Yug Sushi | https://eatyug.com.br/wp-content/uploads/2026/06/yug-menu-online.pdf |
 
-## Links trocados automaticamente (4019)
+## Links trocados automaticamente (4026)
 
 | Nome | Antes | Depois | Como |
 |---|---|---|---|
@@ -87,6 +87,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Coco bambu - JK | https://cardapio.cocobambu.com/cardapio/40/2da73d36-f894-4980-9d30-6366b7ae47cf | https://cocobambu.com/ | site |
 | Coco bambu - JK | https://cardapio.cocobambu.com/cardapio/40/7c03b71b-fb5d-48e3-b495-4e61a8b22812 | https://cocobambu.com/ | site |
 | Bullguer | http://bullguer.com/berrini/ | https://bullguer.com/cardapio | pagina-cardapio |
+| Burger Lab Experience Itaim | http://burgerlab.com.br/experience | http://burgerlab.com.br/ | site |
 | Forneria Capannone | http://capannone.com.br/ | https://www.facebook.com/123275121114732 | rede social |
 | Fry's | http://centernorte.com.br/gourmet.asp | http://centernorte.com.br/cardapio.pdf | pagina-cardapio |
 | Coffee and Co. | http://coffeeandco.com.br/ | https://fillmorebr.com/menu.pdf | pagina-cardapio |
@@ -102,6 +103,7 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Bar Salvador | http://www.barsalvador.com.br/ | https://www.facebook.com/147708238572628 | rede social |
 | Casa Bauducco | http://www.bauducco.com.br/casabauducco | http://www.bauducco.com.br/menu | pagina-cardapio |
 | Casa Bauducco Shopping Morumbi | http://www.bauducco.com.br/casabauducco | http://www.bauducco.com.br/menu | pagina-cardapio |
+| Blooming Burger | http://www.bloomingburger.com.br/ | https://www.facebook.com/207134085985932 | rede social |
 | Boteco São Bento | https://www.dguests.com.br/cardapio/saobentovilamadalena | https://www.dguests.com.br/cardapio.pdf | pagina-cardapio |
 | By Koji | https://bykojirestaurante.com.br/wp-content/uploads/2023/03/cardapio_koji_morumbi.pdf | https://bykojirestaurante.com.br/menu | pagina-cardapio |
 | Natural Das Anas | http://www.cachoeiratropical.com.br/site2/ | http://www.cachoeiratropical.com.br/ | site |
@@ -371,12 +373,10 @@ Corrija o `menu_link` na planilha ou marque `travar_link=TRUE` se o link estiver
 | Casimiro Ristorante dal Tatini | https://casimiroristorante.com.br/ | https://casimiroristorante.com.br/cardapio | pagina-cardapio |
 | Kaizen Japanese Food | http://www.kaizenjapanese.com.br/ | https://www.kaizenjapanese.com.br/restaurante-japones-campinas-menu | pagina-cardapio |
 | McDonald's | http://www.mcdonalds.com.br/ | https://www.mcdonalds.com.br/cardapio | pagina-cardapio |
+| Rei do Frango Passarinho | http://www.oreidofrangoapassarinho.com.br/ | https://app.anota.ai/m/Lcvt9R_Gw | plataforma-no-site |
 | Nampin Restaurante Vegano | https://nampinvegetariano.wordpress.com/ | https://nampinvegetariano.wordpress.com/2016/08/22/cardapio-delivery-semana-220816/ | pagina-cardapio |
 | Favos D'Mel | http://www.favosdmel.com.br/ | http://padariafavosdmel.com.br/site/cardapio-de-natal/ | pagina-cardapio |
 | Zuphen Gastrobar | http://www.zuphen.com.br/ | https://www.goomer.app/zuphen-gastrobar | plataforma-no-site |
 | McDonald's | http://www.mcdonalds.com.br/ | https://www.mcdonalds.com.br/cardapio | pagina-cardapio |
 | Pizza Uno | http://www.pizzauno.com.br | http://www.pizzauno.com.br/menu.html | pagina-cardapio |
 | Bellini | http://www.belliniristorante.com.br | https://belliniristorante.com.br/wp-content/uploads/2026/07/Bellini-Menu-2026-1.pdf | pagina-cardapio |
-| AUST Steakhouse | http://www.auststeakhouse.com.br/ | https://auststeakhouse.com.br/cardapio/ | pagina-cardapio |
-| Forneiro Churrasco & Pizza | http://www.restauranteforneiro.com.br/ | https://forneiro.com.br/menu/ | pagina-cardapio |
-| McDonald's | http://www.mcdonalds.com.br/ | https://www.mcdonalds.com.br/cardapio | pagina-cardapio |

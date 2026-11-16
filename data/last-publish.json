@@ -1,107 +1,107 @@
 {
-  "generated_at": "2026-11-09T17:04:17Z",
+  "generated_at": "2026-11-16T16:31:22Z",
   "regions": {
     "sp/grande-sp": {
       "rows": 2460,
       "restaurants": 2456,
-      "sha256": "6390dea1805db28b1b2fa6861700a8d94276605e92d0247f41a3b702b00da1a2",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "sha256": "0ced3fd4ea4712b11c1ce820e793404bedc9fa90104809f9d7159f40ff544a5b",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/capital": {
-      "rows": 6772,
-      "restaurants": 6758,
-      "sha256": "645b8e87a4d38ad90fdd492ffd4e70d556e4c3e5c1f248f73cf143badf13c54b",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "rows": 6775,
+      "restaurants": 6761,
+      "sha256": "d5d2a391eca8ab1f13cf13b1588d687100a9fdb5d410c6a438034352e934d18a",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/metropolitana": {
-      "rows": 2634,
-      "restaurants": 2628,
-      "sha256": "d36bcdaa7ec96387102db2a2ae3dabb20199f56d03391abd6bfb2c15f3ccee08",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "rows": 2637,
+      "restaurants": 2631,
+      "sha256": "9a68aa20c411414829c92939a004e1c2ea0d35cefb9e6492f3677a45e8e1cc90",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/campinas": {
-      "rows": 1477,
-      "restaurants": 1474,
-      "sha256": "b65fdb90cfe7bcbb47a18b9307b3bf6baccb772ad4c08f1df668792cdc20549e",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "rows": 1480,
+      "restaurants": 1477,
+      "sha256": "0a5e2c8559f817692e7b7da373003aa6739d523ef32b022b6da8866701e62734",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/litoral": {
-      "rows": 871,
-      "restaurants": 870,
-      "sha256": "296e4139e7bdfbf45207215d0ae2925dc6555e7814e47880cc74e1d5f43f0310",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "rows": 875,
+      "restaurants": 873,
+      "sha256": "c036128ff6b46abe6a7fe92fa37d7312842c987863ac9f8d9b5336215be183d1",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/jundiai": {
       "rows": 685,
       "restaurants": 684,
-      "sha256": "c67b144f702bccbdb7d1dca12f0938e1327663b52e0f4faf888aba5240806e15",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "sha256": "21aaf2ae61d3b9f4543d96e65e4fd6d0f80a25f2e86b7a96b99f38dcc36f6637",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/sorocaba": {
-      "rows": 674,
-      "restaurants": 666,
-      "sha256": "9d7d53e56390bc64361d1dc1bfc1e29521a497b36a0b2b4504dc31598e82e6c7",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "rows": 676,
+      "restaurants": 668,
+      "sha256": "c264a9d2d154e57a3a37c4da826a104b32897a76ac8b4f038641c64a3a99ac81",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/vale-do-paraiba": {
-      "rows": 854,
-      "restaurants": 849,
-      "sha256": "146324e8cca37121be56eae457a6ab7ed0706a94b3041b48e751016cec5698d3",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "rows": 856,
+      "restaurants": 851,
+      "sha256": "ee7fcacc9fc7f5b611fa6195f7ba440496c398e3f2d93fd04f338ff9c51e03dd",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/piracicaba": {
       "rows": 725,
       "restaurants": 721,
-      "sha256": "e61f91698ae35e2643287b8c1658677bb48e9b22c389bebd1c60811bb8b8d33b",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "sha256": "b83ae3d4f6964f72a5185b1ff7fbf6a7da4209b5947cc7f2c2da12cc8340baae",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/ribeirao-preto": {
-      "rows": 744,
-      "restaurants": 738,
-      "sha256": "4be2d1d0c1ad3a3407411b5de64d5f414d8ac381000f5a78ac1ca177c6334b22",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "rows": 745,
+      "restaurants": 739,
+      "sha256": "e545f9a0292dfb7b01992d00b73694e0fe08260d628ffa5273660de76d92a274",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/araraquara": {
       "rows": 418,
       "restaurants": 415,
-      "sha256": "f26467dd0e65a599e6988d0be671c2f4c5e7712955414aa8a7e95c71e6b49d48",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "sha256": "5b9aef67526caabe8a60c8e0748c2e402e3a995edd24402255d5d4b7dacb71b0",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/bauru": {
-      "rows": 416,
-      "restaurants": 413,
-      "sha256": "bdd7e91f22628d109892254e824f44d7aef5db77b918229ef3dc5ddec7f56fd7",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "rows": 417,
+      "restaurants": 414,
+      "sha256": "c498da5c30f0760fb885392b1237f244ee782a7fe2a06634c52fb9623de7758a",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/marilia": {
-      "rows": 293,
-      "restaurants": 290,
-      "sha256": "7214750c40f2ba6501cb164d0cbb983d578a5e327b6d2f11baa089fdce094bd4",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "rows": 294,
+      "restaurants": 291,
+      "sha256": "c8d555ecb58ef169de2fc8cfd67413c3c2a8d9ee1233618c935a5b03732c3389",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/presidente-prudente": {
       "rows": 150,
       "restaurants": 150,
-      "sha256": "3a0d240b795afd66174312233666640f27f261964f0a17a4881811fde69c0d25",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "sha256": "55ecd81ba94fc6751b0915e0f97a9234b0684adb4d2e5a3f1e973d1c1aac7f03",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/aracatuba": {
       "rows": 241,
       "restaurants": 241,
-      "sha256": "39e8967058dd49c55202af5ba883a234e8793aff8cd47ab04936b532d61b2da6",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "sha256": "f38189a16ac10a984f228fe0fe93b9fa5dd1f21ee74cde598d53f98003c37044",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/sao-jose-do-rio-preto": {
       "rows": 464,
       "restaurants": 461,
-      "sha256": "3d58a5bf5bf0e10aaed6b3d2e9d891d720e8fe915836001df4bbcb7ccd546c48",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "sha256": "b19c0edb4306daf912c397a9bbc7074ac9df0f1ba681dee19cba9249063f22e0",
+      "updated_at": "2026-11-16T16:31:19Z"
     },
     "sp/vale-do-ribeira": {
       "rows": 137,
       "restaurants": 137,
-      "sha256": "5493e9bde098bc2e738f800e38df871a4e5cfd3056d6d2eb360dcbbea7e9c1a7",
-      "updated_at": "2026-11-09T17:04:14Z"
+      "sha256": "bc776fa03d4e31e2c95dbf6dbb82374b879c8096b8bb010a9990cc26cd4313b0",
+      "updated_at": "2026-11-16T16:31:19Z"
     }
   }
 }
